@@ -2,49 +2,49 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {1.1}{\ignorespaces Organigrama MEN}}{15}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces ADM \cite {archi3.1,a1,a2,a3,a4}}}{26}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces ADM \cite {archi3.1,a1,a2,a3,a4}}}{27}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Marco completo de ArchiMate}}{30}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Modelo de Organización}}{59}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Modelo de Organización}}{60}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces vista de comportamiento de aplicación}}{62}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces vista de cooperacion de aplicación}}{62}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces vista de estructura de aplicación}}{63}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Metamodelo de uso de infraestructura}}{64}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Modelo de uso de infraestructura}}{64}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Metamodelo de implementación y despliegue}}{65}%
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Modelo de implementación y despliegue}}{65}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Marco completo de ArchiMate}}{32}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Modelo de Organización}}{61}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Modelo de Organización}}{62}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces vista de comportamiento de aplicación}}{64}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces vista de cooperacion de aplicación}}{64}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces vista de estructura de aplicación}}{65}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Metamodelo de uso de infraestructura}}{66}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Modelo de uso de infraestructura}}{66}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Metamodelo de implementación y despliegue}}{67}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Modelo de implementación y despliegue}}{67}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Metamodelo Motivacional}}{69}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Modelo Implicados}}{70}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Caso Implicados}}{71}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Modelo Realización de Objetivos}}{72}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Caso Realización de Objetivos}}{73}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Metamodelo Motivacional}}{71}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Modelo Implicados}}{72}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Caso Implicados}}{73}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Modelo Realización de Objetivos}}{74}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Caso Realización de Objetivos}}{75}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Metamodelo Motivacional}}{76}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Modelo Mapa de Capacidad}}{77}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Caso Mapa de Capacidad}}{78}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Metamodelo Motivacional}}{78}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Modelo Mapa de Capacidad}}{79}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Caso Mapa de Capacidad}}{80}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Metamodelo Negocio}}{80}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Modelo Organizacion}}{81}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Caso Organizacion}}{82}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Metamodelo Negocio}}{82}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Modelo Organizacion}}{83}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Caso Organizacion}}{84}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1}{\ignorespaces Metamodelo Aplicacion}}{84}%
-\contentsline {figure}{\numberline {7.2}{\ignorespaces Modelo Comportamiento de Aplicacion}}{85}%
-\contentsline {figure}{\numberline {7.3}{\ignorespaces Caso Comportamiento de Aplicacion}}{86}%
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Metamodelo Aplicacion}}{86}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Modelo Comportamiento de Aplicacion}}{87}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Caso Comportamiento de Aplicacion}}{88}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {8.1}{\ignorespaces Metamodelo Tecnologia}}{88}%
-\contentsline {figure}{\numberline {8.2}{\ignorespaces Modelo Implementacion y Despliegue}}{89}%
-\contentsline {figure}{\numberline {8.3}{\ignorespaces Caso Implementacion y Despliegue}}{90}%
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Metamodelo Tecnologia}}{90}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Modelo Implementacion y Despliegue}}{91}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Caso Implementacion y Despliegue}}{92}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {9.1}{\ignorespaces Metamodelo Proyecto}}{92}%
-\contentsline {figure}{\numberline {9.2}{\ignorespaces Modelo Proyecto}}{93}%
-\contentsline {figure}{\numberline {9.3}{\ignorespaces Caso Proyecto}}{94}%
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Metamodelo Proyecto}}{94}%
+\contentsline {figure}{\numberline {9.2}{\ignorespaces Modelo Proyecto}}{95}%
+\contentsline {figure}{\numberline {9.3}{\ignorespaces Caso Proyecto}}{96}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {10.1}{\ignorespaces Modelo de Realizacion Singleton}}{98}%
-\contentsline {figure}{\numberline {10.2}{\ignorespaces Modelo de Funcion Singleton}}{98}%
-\contentsline {figure}{\numberline {10.3}{\ignorespaces Modelo de Estructura Singleton}}{99}%
-\contentsline {figure}{\numberline {10.4}{\ignorespaces Caso de Realizacion Singleton}}{99}%
-\contentsline {figure}{\numberline {10.5}{\ignorespaces Caso de Funcion Singleton}}{100}%
-\contentsline {figure}{\numberline {10.6}{\ignorespaces Caso de Estructura Singleton}}{100}%
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Modelo de Realizacion Singleton}}{100}%
+\contentsline {figure}{\numberline {10.2}{\ignorespaces Modelo de Funcion Singleton}}{100}%
+\contentsline {figure}{\numberline {10.3}{\ignorespaces Modelo de Estructura Singleton}}{101}%
+\contentsline {figure}{\numberline {10.4}{\ignorespaces Caso de Realizacion Singleton}}{101}%
+\contentsline {figure}{\numberline {10.5}{\ignorespaces Caso de Funcion Singleton}}{102}%
+\contentsline {figure}{\numberline {10.6}{\ignorespaces Caso de Estructura Singleton}}{102}%
 \addvspace {10\p@ }

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.5)  29 OCT 2020 20:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.5)  29 OCT 2020 21:37
 entering extended mode
 **./info.tex
 (info.tex
@@ -562,75 +562,110 @@ LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [24]
 Cap\'{\i }tulo 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
 [25
 
 ]
-<imgs/adm.png, id=90, 416.30531pt x 368.1253pt>
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+[26]
+<imgs/adm.png, id=93, 416.30531pt x 368.1253pt>
 File: imgs/adm.png Graphic file (type png)
 <use imgs/adm.png>
-Package pdftex.def Info: imgs/adm.png  used on input line 9.
+Package pdftex.def Info: imgs/adm.png  used on input line 29.
 (pdftex.def)             Requested size: 360.0pt x 318.35098pt.
 )
 LaTeX Info: Redefining \. on input line 70.
 LaTeX Info: Redefining \% on input line 70.
- [26 <./imgs/adm.png>] [27
+ [27 <./imgs/adm.png>]
+LaTeX Info: Redefining \. on input line 70.
+LaTeX Info: Redefining \% on input line 70.
+ [28
 
-] [28] (arquitectura/lenguaje.tex
+] [29] [30] (arquitectura/lenguaje.tex
 Cap\'{\i }tulo 3.
-[29
+[31
 
 ]
-<imgs/coreFramwork.jpg, id=103, 432.61626pt x 321.2pt>
+<imgs/coreFramwork.jpg, id=110, 432.61626pt x 321.2pt>
 File: imgs/coreFramwork.jpg Graphic file (type jpg)
 <use imgs/coreFramwork.jpg>
 Package pdftex.def Info: imgs/coreFramwork.jpg  used on input line 7.
 (pdftex.def)             Requested size: 251.9989pt x 187.09991pt.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
- [30 <./imgs/coreFramwork.jpg>] (arquitectura/lenguaje/conceptos/meta.tex
+ [32 <./imgs/coreFramwork.jpg>] (arquitectura/lenguaje/conceptos/meta.tex
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
 
-[31]
-<imgs/conceptos/meta/Motivacion.png, id=111, 123.46124pt x 54.2025pt>
+[33]
+<imgs/conceptos/meta/Motivacion.png, id=117, 123.46124pt x 54.2025pt>
 File: imgs/conceptos/meta/Motivacion.png Graphic file (type png)
 <use imgs/conceptos/meta/Motivacion.png>
 Package pdftex.def Info: imgs/conceptos/meta/Motivacion.png  used on input line
  16.
 (pdftex.def)             Requested size: 68.29007pt x 27.07222pt.
-<imgs/conceptos/meta/Estructura.png, id=113, 116.68594pt x 51.94406pt>
+<imgs/conceptos/meta/Estructura.png, id=119, 116.68594pt x 51.94406pt>
 File: imgs/conceptos/meta/Estructura.png Graphic file (type png)
 <use imgs/conceptos/meta/Estructura.png>
 Package pdftex.def Info: imgs/conceptos/meta/Estructura.png  used on input line
  23.
 (pdftex.def)             Requested size: 68.28857pt x 27.07129pt.
-<imgs/conceptos/meta/EstructuraActiva.png, id=114, 158.84344pt x 51.19125pt>
+<imgs/conceptos/meta/EstructuraActiva.png, id=120, 158.84344pt x 51.19125pt>
 File: imgs/conceptos/meta/EstructuraActiva.png Graphic file (type png)
 <use imgs/conceptos/meta/EstructuraActiva.png>
 Package pdftex.def Info: imgs/conceptos/meta/EstructuraActiva.png  used on inpu
 t line 30.
 (pdftex.def)             Requested size: 68.28922pt x 27.07185pt.
-<imgs/conceptos/meta/EstructuraActivaExterna.png, id=115, 206.27063pt x 47.4271
+<imgs/conceptos/meta/EstructuraActivaExterna.png, id=121, 206.27063pt x 47.4271
 9pt>
 File: imgs/conceptos/meta/EstructuraActivaExterna.png Graphic file (type png)
 <use imgs/conceptos/meta/EstructuraActivaExterna.png>
 Package pdftex.def Info: imgs/conceptos/meta/EstructuraActivaExterna.png  used 
 on input line 37.
 (pdftex.def)             Requested size: 68.28668pt x 27.07211pt.
-<imgs/conceptos/meta/EstructuraActivaInterna.PNG, id=116, 206.27063pt x 52.6968
+<imgs/conceptos/meta/EstructuraActivaInterna.PNG, id=122, 206.27063pt x 52.6968
 7pt>
 File: imgs/conceptos/meta/EstructuraActivaInterna.PNG Graphic file (type png)
 <use imgs/conceptos/meta/EstructuraActivaInterna.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/EstructuraActivaInterna.PNG  used 
 on input line 44.
 (pdftex.def)             Requested size: 68.28668pt x 27.07204pt.
-<imgs/conceptos/meta/EstructuraPasiva.PNG, id=117, 158.09062pt x 48.93282pt>
+<imgs/conceptos/meta/EstructuraPasiva.PNG, id=123, 158.09062pt x 48.93282pt>
 File: imgs/conceptos/meta/EstructuraPasiva.PNG Graphic file (type png)
 <use imgs/conceptos/meta/EstructuraPasiva.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/EstructuraPasiva.PNG  used on inpu
 t line 51.
 (pdftex.def)             Requested size: 68.2864pt x 27.07216pt.
-<imgs/conceptos/meta/Interface.PNG, id=118, 62.48344pt x 61.73062pt>
+<imgs/conceptos/meta/Interface.PNG, id=124, 62.48344pt x 61.73062pt>
 File: imgs/conceptos/meta/Interface.PNG Graphic file (type png)
 <use imgs/conceptos/meta/Interface.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/Interface.PNG  used on input line 
@@ -641,13 +676,13 @@ Overfull \hbox (4.28867pt too wide) in paragraph at lines 63--64
 []|\OT1/cmr/m/n/10.95 Comportamiento| 
  []
 
-<imgs/conceptos/meta/Comportamiento.PNG, id=119, 151.3153pt x 49.68562pt>
+<imgs/conceptos/meta/Comportamiento.PNG, id=125, 151.3153pt x 49.68562pt>
 File: imgs/conceptos/meta/Comportamiento.PNG Graphic file (type png)
 <use imgs/conceptos/meta/Comportamiento.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/Comportamiento.PNG  used on input 
 line 66.
 (pdftex.def)             Requested size: 68.2875pt x 27.07243pt.
-<imgs/conceptos/meta/Evento.PNG, id=120, 108.405pt x 49.68562pt>
+<imgs/conceptos/meta/Evento.PNG, id=126, 108.405pt x 49.68562pt>
 File: imgs/conceptos/meta/Evento.PNG Graphic file (type png)
 <use imgs/conceptos/meta/Evento.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/Evento.PNG  used on input line 73.
@@ -663,7 +698,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--78
 \OT1/cmr/m/n/10.95 com-por-ta-mien-
  []
 
-<imgs/conceptos/meta/ComportamientoInterno.PNG, id=121, 197.98969pt x 48.18pt>
+<imgs/conceptos/meta/ComportamientoInterno.PNG, id=127, 197.98969pt x 48.18pt>
 File: imgs/conceptos/meta/ComportamientoInterno.PNG Graphic file (type png)
 <use imgs/conceptos/meta/ComportamientoInterno.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/ComportamientoInterno.PNG  used on
@@ -676,31 +711,31 @@ Overfull \hbox (38.77771pt too wide) in paragraph at lines 8--85
 
 LaTeX Info: Redefining \. on input line 87.
 LaTeX Info: Redefining \% on input line 87.
-[32 <./imgs/conceptos/meta/Motivacion.png> <./imgs/conceptos/meta/Estructura.pn
+[34 <./imgs/conceptos/meta/Motivacion.png> <./imgs/conceptos/meta/Estructura.pn
 g> <./imgs/conceptos/meta/EstructuraActiva.png> <./imgs/conceptos/meta/Estructu
 raActivaExterna.png> <./imgs/conceptos/meta/EstructuraActivaInterna.PNG> <./img
 s/conceptos/meta/EstructuraPasiva.PNG> <./imgs/conceptos/meta/Interface.PNG> <.
 /imgs/conceptos/meta/Comportamiento.PNG> <./imgs/conceptos/meta/Evento.PNG> <./
 imgs/conceptos/meta/ComportamientoInterno.PNG>]
-<imgs/conceptos/meta/Servicio.PNG, id=135, 111.41624pt x 50.43843pt>
+<imgs/conceptos/meta/Servicio.PNG, id=141, 111.41624pt x 50.43843pt>
 File: imgs/conceptos/meta/Servicio.PNG Graphic file (type png)
 <use imgs/conceptos/meta/Servicio.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/Servicio.PNG  used on input line 9
 9.
 (pdftex.def)             Requested size: 68.28682pt x 27.07162pt.
-<imgs/conceptos/meta/Funcion.PNG, id=136, 51.19125pt x 60.225pt>
+<imgs/conceptos/meta/Funcion.PNG, id=142, 51.19125pt x 60.225pt>
 File: imgs/conceptos/meta/Funcion.PNG Graphic file (type png)
 <use imgs/conceptos/meta/Funcion.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/Funcion.PNG  used on input line 10
 6.
 (pdftex.def)             Requested size: 68.29126pt x 27.07158pt.
-<imgs/conceptos/meta/Proceso.PNG, id=137, 57.96657pt x 64.74188pt>
+<imgs/conceptos/meta/Proceso.PNG, id=143, 57.96657pt x 64.74188pt>
 File: imgs/conceptos/meta/Proceso.PNG Graphic file (type png)
 <use imgs/conceptos/meta/Proceso.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/Proceso.PNG  used on input line 11
 3.
 (pdftex.def)             Requested size: 68.29291pt x 27.07185pt.
-<imgs/conceptos/meta/Interaccion.PNG, id=138, 71.51718pt x 63.23625pt>
+<imgs/conceptos/meta/Interaccion.PNG, id=144, 71.51718pt x 63.23625pt>
 File: imgs/conceptos/meta/Interaccion.PNG Graphic file (type png)
 <use imgs/conceptos/meta/Interaccion.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/Interaccion.PNG  used on input lin
@@ -711,7 +746,7 @@ Underfull \hbox (badness 1953) in paragraph at lines 126--127
 \OT1/cmr/m/n/10.95 ele-men-tos es-truc-tu-ras ac-ti-vas in-ter-nas,
  []
 
-<imgs/conceptos/meta/Colaboracion.PNG, id=139, 85.06781pt x 63.23625pt>
+<imgs/conceptos/meta/Colaboracion.PNG, id=145, 85.06781pt x 63.23625pt>
 File: imgs/conceptos/meta/Colaboracion.PNG Graphic file (type png)
 <use imgs/conceptos/meta/Colaboracion.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/Colaboracion.PNG  used on input li
@@ -732,7 +767,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 131--132
 \OT1/cmr/m/n/10.95 ta-mien-to
  []
 
-<imgs/conceptos/meta/ComportamientoExterno.PNG, id=140, 203.25937pt x 49.68562p
+<imgs/conceptos/meta/ComportamientoExterno.PNG, id=146, 203.25937pt x 49.68562p
 t>
 File: imgs/conceptos/meta/ComportamientoExterno.PNG Graphic file (type png)
 <use imgs/conceptos/meta/ComportamientoExterno.PNG>
@@ -744,7 +779,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 139--140
 []|\OT1/cmr/m/n/10.95 Elementos
  []
 
-<imgs/conceptos/meta/Compuesto.PNG, id=141, 118.94438pt x 48.93282pt>
+<imgs/conceptos/meta/Compuesto.PNG, id=147, 118.94438pt x 48.93282pt>
 File: imgs/conceptos/meta/Compuesto.PNG Graphic file (type png)
 <use imgs/conceptos/meta/Compuesto.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/Compuesto.PNG  used on input line 
@@ -758,44 +793,44 @@ Overfull \hbox (27.82768pt too wide) in paragraph at lines 90--148
 ) (arquitectura/lenguaje/conceptos/motivacion.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [33 <./imgs/conceptos/meta/Servicio.PNG> <./imgs/conceptos/meta/Funcion.PNG> <
+ [35 <./imgs/conceptos/meta/Servicio.PNG> <./imgs/conceptos/meta/Funcion.PNG> <
 ./imgs/conceptos/meta/Proceso.PNG> <./imgs/conceptos/meta/Interaccion.PNG> <./i
 mgs/conceptos/meta/Colaboracion.PNG> <./imgs/conceptos/meta/ComportamientoExter
 no.PNG> <./imgs/conceptos/meta/Compuesto.PNG>]
-<imgs/Elementos/Motivacion.PNG, id=152, 98.3675pt x 44.165pt>
+<imgs/Elementos/Motivacion.PNG, id=158, 98.3675pt x 44.165pt>
 File: imgs/Elementos/Motivacion.PNG Graphic file (type png)
 <use imgs/Elementos/Motivacion.PNG>
 Package pdftex.def Info: imgs/Elementos/Motivacion.PNG  used on input line 9.
 (pdftex.def)             Requested size: 45.52426pt x 27.072pt.
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
- [34 <./imgs/Elementos/Motivacion.PNG (PNG copy)>]
-<imgs/Elementos/Implicado.PNG, id=156, 91.34125pt x 44.165pt>
+ [36 <./imgs/Elementos/Motivacion.PNG (PNG copy)>]
+<imgs/Elementos/Implicado.PNG, id=162, 91.34125pt x 44.165pt>
 File: imgs/Elementos/Implicado.PNG Graphic file (type png)
 <use imgs/Elementos/Implicado.PNG>
 Package pdftex.def Info: imgs/Elementos/Implicado.PNG  used on input line 27.
 (pdftex.def)             Requested size: 68.28972pt x 27.072pt.
-<imgs/Elementos/Manejador.PNG, id=157, 97.36375pt x 44.165pt>
+<imgs/Elementos/Manejador.PNG, id=163, 97.36375pt x 44.165pt>
 File: imgs/Elementos/Manejador.PNG Graphic file (type png)
 <use imgs/Elementos/Manejador.PNG>
 Package pdftex.def Info: imgs/Elementos/Manejador.PNG  used on input line 33.
 (pdftex.def)             Requested size: 68.28934pt x 27.072pt.
-<imgs/Elementos/Valoracion.PNG, id=158, 96.36pt x 44.165pt>
+<imgs/Elementos/Valoracion.PNG, id=164, 96.36pt x 44.165pt>
 File: imgs/Elementos/Valoracion.PNG Graphic file (type png)
 <use imgs/Elementos/Valoracion.PNG>
 Package pdftex.def Info: imgs/Elementos/Valoracion.PNG  used on input line 39.
 (pdftex.def)             Requested size: 68.28667pt x 27.072pt.
-<imgs/Elementos/Objetivo.PNG, id=159, 87.32625pt x 44.165pt>
+<imgs/Elementos/Objetivo.PNG, id=165, 87.32625pt x 44.165pt>
 File: imgs/Elementos/Objetivo.PNG Graphic file (type png)
 <use imgs/Elementos/Objetivo.PNG>
 Package pdftex.def Info: imgs/Elementos/Objetivo.PNG  used on input line 45.
 (pdftex.def)             Requested size: 68.29008pt x 27.072pt.
-<imgs/Elementos/Resultado.PNG, id=160, 94.3525pt x 44.165pt>
+<imgs/Elementos/Resultado.PNG, id=166, 94.3525pt x 44.165pt>
 File: imgs/Elementos/Resultado.PNG Graphic file (type png)
 <use imgs/Elementos/Resultado.PNG>
 Package pdftex.def Info: imgs/Elementos/Resultado.PNG  used on input line 51.
 (pdftex.def)             Requested size: 68.28645pt x 27.072pt.
-<imgs/Elementos/Principio.PNG, id=161, 85.31876pt x 44.165pt>
+<imgs/Elementos/Principio.PNG, id=167, 85.31876pt x 44.165pt>
 File: imgs/Elementos/Principio.PNG Graphic file (type png)
 <use imgs/Elementos/Principio.PNG>
 Package pdftex.def Info: imgs/Elementos/Principio.PNG  used on input line 57.
@@ -805,25 +840,25 @@ Overfull \hbox (3.8324pt too wide) in paragraph at lines 60--61
 []|\OT1/cmr/m/n/10.95 Requerimiento| 
  []
 
-<imgs/Elementos/Requerimiento.PNG, id=162, 115.43124pt x 44.165pt>
+<imgs/Elementos/Requerimiento.PNG, id=168, 115.43124pt x 44.165pt>
 File: imgs/Elementos/Requerimiento.PNG Graphic file (type png)
 <use imgs/Elementos/Requerimiento.PNG>
 Package pdftex.def Info: imgs/Elementos/Requerimiento.PNG  used on input line 6
 3.
 (pdftex.def)             Requested size: 68.28702pt x 27.072pt.
-<imgs/Elementos/Restriccion.PNG, id=163, 99.37125pt x 44.165pt>
+<imgs/Elementos/Restriccion.PNG, id=169, 99.37125pt x 44.165pt>
 File: imgs/Elementos/Restriccion.PNG Graphic file (type png)
 <use imgs/Elementos/Restriccion.PNG>
 Package pdftex.def Info: imgs/Elementos/Restriccion.PNG  used on input line 69.
 
 (pdftex.def)             Requested size: 68.28874pt x 27.072pt.
-<imgs/Elementos/Significado.PNG, id=164, 123.46124pt x 100.375pt>
+<imgs/Elementos/Significado.PNG, id=170, 123.46124pt x 100.375pt>
 File: imgs/Elementos/Significado.PNG Graphic file (type png)
 <use imgs/Elementos/Significado.PNG>
 Package pdftex.def Info: imgs/Elementos/Significado.PNG  used on input line 75.
 
 (pdftex.def)             Requested size: 68.29007pt x 27.07097pt.
-<imgs/Elementos/Valor.PNG, id=165, 88.33pt x 60.225pt>
+<imgs/Elementos/Valor.PNG, id=171, 88.33pt x 60.225pt>
 File: imgs/Elementos/Valor.PNG Graphic file (type png)
 <use imgs/Elementos/Valor.PNG>
 Package pdftex.def Info: imgs/Elementos/Valor.PNG  used on input line 81.
@@ -838,7 +873,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
- [35 <./imgs/Elementos/Implicado.PNG (PNG copy)> <./imgs/Elementos/Manejador.PN
+ [37 <./imgs/Elementos/Implicado.PNG (PNG copy)> <./imgs/Elementos/Manejador.PN
 G (PNG copy)> <./imgs/Elementos/Valoracion.PNG (PNG copy)> <./imgs/Elementos/Ob
 jetivo.PNG (PNG copy)> <./imgs/Elementos/Resultado.PNG (PNG copy)> <./imgs/Elem
 entos/Principio.PNG (PNG copy)> <./imgs/Elementos/Requerimiento.PNG (PNG copy)>
@@ -846,14 +881,14 @@ entos/Principio.PNG (PNG copy)> <./imgs/Elementos/Requerimiento.PNG (PNG copy)>
 G (PNG copy)> <./imgs/Elementos/Valor.PNG (PNG copy)>]
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
- [36]
-<imgs/conceptos/estrategia/Recurso.PNG, id=172, 114.4275pt x 53.44969pt>
+ [38]
+<imgs/conceptos/estrategia/Recurso.PNG, id=179, 114.4275pt x 53.44969pt>
 File: imgs/conceptos/estrategia/Recurso.PNG Graphic file (type png)
 <use imgs/conceptos/estrategia/Recurso.PNG>
 Package pdftex.def Info: imgs/conceptos/estrategia/Recurso.PNG  used on input l
 ine 18.
 (pdftex.def)             Requested size: 70.9443pt x 33.13844pt.
-<imgs/conceptos/estrategia/imgRecurso.PNG, id=173, 70.76437pt x 36.88782pt>
+<imgs/conceptos/estrategia/imgRecurso.PNG, id=180, 70.76437pt x 36.88782pt>
 File: imgs/conceptos/estrategia/imgRecurso.PNG Graphic file (type png)
 <use imgs/conceptos/estrategia/imgRecurso.PNG>
 Package pdftex.def Info: imgs/conceptos/estrategia/imgRecurso.PNG  used on inpu
@@ -864,13 +899,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--18
 []|[]
  []
 
-<imgs/conceptos/estrategia/Capacidad.PNG, id=174, 136.25906pt x 57.21375pt>
+<imgs/conceptos/estrategia/Capacidad.PNG, id=181, 136.25906pt x 57.21375pt>
 File: imgs/conceptos/estrategia/Capacidad.PNG Graphic file (type png)
 <use imgs/conceptos/estrategia/Capacidad.PNG>
 Package pdftex.def Info: imgs/conceptos/estrategia/Capacidad.PNG  used on input
  line 22.
 (pdftex.def)             Requested size: 81.75606pt x 34.32849pt.
-<imgs/conceptos/estrategia/imgCapacidad.PNG, id=175, 54.9553pt x 48.93282pt>
+<imgs/conceptos/estrategia/imgCapacidad.PNG, id=182, 54.9553pt x 48.93282pt>
 File: imgs/conceptos/estrategia/imgCapacidad.PNG Graphic file (type png)
 <use imgs/conceptos/estrategia/imgCapacidad.PNG>
 Package pdftex.def Info: imgs/conceptos/estrategia/imgCapacidad.PNG  used on in
@@ -881,25 +916,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--24
 []|[]
  []
 
-<imgs/conceptos/estrategia/FlujoValor1.png, id=176, 65.5248pt x 31.5579pt>
+<imgs/conceptos/estrategia/FlujoValor1.png, id=183, 65.5248pt x 31.5579pt>
 File: imgs/conceptos/estrategia/FlujoValor1.png Graphic file (type png)
 <use imgs/conceptos/estrategia/FlujoValor1.png>
 Package pdftex.def Info: imgs/conceptos/estrategia/FlujoValor1.png  used on inp
 ut line 30.
 (pdftex.def)             Requested size: 65.52463pt x 31.55782pt.
-<imgs/conceptos/estrategia/FlujoValor2.png, id=177, 56.3706pt x 26.2581pt>
+<imgs/conceptos/estrategia/FlujoValor2.png, id=184, 56.3706pt x 26.2581pt>
 File: imgs/conceptos/estrategia/FlujoValor2.png Graphic file (type png)
 <use imgs/conceptos/estrategia/FlujoValor2.png>
 Package pdftex.def Info: imgs/conceptos/estrategia/FlujoValor2.png  used on inp
 ut line 31.
 (pdftex.def)             Requested size: 45.09653pt x 21.0065pt.
-<imgs/conceptos/estrategia/CursAcion.PNG, id=178, 176.15813pt x 59.47218pt>
+<imgs/conceptos/estrategia/CursAcion.PNG, id=185, 176.15813pt x 59.47218pt>
 File: imgs/conceptos/estrategia/CursAcion.PNG Graphic file (type png)
 <use imgs/conceptos/estrategia/CursAcion.PNG>
 Package pdftex.def Info: imgs/conceptos/estrategia/CursAcion.PNG  used on input
  line 38.
 (pdftex.def)             Requested size: 84.55493pt x 28.54631pt.
-<imgs/conceptos/estrategia/imgCursAcion.PNG, id=179, 16.56187pt x 17.31468pt>
+<imgs/conceptos/estrategia/imgCursAcion.PNG, id=186, 16.56187pt x 17.31468pt>
 File: imgs/conceptos/estrategia/imgCursAcion.PNG Graphic file (type png)
 <use imgs/conceptos/estrategia/imgCursAcion.PNG>
 Package pdftex.def Info: imgs/conceptos/estrategia/imgCursAcion.PNG  used on in
@@ -911,7 +946,7 @@ Overfull \hbox (38.26051pt too wide) in paragraph at lines 9--42
  []
 
 ) (arquitectura/lenguaje/conceptos/negocio.tex
-<imgs/conceptos/negocio/Business_actor.pdf, id=180, 154.5775pt x 41.45488pt>
+<imgs/conceptos/negocio/Business_actor.pdf, id=187, 154.5775pt x 41.45488pt>
 File: imgs/conceptos/negocio/Business_actor.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Business_actor.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Business_actor.pdf  used on inp
@@ -922,7 +957,7 @@ Overfull \hbox (5.6942pt too wide) in paragraph at lines 12--12
 []|[]| 
  []
 
-<imgs/conceptos/negocio/Business_role.pdf, id=181, 179.872pt x 59.72313pt>
+<imgs/conceptos/negocio/Business_role.pdf, id=188, 179.872pt x 59.72313pt>
 File: imgs/conceptos/negocio/Business_role.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Business_role.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Business_role.pdf  used on inpu
@@ -938,7 +973,7 @@ Underfull \hbox (badness 7685) in paragraph at lines 16--16
 []|\OT1/cmr/m/n/10.95 Colaboracion de
  []
 
-<imgs/conceptos/negocio/Business_colaboration.pdf, id=182, 232.56888pt x 68.857
+<imgs/conceptos/negocio/Business_colaboration.pdf, id=189, 232.56888pt x 68.857
 25pt>
 File: imgs/conceptos/negocio/Business_colaboration.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Business_colaboration.pdf>
@@ -950,7 +985,7 @@ Overfull \hbox (5.69014pt too wide) in paragraph at lines 17--17
 []|[]| 
  []
 
-<imgs/conceptos/negocio/Business_Interface.pdf, id=183, 218.51637pt x 75.18088p
+<imgs/conceptos/negocio/Business_Interface.pdf, id=190, 218.51637pt x 75.18088p
 t>
 File: imgs/conceptos/negocio/Business_Interface.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Business_Interface.pdf>
@@ -962,7 +997,7 @@ Overfull \hbox (5.68866pt too wide) in paragraph at lines 20--20
 []|[]| 
  []
 
-<imgs/conceptos/negocio/Location.pdf, id=184, 141.93024pt x 66.04675pt>
+<imgs/conceptos/negocio/Location.pdf, id=191, 141.93024pt x 66.04675pt>
 File: imgs/conceptos/negocio/Location.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Location.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Location.pdf  used on input lin
@@ -973,7 +1008,7 @@ Overfull \hbox (5.69017pt too wide) in paragraph at lines 23--23
 []|[]| 
  []
 
-<imgs/conceptos/negocio/Business_Object.pdf, id=185, 107.50162pt x 64.6415pt>
+<imgs/conceptos/negocio/Business_Object.pdf, id=192, 107.50162pt x 64.6415pt>
 File: imgs/conceptos/negocio/Business_Object.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Business_Object.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Business_Object.pdf  used on in
@@ -989,7 +1024,7 @@ Underfull \hbox (badness 2894) in paragraph at lines 28--29
 []|\OT1/cmr/m/n/10.95 Un ele-men-to de com-por-ta-mien-to que
  []
 
-<imgs/conceptos/negocio/Business_proces.pdf, id=186, 167.92738pt x 52.69687pt>
+<imgs/conceptos/negocio/Business_proces.pdf, id=193, 167.92738pt x 52.69687pt>
 File: imgs/conceptos/negocio/Business_proces.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Business_proces.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Business_proces.pdf  used on in
@@ -1005,7 +1040,7 @@ Underfull \hbox (badness 2894) in paragraph at lines 31--31
 []|\OT1/cmr/m/n/10.95 Un ele-men-to de com-por-ta-mien-to que
  []
 
-<imgs/conceptos/negocio/Business_function.pdf, id=187, 193.22188pt x 54.80475pt
+<imgs/conceptos/negocio/Business_function.pdf, id=194, 193.22188pt x 54.80475pt
 >
 File: imgs/conceptos/negocio/Business_function.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Business_function.pdf>
@@ -1022,7 +1057,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--33
 []|\OT1/cmr/m/n/10.95 Interaccion de
  []
 
-<imgs/conceptos/negocio/Business_interaction.pdf, id=188, 212.19275pt x 63.9388
+<imgs/conceptos/negocio/Business_interaction.pdf, id=195, 212.19275pt x 63.9388
 7pt>
 File: imgs/conceptos/negocio/Business_interaction.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Business_interaction.pdf>
@@ -1034,7 +1069,7 @@ Overfull \hbox (5.69122pt too wide) in paragraph at lines 34--34
 []|[]| 
  []
 
-<imgs/conceptos/negocio/Business_event.pdf, id=189, 222.0295pt x 49.88638pt>
+<imgs/conceptos/negocio/Business_event.pdf, id=196, 222.0295pt x 49.88638pt>
 File: imgs/conceptos/negocio/Business_event.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Business_event.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Business_event.pdf  used on inp
@@ -1052,21 +1087,21 @@ Overfull \hbox (70.24806pt too wide) in paragraph at lines 8--40
 
 LaTeX Info: Redefining \. on input line 41.
 LaTeX Info: Redefining \% on input line 41.
-[37 <./imgs/conceptos/estrategia/Recurso.PNG> <./imgs/conceptos/estrategia/imgR
+[39 <./imgs/conceptos/estrategia/Recurso.PNG> <./imgs/conceptos/estrategia/imgR
 ecurso.PNG> <./imgs/conceptos/estrategia/Capacidad.PNG> <./imgs/conceptos/estra
 tegia/imgCapacidad.PNG> <./imgs/conceptos/estrategia/FlujoValor1.png> <./imgs/c
 onceptos/estrategia/FlujoValor2.png> <./imgs/conceptos/estrategia/CursAcion.PNG
 > <./imgs/conceptos/estrategia/imgCursAcion.PNG>]
 LaTeX Info: Redefining \. on input line 42.
 LaTeX Info: Redefining \% on input line 42.
- [38 <./imgs/conceptos/negocio/Business_actor.pdf> <./imgs/conceptos/negocio/Bu
+ [40 <./imgs/conceptos/negocio/Business_actor.pdf> <./imgs/conceptos/negocio/Bu
 siness_role.pdf> <./imgs/conceptos/negocio/Business_colaboration.pdf> <./imgs/c
 onceptos/negocio/Business_Interface.pdf> <./imgs/conceptos/negocio/Location.pdf
 > <./imgs/conceptos/negocio/Business_Object.pdf> <./imgs/conceptos/negocio/Busi
 ness_proces.pdf> <./imgs/conceptos/negocio/Business_function.pdf> <./imgs/conce
 ptos/negocio/Business_interaction.pdf> <./imgs/conceptos/negocio/Business_event
 .pdf>]
-<imgs/conceptos/negocio/Business_service.pdf, id=225, 229.75836pt x 55.50737pt>
+<imgs/conceptos/negocio/Business_service.pdf, id=231, 229.75836pt x 55.50737pt>
 
 File: imgs/conceptos/negocio/Business_service.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Business_service.pdf>
@@ -1078,7 +1113,7 @@ Overfull \hbox (5.69258pt too wide) in paragraph at lines 49--49
 []|[]| 
  []
 
-<imgs/conceptos/negocio/Representation.pdf, id=226, 132.79613pt x 59.72313pt>
+<imgs/conceptos/negocio/Representation.pdf, id=232, 132.79613pt x 59.72313pt>
 File: imgs/conceptos/negocio/Representation.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Representation.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Representation.pdf  used on inp
@@ -1089,7 +1124,7 @@ Overfull \hbox (5.69484pt too wide) in paragraph at lines 51--51
 []|[]| 
  []
 
-<imgs/conceptos/negocio/Meaning.pdf, id=227, 103.28587pt x 54.10213pt>
+<imgs/conceptos/negocio/Meaning.pdf, id=233, 103.28587pt x 54.10213pt>
 File: imgs/conceptos/negocio/Meaning.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Meaning.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Meaning.pdf  used on input line
@@ -1100,7 +1135,7 @@ Overfull \hbox (5.6944pt too wide) in paragraph at lines 52--52
 []|[]| 
  []
 
-<imgs/conceptos/negocio/Value.pdf, id=228, 102.58325pt x 50.589pt>
+<imgs/conceptos/negocio/Value.pdf, id=234, 102.58325pt x 50.589pt>
 File: imgs/conceptos/negocio/Value.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Value.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Value.pdf  used on input line 5
@@ -1116,7 +1151,7 @@ Underfull \hbox (badness 3068) in paragraph at lines 57--57
 []|\OT1/cmr/m/n/10.95 Una co-lec-cion cohe-ren-te de ser-vi-cios,
  []
 
-<imgs/conceptos/negocio/Product.pdf, id=229, 122.95938pt x 65.34412pt>
+<imgs/conceptos/negocio/Product.pdf, id=235, 122.95938pt x 65.34412pt>
 File: imgs/conceptos/negocio/Product.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Product.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Product.pdf  used on input line
@@ -1127,7 +1162,7 @@ Overfull \hbox (5.69576pt too wide) in paragraph at lines 57--57
 []|[]| 
  []
 
-<imgs/conceptos/negocio/Contract.pdf, id=230, 93.44913pt x 51.99425pt>
+<imgs/conceptos/negocio/Contract.pdf, id=236, 93.44913pt x 51.99425pt>
 File: imgs/conceptos/negocio/Contract.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Contract.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Contract.pdf  used on input lin
@@ -1146,54 +1181,54 @@ Overfull \hbox (70.24806pt too wide) in paragraph at lines 45--62
 ) (arquitectura/lenguaje/conceptos/aplicacion.tex
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
- [39 <./imgs/conceptos/negocio/Business_service.pdf> <./imgs/conceptos/negocio/
+ [41 <./imgs/conceptos/negocio/Business_service.pdf> <./imgs/conceptos/negocio/
 Representation.pdf> <./imgs/conceptos/negocio/Meaning.pdf> <./imgs/conceptos/ne
 gocio/Value.pdf> <./imgs/conceptos/negocio/Product.pdf> <./imgs/conceptos/negoc
 io/Contract.pdf>]
-<imgs/aplicacion/componente.pdf, id=246, 113.42375pt x 63.23625pt>
+<imgs/aplicacion/componente.pdf, id=252, 113.42375pt x 63.23625pt>
 File: imgs/aplicacion/componente.pdf Graphic file (type pdf)
 <use imgs/aplicacion/componente.pdf>
 Package pdftex.def Info: imgs/aplicacion/componente.pdf  used on input line 23.
 
 (pdftex.def)             Requested size: 113.42346pt x 63.23608pt.
-<imgs/aplicacion/colaboracion.pdf, id=247, 87.32625pt x 65.24374pt>
+<imgs/aplicacion/colaboracion.pdf, id=253, 87.32625pt x 65.24374pt>
 File: imgs/aplicacion/colaboracion.pdf Graphic file (type pdf)
 <use imgs/aplicacion/colaboracion.pdf>
 Package pdftex.def Info: imgs/aplicacion/colaboracion.pdf  used on input line 3
 4.
 (pdftex.def)             Requested size: 87.32603pt x 65.24358pt.
-<imgs/aplicacion/interface.pdf, id=248, 73.27374pt x 51.19125pt>
+<imgs/aplicacion/interface.pdf, id=254, 73.27374pt x 51.19125pt>
 File: imgs/aplicacion/interface.pdf Graphic file (type pdf)
 <use imgs/aplicacion/interface.pdf>
 Package pdftex.def Info: imgs/aplicacion/interface.pdf  used on input line 45.
 (pdftex.def)             Requested size: 73.27354pt x 51.19112pt.
-<imgs/aplicacion/funcion.pdf, id=249, 68.255pt x 56.21pt>
+<imgs/aplicacion/funcion.pdf, id=255, 68.255pt x 56.21pt>
 File: imgs/aplicacion/funcion.pdf Graphic file (type pdf)
 <use imgs/aplicacion/funcion.pdf>
 Package pdftex.def Info: imgs/aplicacion/funcion.pdf  used on input line 54.
 (pdftex.def)             Requested size: 68.25482pt x 56.20985pt.
-<imgs/aplicacion/intereaccion.pdf, id=250, 80.3pt x 52.195pt>
+<imgs/aplicacion/intereaccion.pdf, id=256, 80.3pt x 52.195pt>
 File: imgs/aplicacion/intereaccion.pdf Graphic file (type pdf)
 <use imgs/aplicacion/intereaccion.pdf>
 Package pdftex.def Info: imgs/aplicacion/intereaccion.pdf  used on input line 6
 5.
 (pdftex.def)             Requested size: 80.29979pt x 52.19487pt.
-<imgs/aplicacion/proceso.pdf, id=251, 76.285pt x 54.2025pt>
+<imgs/aplicacion/proceso.pdf, id=257, 76.285pt x 54.2025pt>
 File: imgs/aplicacion/proceso.pdf Graphic file (type pdf)
 <use imgs/aplicacion/proceso.pdf>
 Package pdftex.def Info: imgs/aplicacion/proceso.pdf  used on input line 75.
 (pdftex.def)             Requested size: 76.2848pt x 54.20236pt.
-<imgs/aplicacion/evento.pdf, id=252, 83.31125pt x 60.225pt>
+<imgs/aplicacion/evento.pdf, id=258, 83.31125pt x 60.225pt>
 File: imgs/aplicacion/evento.pdf Graphic file (type pdf)
 <use imgs/aplicacion/evento.pdf>
 Package pdftex.def Info: imgs/aplicacion/evento.pdf  used on input line 85.
 (pdftex.def)             Requested size: 83.31104pt x 60.22484pt.
-<imgs/aplicacion/servicio.pdf, id=253, 94.3525pt x 53.19875pt>
+<imgs/aplicacion/servicio.pdf, id=259, 94.3525pt x 53.19875pt>
 File: imgs/aplicacion/servicio.pdf Graphic file (type pdf)
 <use imgs/aplicacion/servicio.pdf>
 Package pdftex.def Info: imgs/aplicacion/servicio.pdf  used on input line 94.
 (pdftex.def)             Requested size: 94.35225pt x 53.19861pt.
-<imgs/aplicacion/objeto.pdf, id=254, 85.31876pt x 54.2025pt>
+<imgs/aplicacion/objeto.pdf, id=260, 85.31876pt x 54.2025pt>
 File: imgs/aplicacion/objeto.pdf Graphic file (type pdf)
 <use imgs/aplicacion/objeto.pdf>
 Package pdftex.def Info: imgs/aplicacion/objeto.pdf  used on input line 103.
@@ -1209,33 +1244,33 @@ Underfull \vbox (badness 10000) detected at line 109
 
 LaTeX Info: Redefining \. on input line 109.
 LaTeX Info: Redefining \% on input line 109.
-[40 <./imgs/aplicacion/componente.pdf> <./imgs/aplicacion/colaboracion.pdf> <./
+[42 <./imgs/aplicacion/componente.pdf> <./imgs/aplicacion/colaboracion.pdf> <./
 imgs/aplicacion/interface.pdf> <./imgs/aplicacion/funcion.pdf> <./imgs/aplicaci
 on/intereaccion.pdf> <./imgs/aplicacion/proceso.pdf>])
 (arquitectura/lenguaje/conceptos/tecnologia.tex
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
- [41 <./imgs/aplicacion/evento.pdf> <./imgs/aplicacion/servicio.pdf> <./imgs/ap
+ [43 <./imgs/aplicacion/evento.pdf> <./imgs/aplicacion/servicio.pdf> <./imgs/ap
 licacion/objeto.pdf>]
-<imgs/conceptos/tecnologica/nodo.png, id=270, 126.4725pt x 42.1575pt>
+<imgs/conceptos/tecnologica/nodo.png, id=277, 126.4725pt x 42.1575pt>
 File: imgs/conceptos/tecnologica/nodo.png Graphic file (type png)
 <use imgs/conceptos/tecnologica/nodo.png>
 Package pdftex.def Info: imgs/conceptos/tecnologica/nodo.png  used on input lin
 e 22.
 (pdftex.def)             Requested size: 71.99936pt x 27.07204pt.
-<imgs/conceptos/tecnologica/dispositivo.png, id=271, 127.22531pt x 44.41594pt>
+<imgs/conceptos/tecnologica/dispositivo.png, id=278, 127.22531pt x 44.41594pt>
 File: imgs/conceptos/tecnologica/dispositivo.png Graphic file (type png)
 <use imgs/conceptos/tecnologica/dispositivo.png>
 Package pdftex.def Info: imgs/conceptos/tecnologica/dispositivo.png  used on in
 put line 36.
 (pdftex.def)             Requested size: 72.00084pt x 27.07266pt.
-<imgs/conceptos/tecnologica/software.png, id=272, 160.34906pt x 42.1575pt>
+<imgs/conceptos/tecnologica/software.png, id=279, 160.34906pt x 42.1575pt>
 File: imgs/conceptos/tecnologica/software.png Graphic file (type png)
 <use imgs/conceptos/tecnologica/software.png>
 Package pdftex.def Info: imgs/conceptos/tecnologica/software.png  used on input
  line 53.
 (pdftex.def)             Requested size: 71.99982pt x 27.07204pt.
-<imgs/conceptos/tecnologica/colaboracion.png, id=273, 137.01187pt x 44.41594pt>
+<imgs/conceptos/tecnologica/colaboracion.png, id=280, 137.01187pt x 44.41594pt>
 
 File: imgs/conceptos/tecnologica/colaboracion.png Graphic file (type png)
 <use imgs/conceptos/tecnologica/colaboracion.png>
@@ -1252,7 +1287,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--69
 \OT1/cmr/m/n/10.95 in-fra-es-truc-
  []
 
-<imgs/conceptos/tecnologica/interfaceTecnologia.png, id=274, 117.43875pt x 43.6
+<imgs/conceptos/tecnologica/interfaceTecnologia.png, id=281, 117.43875pt x 43.6
 6313pt>
 File: imgs/conceptos/tecnologica/interfaceTecnologia.png Graphic file (type png
 )
@@ -1260,13 +1295,13 @@ File: imgs/conceptos/tecnologica/interfaceTecnologia.png Graphic file (type png
 Package pdftex.def Info: imgs/conceptos/tecnologica/interfaceTecnologia.png  us
 ed on input line 81.
 (pdftex.def)             Requested size: 71.9977pt x 27.07217pt.
-<imgs/conceptos/tecnologica/ruta.png, id=275, 105.39375pt x 45.92157pt>
+<imgs/conceptos/tecnologica/ruta.png, id=282, 105.39375pt x 45.92157pt>
 File: imgs/conceptos/tecnologica/ruta.png Graphic file (type png)
 <use imgs/conceptos/tecnologica/ruta.png>
 Package pdftex.def Info: imgs/conceptos/tecnologica/ruta.png  used on input lin
 e 94.
 (pdftex.def)             Requested size: 71.99968pt x 27.07246pt.
-<imgs/conceptos/tecnologica/redComunicacion.png, id=276, 194.97844pt x 42.1575p
+<imgs/conceptos/tecnologica/redComunicacion.png, id=283, 194.97844pt x 42.1575p
 t>
 File: imgs/conceptos/tecnologica/redComunicacion.png Graphic file (type png)
 <use imgs/conceptos/tecnologica/redComunicacion.png>
@@ -1293,14 +1328,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--126
 []|\OT1/cmr/m/n/10.95 Proceso
  []
 
-<imgs/conceptos/tecnologica/procesoTecnologia.png, id=277, 109.1578pt x 48.9328
+<imgs/conceptos/tecnologica/procesoTecnologia.png, id=284, 109.1578pt x 48.9328
 2pt>
 File: imgs/conceptos/tecnologica/procesoTecnologia.png Graphic file (type png)
 <use imgs/conceptos/tecnologica/procesoTecnologia.png>
 Package pdftex.def Info: imgs/conceptos/tecnologica/procesoTecnologia.png  used
  on input line 131.
 (pdftex.def)             Requested size: 71.99939pt x 27.07216pt.
-<imgs/conceptos/tecnologica/InteraccionTecnologia.png, id=278, 118.19156pt x 39
+<imgs/conceptos/tecnologica/InteraccionTecnologia.png, id=285, 118.19156pt x 39
 .89906pt>
 File: imgs/conceptos/tecnologica/InteraccionTecnologia.png Graphic file (type p
 ng)
@@ -1308,7 +1343,7 @@ ng)
 Package pdftex.def Info: imgs/conceptos/tecnologica/InteraccionTecnologia.png  
 used on input line 140.
 (pdftex.def)             Requested size: 72.00116pt x 27.07193pt.
-<imgs/conceptos/tecnologica/eventoTecnologia.png, id=279, 127.97812pt x 34.6293
+<imgs/conceptos/tecnologica/eventoTecnologia.png, id=286, 127.97812pt x 34.6293
 8pt>
 File: imgs/conceptos/tecnologica/eventoTecnologia.png Graphic file (type png)
 <use imgs/conceptos/tecnologica/eventoTecnologia.png>
@@ -1320,7 +1355,7 @@ Overfull \hbox (14.11752pt too wide) in paragraph at lines 154--155
 []|\OT1/cmr/m/n/10.95 infraestructura
  []
 
-<imgs/conceptos/tecnologica/servicioTecnologia.png, id=280, 136.25906pt x 37.64
+<imgs/conceptos/tecnologica/servicioTecnologia.png, id=287, 136.25906pt x 37.64
 063pt>
 File: imgs/conceptos/tecnologica/servicioTecnologia.png Graphic file (type png)
 
@@ -1328,13 +1363,13 @@ File: imgs/conceptos/tecnologica/servicioTecnologia.png Graphic file (type png)
 Package pdftex.def Info: imgs/conceptos/tecnologica/servicioTecnologia.png  use
 d on input line 161.
 (pdftex.def)             Requested size: 71.99863pt x 27.0725pt.
-<imgs/conceptos/tecnologica/Ud.png, id=281, 513.92pt x 513.92pt>
+<imgs/conceptos/tecnologica/Ud.png, id=288, 513.92pt x 513.92pt>
 File: imgs/conceptos/tecnologica/Ud.png Graphic file (type png)
 <use imgs/conceptos/tecnologica/Ud.png>
 Package pdftex.def Info: imgs/conceptos/tecnologica/Ud.png  used on input line 
 174.
 (pdftex.def)             Requested size: 71.99535pt x 27.06981pt.
-<imgs/conceptos/tecnologica/artefacto.png, id=282, 145.29282pt x 38.39343pt>
+<imgs/conceptos/tecnologica/artefacto.png, id=289, 145.29282pt x 38.39343pt>
 File: imgs/conceptos/tecnologica/artefacto.png Graphic file (type png)
 <use imgs/conceptos/tecnologica/artefacto.png>
 Package pdftex.def Info: imgs/conceptos/tecnologica/artefacto.png  used on inpu
@@ -1351,30 +1386,30 @@ Underfull \vbox (badness 10000) detected at line 195
 
 LaTeX Info: Redefining \. on input line 195.
 LaTeX Info: Redefining \% on input line 195.
-[42 <./imgs/conceptos/tecnologica/nodo.png> <./imgs/conceptos/tecnologica/dispo
+[44 <./imgs/conceptos/tecnologica/nodo.png> <./imgs/conceptos/tecnologica/dispo
 sitivo.png>]
 LaTeX Info: Redefining \. on input line 195.
 LaTeX Info: Redefining \% on input line 195.
- [43 <./imgs/conceptos/tecnologica/software.png> <./imgs/conceptos/tecnologica/
+ [45 <./imgs/conceptos/tecnologica/software.png> <./imgs/conceptos/tecnologica/
 colaboracion.png> <./imgs/conceptos/tecnologica/interfaceTecnologia.png>]
 LaTeX Info: Redefining \. on input line 195.
 LaTeX Info: Redefining \% on input line 195.
- [44 <./imgs/conceptos/tecnologica/ruta.png> <./imgs/conceptos/tecnologica/redC
+ [46 <./imgs/conceptos/tecnologica/ruta.png> <./imgs/conceptos/tecnologica/redC
 omunicacion.png>]
 LaTeX Info: Redefining \. on input line 195.
 LaTeX Info: Redefining \% on input line 195.
- [45 <./imgs/conceptos/tecnologica/procesoTecnologia.png> <./imgs/conceptos/tec
+ [47 <./imgs/conceptos/tecnologica/procesoTecnologia.png> <./imgs/conceptos/tec
 nologica/InteraccionTecnologia.png> <./imgs/conceptos/tecnologica/eventoTecnolo
 gia.png>]
 LaTeX Info: Redefining \. on input line 195.
 LaTeX Info: Redefining \% on input line 195.
- [46 <./imgs/conceptos/tecnologica/servicioTecnologia.png> <./imgs/conceptos/te
+ [48 <./imgs/conceptos/tecnologica/servicioTecnologia.png> <./imgs/conceptos/te
 cnologica/Ud.png>])
 (arquitectura/lenguaje/conceptos/fisico.tex
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
- [47 <./imgs/conceptos/tecnologica/artefacto.png>]
-<imgs/conceptos/fisico/facilidad.jpg, id=315, 172.645pt x 85.31876pt>
+ [49 <./imgs/conceptos/tecnologica/artefacto.png>]
+<imgs/conceptos/fisico/facilidad.jpg, id=322, 172.645pt x 85.31876pt>
 File: imgs/conceptos/fisico/facilidad.jpg Graphic file (type jpg)
 <use imgs/conceptos/fisico/facilidad.jpg>
 Package pdftex.def Info: imgs/conceptos/fisico/facilidad.jpg  used on input lin
@@ -1385,19 +1420,19 @@ Underfull \hbox (badness 1616) in paragraph at lines 23--24
 \OT1/cmr/m/n/10.95 men-tos de pro-ce-sa-mien-to ac-ti-vos
  []
 
-<imgs/conceptos/fisico/equipo.jpg, id=316, 152.57pt x 87.32625pt>
+<imgs/conceptos/fisico/equipo.jpg, id=323, 152.57pt x 87.32625pt>
 File: imgs/conceptos/fisico/equipo.jpg Graphic file (type jpg)
 <use imgs/conceptos/fisico/equipo.jpg>
 Package pdftex.def Info: imgs/conceptos/fisico/equipo.jpg  used on input line 2
 5.
 (pdftex.def)             Requested size: 36.00294pt x 27.07219pt.
-<imgs/conceptos/fisico/redDistribucion.jpg, id=317, 191.71625pt x 94.3525pt>
+<imgs/conceptos/fisico/redDistribucion.jpg, id=324, 191.71625pt x 94.3525pt>
 File: imgs/conceptos/fisico/redDistribucion.jpg Graphic file (type jpg)
 <use imgs/conceptos/fisico/redDistribucion.jpg>
 Package pdftex.def Info: imgs/conceptos/fisico/redDistribucion.jpg  used on inp
 ut line 33.
 (pdftex.def)             Requested size: 36.00229pt x 27.0707pt.
-<imgs/conceptos/fisico/material.jpg, id=318, 153.57375pt x 73.27374pt>
+<imgs/conceptos/fisico/material.jpg, id=325, 153.57375pt x 73.27374pt>
 File: imgs/conceptos/fisico/material.jpg Graphic file (type jpg)
 <use imgs/conceptos/fisico/material.jpg>
 Package pdftex.def Info: imgs/conceptos/fisico/material.jpg  used on input line
@@ -1415,28 +1450,28 @@ Underfull \vbox (badness 10000) detected at line 44
 )
 LaTeX Info: Redefining \. on input line 34.
 LaTeX Info: Redefining \% on input line 34.
- [48 <./imgs/conceptos/fisico/facilidad.jpg> <./imgs/conceptos/fisico/equipo.jp
+ [50 <./imgs/conceptos/fisico/facilidad.jpg> <./imgs/conceptos/fisico/equipo.jp
 g> <./imgs/conceptos/fisico/redDistribucion.jpg> <./imgs/conceptos/fisico/mater
 ial.jpg>] (arquitectura/lenguaje/relaciones/estructurales.tex
-<imgs/relaciones/agregacion.pdf, id=322, 226.8475pt x 39.14626pt>
+<imgs/relaciones/agregacion.pdf, id=329, 226.8475pt x 39.14626pt>
 File: imgs/relaciones/agregacion.pdf Graphic file (type pdf)
 <use imgs/relaciones/agregacion.pdf>
 Package pdftex.def Info: imgs/relaciones/agregacion.pdf  used on input line 18.
 
 (pdftex.def)             Requested size: 143.9978pt x 24.84921pt.
-<imgs/relaciones/composicion.pdf, id=323, 230.8625pt x 43.16125pt>
+<imgs/relaciones/composicion.pdf, id=330, 230.8625pt x 43.16125pt>
 File: imgs/relaciones/composicion.pdf Graphic file (type pdf)
 <use imgs/relaciones/composicion.pdf>
 Package pdftex.def Info: imgs/relaciones/composicion.pdf  used on input line 27
 .
 (pdftex.def)             Requested size: 143.9978pt x 26.92104pt.
-<imgs/relaciones/asignacion.pdf, id=324, 224.84pt x 43.16125pt>
+<imgs/relaciones/asignacion.pdf, id=331, 224.84pt x 43.16125pt>
 File: imgs/relaciones/asignacion.pdf Graphic file (type pdf)
 <use imgs/relaciones/asignacion.pdf>
 Package pdftex.def Info: imgs/relaciones/asignacion.pdf  used on input line 37.
 
 (pdftex.def)             Requested size: 143.9978pt x 27.64351pt.
-<imgs/relaciones/realizacion.pdf, id=325, 244.915pt x 40.15pt>
+<imgs/relaciones/realizacion.pdf, id=332, 244.915pt x 40.15pt>
 File: imgs/relaciones/realizacion.pdf Graphic file (type pdf)
 <use imgs/relaciones/realizacion.pdf>
 Package pdftex.def Info: imgs/relaciones/realizacion.pdf  used on input line 49
@@ -1450,18 +1485,18 @@ Overfull \hbox (60.156pt too wide) in paragraph at lines 8--53
 ) (arquitectura/lenguaje/relaciones/dependencia.tex
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
- [49 <./imgs/relaciones/agregacion.pdf> <./imgs/relaciones/composicion.pdf> <./
+ [51 <./imgs/relaciones/agregacion.pdf> <./imgs/relaciones/composicion.pdf> <./
 imgs/relaciones/asignacion.pdf> <./imgs/relaciones/realizacion.pdf>]
 Underfull \hbox (badness 1668) in paragraph at lines 21--23
 []|\OT1/cmr/m/n/10.95 Modela que un ele-men-to
  []
 
-<imgs/relaciones/sirve.pdf, id=335, 224.84pt x 42.1575pt>
+<imgs/relaciones/sirve.pdf, id=341, 224.84pt x 42.1575pt>
 File: imgs/relaciones/sirve.pdf Graphic file (type pdf)
 <use imgs/relaciones/sirve.pdf>
 Package pdftex.def Info: imgs/relaciones/sirve.pdf  used on input line 24.
 (pdftex.def)             Requested size: 143.9978pt x 27.00063pt.
-<imgs/relaciones/influencia.pdf, id=336, 221.82875pt x 39.14626pt>
+<imgs/relaciones/influencia.pdf, id=342, 221.82875pt x 39.14626pt>
 File: imgs/relaciones/influencia.pdf Graphic file (type pdf)
 <use imgs/relaciones/influencia.pdf>
 Package pdftex.def Info: imgs/relaciones/influencia.pdf  used on input line 33.
@@ -1472,7 +1507,7 @@ Underfull \hbox (badness 3701) in paragraph at lines 39--43
 []|\OT1/cmr/m/n/10.95 Modela la ca-pa-ci-dad de
  []
 
-<imgs/relaciones/acceso.pdf, id=337, 222.8325pt x 38.1425pt>
+<imgs/relaciones/acceso.pdf, id=343, 222.8325pt x 38.1425pt>
 File: imgs/relaciones/acceso.pdf Graphic file (type pdf)
 <use imgs/relaciones/acceso.pdf>
 Package pdftex.def Info: imgs/relaciones/acceso.pdf  used on input line 44.
@@ -1482,7 +1517,7 @@ Underfull \hbox (badness 3701) in paragraph at lines 50--54
 []|\OT1/cmr/m/n/10.95 Modela la ca-pa-ci-dad de
  []
 
-<imgs/relaciones/accesobi.pdf, id=338, 230.8625pt x 38.1425pt>
+<imgs/relaciones/accesobi.pdf, id=344, 230.8625pt x 38.1425pt>
 File: imgs/relaciones/accesobi.pdf Graphic file (type pdf)
 <use imgs/relaciones/accesobi.pdf>
 Package pdftex.def Info: imgs/relaciones/accesobi.pdf  used on input line 55.
@@ -1495,14 +1530,14 @@ Overfull \hbox (63.18326pt too wide) in paragraph at lines 14--59
 ) (arquitectura/lenguaje/relaciones/dinamicas.tex
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
- [50 <./imgs/relaciones/sirve.pdf> <./imgs/relaciones/influencia.pdf> <./imgs/r
+ [52 <./imgs/relaciones/sirve.pdf> <./imgs/relaciones/influencia.pdf> <./imgs/r
 elaciones/acceso.pdf> <./imgs/relaciones/accesobi.pdf>]
-<imgs/relaciones/flujo.pdf, id=346, 224.84pt x 38.1425pt>
+<imgs/relaciones/flujo.pdf, id=352, 224.84pt x 38.1425pt>
 File: imgs/relaciones/flujo.pdf Graphic file (type pdf)
 <use imgs/relaciones/flujo.pdf>
 Package pdftex.def Info: imgs/relaciones/flujo.pdf  used on input line 17.
 (pdftex.def)             Requested size: 143.9978pt x 24.42914pt.
-<imgs/relaciones/disparo.pdf, id=347, 228.855pt x 45.16875pt>
+<imgs/relaciones/disparo.pdf, id=353, 228.855pt x 45.16875pt>
 File: imgs/relaciones/disparo.pdf Graphic file (type pdf)
 <use imgs/relaciones/disparo.pdf>
 Package pdftex.def Info: imgs/relaciones/disparo.pdf  used on input line 26.
@@ -1513,19 +1548,19 @@ Overfull \hbox (42.27095pt too wide) in paragraph at lines 8--30
  []
 
 ) (arquitectura/lenguaje/relaciones/otras.tex
-<imgs/relaciones/asociacion.pdf, id=348, 225.84375pt x 45.16875pt>
+<imgs/relaciones/asociacion.pdf, id=354, 225.84375pt x 45.16875pt>
 File: imgs/relaciones/asociacion.pdf Graphic file (type pdf)
 <use imgs/relaciones/asociacion.pdf>
 Package pdftex.def Info: imgs/relaciones/asociacion.pdf  used on input line 17.
 
 (pdftex.def)             Requested size: 143.9978pt x 28.80106pt.
-<imgs/relaciones/especializacion.pdf, id=349, 247.92625pt x 43.16125pt>
+<imgs/relaciones/especializacion.pdf, id=355, 247.92625pt x 43.16125pt>
 File: imgs/relaciones/especializacion.pdf Graphic file (type pdf)
 <use imgs/relaciones/especializacion.pdf>
 Package pdftex.def Info: imgs/relaciones/especializacion.pdf  used on input lin
 e 26.
 (pdftex.def)             Requested size: 143.9978pt x 25.06844pt.
-<imgs/relaciones/union.pdf, id=350, 55.20625pt x 20.075pt>
+<imgs/relaciones/union.pdf, id=356, 55.20625pt x 20.075pt>
 File: imgs/relaciones/union.pdf Graphic file (type pdf)
 <use imgs/relaciones/union.pdf>
 Package pdftex.def Info: imgs/relaciones/union.pdf  used on input line 35.
@@ -1545,7 +1580,7 @@ Underfull \vbox (badness 7047) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
- [51 <./imgs/relaciones/flujo.pdf> <./imgs/relaciones/disparo.pdf> <./imgs/rela
+ [53 <./imgs/relaciones/flujo.pdf> <./imgs/relaciones/disparo.pdf> <./imgs/rela
 ciones/asociacion.pdf> <./imgs/relaciones/especializacion.pdf> <./imgs/relacion
 es/union.pdf>]
 Overfull \hbox (7.84741pt too wide) in paragraph at lines 51--51
@@ -1554,28 +1589,28 @@ Overfull \hbox (7.84741pt too wide) in paragraph at lines 51--51
 
 LaTeX Info: Redefining \. on input line 69.
 LaTeX Info: Redefining \% on input line 69.
-[52]
+[54]
 Overfull \hbox (7.84741pt too wide) in paragraph at lines 88--88
 []|\OT1/cmr/m/n/10.95 Preocupaciones| 
  []
 
 LaTeX Info: Redefining \. on input line 108.
 LaTeX Info: Redefining \% on input line 108.
-[53]
+[55]
 Overfull \hbox (7.84741pt too wide) in paragraph at lines 127--127
 []|\OT1/cmr/m/n/10.95 Preocupaciones| 
  []
 
 LaTeX Info: Redefining \. on input line 149.
 LaTeX Info: Redefining \% on input line 149.
-[54]) (arquitectura/lenguaje/puntosvista/estrategia.tex
+[56]) (arquitectura/lenguaje/puntosvista/estrategia.tex
 Overfull \hbox (4.14714pt too wide) in paragraph at lines 49--84
  [] 
  []
 
 LaTeX Info: Redefining \. on input line 87.
 LaTeX Info: Redefining \% on input line 87.
-[55]
+[57]
 Overfull \hbox (4.14714pt too wide) in paragraph at lines 92--127
  [] 
  []
@@ -1593,17 +1628,17 @@ Overfull \hbox (4.14714pt too wide) in paragraph at lines 178--213
 )
 LaTeX Info: Redefining \. on input line 51.
 LaTeX Info: Redefining \% on input line 51.
- [56] (arquitectura/lenguaje/puntosvista/negocio.tex
+ [58] (arquitectura/lenguaje/puntosvista/negocio.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
- [57]
+ [59]
 LaTeX Info: Redefining \. on input line 18.
 LaTeX Info: Redefining \% on input line 18.
 
-[58]
-<imgs/puntos_vista/negocio/vistaFuncionNegocio.png, id=381, 259.7203pt x 85.820
+[60]
+<imgs/puntos_vista/negocio/vistaFuncionNegocio.png, id=387, 259.7203pt x 85.820
 62pt>
 File: imgs/puntos_vista/negocio/vistaFuncionNegocio.png Graphic file (type png)
 
@@ -1611,7 +1646,7 @@ File: imgs/puntos_vista/negocio/vistaFuncionNegocio.png Graphic file (type png)
 Package pdftex.def Info: imgs/puntos_vista/negocio/vistaFuncionNegocio.png  use
 d on input line 25.
 (pdftex.def)             Requested size: 251.9989pt x 83.26944pt.
-<imgs/puntos_vista/negocio/vistaProcesoNegocio.PNG, id=382, 715.17188pt x 486.3
+<imgs/puntos_vista/negocio/vistaProcesoNegocio.PNG, id=388, 715.17188pt x 486.3
 1688pt>
 File: imgs/puntos_vista/negocio/vistaProcesoNegocio.PNG Graphic file (type png)
 
@@ -1621,7 +1656,7 @@ d on input line 41.
 (pdftex.def)             Requested size: 323.9978pt x 220.31726pt.
 LaTeX Info: Redefining \. on input line 49.
 LaTeX Info: Redefining \% on input line 49.
- [59 <./imgs/puntos_vista/negocio/vistaFuncionNegocio.png>]
+ [61 <./imgs/puntos_vista/negocio/vistaFuncionNegocio.png>]
 File: imgs/puntos_vista/negocio/vistaProcesoNegocio.PNG Graphic file (type png)
 
 <use imgs/puntos_vista/negocio/vistaProcesoNegocio.PNG>
@@ -1632,8 +1667,8 @@ d on input line 60.
 (arquitectura/lenguaje/puntosvista/aplicacion.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [60 <./imgs/puntos_vista/negocio/vistaProcesoNegocio.PNG>]
-<imgs/puntos_vista/aplicacion/vistacomportamiento.png, id=391, 353.06906pt x 15
+ [62 <./imgs/puntos_vista/negocio/vistaProcesoNegocio.PNG>]
+<imgs/puntos_vista/aplicacion/vistacomportamiento.png, id=398, 353.06906pt x 15
 6.585pt>
 File: imgs/puntos_vista/aplicacion/vistacomportamiento.png Graphic file (type p
 ng)
@@ -1643,8 +1678,8 @@ used on input line 9.
 (pdftex.def)             Requested size: 323.9978pt x 143.69199pt.
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
- [61]
-<imgs/puntos_vista/aplicacion/vistacooperacion.png, id=396, 348.55219pt x 150.5
+ [63]
+<imgs/puntos_vista/aplicacion/vistacooperacion.png, id=402, 348.55219pt x 150.5
 625pt>
 File: imgs/puntos_vista/aplicacion/vistacooperacion.png Graphic file (type png)
 
@@ -1652,7 +1687,7 @@ File: imgs/puntos_vista/aplicacion/vistacooperacion.png Graphic file (type png)
 Package pdftex.def Info: imgs/puntos_vista/aplicacion/vistacooperacion.png  use
 d on input line 20.
 (pdftex.def)             Requested size: 323.9978pt x 139.96193pt.
-<imgs/puntos_vista/aplicacion/vistaestructura.png, id=397, 304.88907pt x 85.067
+<imgs/puntos_vista/aplicacion/vistaestructura.png, id=403, 304.88907pt x 85.067
 81pt>
 File: imgs/puntos_vista/aplicacion/vistaestructura.png Graphic file (type png)
 <use imgs/puntos_vista/aplicacion/vistaestructura.png>
@@ -1662,25 +1697,25 @@ Package pdftex.def Info: imgs/puntos_vista/aplicacion/vistaestructura.png  used
 )
 LaTeX Info: Redefining \. on input line 55.
 LaTeX Info: Redefining \% on input line 55.
- [62 <./imgs/puntos_vista/aplicacion/vistacomportamiento.png> <./imgs/puntos_vi
+ [64 <./imgs/puntos_vista/aplicacion/vistacomportamiento.png> <./imgs/puntos_vi
 sta/aplicacion/vistacooperacion.png>]
 (arquitectura/lenguaje/puntosvista/tecnologia.tex
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
- [63 <./imgs/puntos_vista/aplicacion/vistaestructura.png>]
-<imgs/puntos_vista/tecnologia/MMDUDI.jpg, id=407, 639.38875pt x 496.85625pt>
+ [65 <./imgs/puntos_vista/aplicacion/vistaestructura.png>]
+<imgs/puntos_vista/tecnologia/MMDUDI.jpg, id=413, 639.38875pt x 496.85625pt>
 File: imgs/puntos_vista/tecnologia/MMDUDI.jpg Graphic file (type jpg)
 <use imgs/puntos_vista/tecnologia/MMDUDI.jpg>
 Package pdftex.def Info: imgs/puntos_vista/tecnologia/MMDUDI.jpg  used on input
  line 16.
 (pdftex.def)             Requested size: 180.0pt x 139.87694pt.
-<imgs/puntos_vista/tecnologia/MDUDI.jpg, id=408, 866.23625pt x 349.305pt>
+<imgs/puntos_vista/tecnologia/MDUDI.jpg, id=414, 866.23625pt x 349.305pt>
 File: imgs/puntos_vista/tecnologia/MDUDI.jpg Graphic file (type jpg)
 <use imgs/puntos_vista/tecnologia/MDUDI.jpg>
 Package pdftex.def Info: imgs/puntos_vista/tecnologia/MDUDI.jpg  used on input 
 line 29.
 (pdftex.def)             Requested size: 180.0pt x 72.58336pt.
-<imgs/puntos_vista/tecnologia/MMDIYD.jpg, id=409, 602.25pt x 452.69125pt>
+<imgs/puntos_vista/tecnologia/MMDIYD.jpg, id=415, 602.25pt x 452.69125pt>
 File: imgs/puntos_vista/tecnologia/MMDIYD.jpg Graphic file (type jpg)
 <use imgs/puntos_vista/tecnologia/MMDIYD.jpg>
 Package pdftex.def Info: imgs/puntos_vista/tecnologia/MMDIYD.jpg  used on input
@@ -1692,9 +1727,9 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Info: Redefining \. on input line 50.
 LaTeX Info: Redefining \% on input line 50.
-[64 <./imgs/puntos_vista/tecnologia/MMDUDI.jpg> <./imgs/puntos_vista/tecnologia
+[66 <./imgs/puntos_vista/tecnologia/MMDUDI.jpg> <./imgs/puntos_vista/tecnologia
 /MDUDI.jpg>]
-<imgs/puntos_vista/tecnologia/MDIYD.jpg, id=413, 740.7675pt x 241.90375pt>
+<imgs/puntos_vista/tecnologia/MDIYD.jpg, id=419, 740.7675pt x 241.90375pt>
 File: imgs/puntos_vista/tecnologia/MDIYD.jpg Graphic file (type jpg)
 <use imgs/puntos_vista/tecnologia/MDIYD.jpg>
 Package pdftex.def Info: imgs/puntos_vista/tecnologia/MDIYD.jpg  used on input 
@@ -1702,19 +1737,19 @@ line 54.
 (pdftex.def)             Requested size: 180.0pt x 58.77785pt.
 LaTeX Info: Redefining \. on input line 84.
 LaTeX Info: Redefining \% on input line 84.
- [65 <./imgs/puntos_vista/tecnologia/MMDIYD.jpg> <./imgs/puntos_vista/tecnologi
+ [67 <./imgs/puntos_vista/tecnologia/MMDIYD.jpg> <./imgs/puntos_vista/tecnologi
 a/MDIYD.jpg>])) (arquitectura/motivacion.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [66]
+ [68]
 Cap\'{\i }tulo 4.
-[67
+[69
 
 ]
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
- [68]
-<imgs/meta/Motivacion.pdf, id=427, 636.3775pt x 344.28625pt>
+ [70]
+<imgs/meta/Motivacion.pdf, id=433, 636.3775pt x 344.28625pt>
 File: imgs/meta/Motivacion.pdf Graphic file (type pdf)
 <use imgs/meta/Motivacion.pdf>
 Package pdftex.def Info: imgs/meta/Motivacion.pdf  used on input line 22.
@@ -1731,16 +1766,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
 LaTeX Info: Redefining \. on input line 30.
 LaTeX Info: Redefining \% on input line 30.
-[69 <./imgs/meta/Motivacion.pdf>]
+[71 <./imgs/meta/Motivacion.pdf>]
 \openout2 = `arquitectura/motivacion/implicados.aux'.
 
  (arquitectura/motivacion/implicados.tex
-<imgs/modelo/Interesado.pdf, id=432, 297.11pt x 115.43124pt>
+<imgs/modelo/Interesado.pdf, id=438, 297.11pt x 115.43124pt>
 File: imgs/modelo/Interesado.pdf Graphic file (type pdf)
 <use imgs/modelo/Interesado.pdf>
 Package pdftex.def Info: imgs/modelo/Interesado.pdf  used on input line 7.
 (pdftex.def)             Requested size: 360.0pt x 139.87125pt.
-<imgs/motivacion/implicados/imp1.pdf, id=433, 684.5575pt x 255.95625pt>
+<imgs/motivacion/implicados/imp1.pdf, id=439, 684.5575pt x 255.95625pt>
 File: imgs/motivacion/implicados/imp1.pdf Graphic file (type pdf)
 <use imgs/motivacion/implicados/imp1.pdf>
 Package pdftex.def Info: imgs/motivacion/implicados/imp1.pdf  used on input lin
@@ -1749,27 +1784,27 @@ e 18.
 LaTeX Info: Redefining \. on input line 20.
 LaTeX Info: Redefining \% on input line 20.
 
-[70
+[72
 
  <./imgs/modelo/Interesado.pdf>])
 LaTeX Info: Redefining \. on input line 31.
 LaTeX Info: Redefining \% on input line 31.
- [71 <./imgs/motivacion/implicados/imp1.pdf>]
+ [73 <./imgs/motivacion/implicados/imp1.pdf>]
 \openout2 = `arquitectura/motivacion/realizacionObj.aux'.
 
  (arquitectura/motivacion/realizacionObj.tex
-<imgs/modelo/realObjetivos.pdf, id=505, 292.09125pt x 155.58125pt>
+<imgs/modelo/realObjetivos.pdf, id=512, 292.09125pt x 155.58125pt>
 File: imgs/modelo/realObjetivos.pdf Graphic file (type pdf)
 <use imgs/modelo/realObjetivos.pdf>
 Package pdftex.def Info: imgs/modelo/realObjetivos.pdf  used on input line 9.
 (pdftex.def)             Requested size: 360.0pt x 191.76973pt.
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
- [72
+ [74
 
 
  <./imgs/modelo/realObjetivos.pdf>]
-<imgs/motivacion/realizacionObj/realizacion.pdf, id=546, 618.31pt x 262.9825pt>
+<imgs/motivacion/realizacionObj/realizacion.pdf, id=553, 618.31pt x 262.9825pt>
 
 File: imgs/motivacion/realizacionObj/realizacion.pdf Graphic file (type pdf)
 <use imgs/motivacion/realizacionObj/realizacion.pdf>
@@ -1783,7 +1818,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--32
 
 LaTeX Info: Redefining \. on input line 32.
 LaTeX Info: Redefining \% on input line 32.
-[73 <./imgs/motivacion/realizacionObj/realizacion.pdf>]
+[75 <./imgs/motivacion/realizacionObj/realizacion.pdf>]
 \openout2 = `arquitectura/motivacion/contribucionObj.aux'.
 
 
@@ -1802,7 +1837,7 @@ LaTeX Info: Redefining \% on input line 32.
 (arquitectura/motivacion/motivacion.tex)) (arquitectura/estrategia.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [74
+ [76
 
 
 
@@ -1815,24 +1850,24 @@ LaTeX Info: Redefining \% on input line 1.
 
 ]
 Cap\'{\i }tulo 5.
-[75]
-<imgs/meta/Estrategia.pdf, id=579, 313.17pt x 124.465pt>
+[77]
+<imgs/meta/Estrategia.pdf, id=585, 313.17pt x 124.465pt>
 File: imgs/meta/Estrategia.pdf Graphic file (type pdf)
 <use imgs/meta/Estrategia.pdf>
 Package pdftex.def Info: imgs/meta/Estrategia.pdf  used on input line 10.
 (pdftex.def)             Requested size: 323.9978pt x 128.77202pt.
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
- [76 <./imgs/meta/Estrategia.pdf>]
-<imgs/modelo/MapaCapacidad.pdf, id=584, 183.68625pt x 104.39pt>
+ [78 <./imgs/meta/Estrategia.pdf>]
+<imgs/modelo/MapaCapacidad.pdf, id=590, 183.68625pt x 104.39pt>
 File: imgs/modelo/MapaCapacidad.pdf Graphic file (type pdf)
 <use imgs/modelo/MapaCapacidad.pdf>
 Package pdftex.def Info: imgs/modelo/MapaCapacidad.pdf  used on input line 23.
 (pdftex.def)             Requested size: 180.0pt x 102.30148pt.
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
- [77 <./imgs/modelo/MapaCapacidad.pdf>]
-<imgs/caso/MapaCapacidad.pdf, id=610, 183.68625pt x 104.39pt>
+ [79 <./imgs/modelo/MapaCapacidad.pdf>]
+<imgs/caso/MapaCapacidad.pdf, id=617, 183.68625pt x 104.39pt>
 File: imgs/caso/MapaCapacidad.pdf Graphic file (type pdf)
 <use imgs/caso/MapaCapacidad.pdf>
 Package pdftex.def Info: imgs/caso/MapaCapacidad.pdf  used on input line 33.
@@ -1840,28 +1875,28 @@ Package pdftex.def Info: imgs/caso/MapaCapacidad.pdf  used on input line 33.
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
 
-[78 <./imgs/caso/MapaCapacidad.pdf>]) (arquitectura/negocio.tex
+[80 <./imgs/caso/MapaCapacidad.pdf>]) (arquitectura/negocio.tex
 Cap\'{\i }tulo 6.
-[79
+[81
 
 ]
-<imgs/meta/Negocio.pdf, id=640, 456.70625pt x 294.09875pt>
+<imgs/meta/Negocio.pdf, id=646, 456.70625pt x 294.09875pt>
 File: imgs/meta/Negocio.pdf Graphic file (type pdf)
 <use imgs/meta/Negocio.pdf>
 Package pdftex.def Info: imgs/meta/Negocio.pdf  used on input line 9.
 (pdftex.def)             Requested size: 323.9978pt x 208.64552pt.
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
- [80 <./imgs/meta/Negocio.pdf>]
-<imgs/modelo/Organizacion.pdf, id=659, 252.945pt x 148.555pt>
+ [82 <./imgs/meta/Negocio.pdf>]
+<imgs/modelo/Organizacion.pdf, id=665, 252.945pt x 148.555pt>
 File: imgs/modelo/Organizacion.pdf Graphic file (type pdf)
 <use imgs/modelo/Organizacion.pdf>
 Package pdftex.def Info: imgs/modelo/Organizacion.pdf  used on input line 22.
 (pdftex.def)             Requested size: 180.0pt x 105.71506pt.
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
- [81 <./imgs/modelo/Organizacion.pdf>]
-<imgs/caso/Organizacion.pdf, id=671, 252.945pt x 148.555pt>
+ [83 <./imgs/modelo/Organizacion.pdf>]
+<imgs/caso/Organizacion.pdf, id=677, 252.945pt x 148.555pt>
 File: imgs/caso/Organizacion.pdf Graphic file (type pdf)
 <use imgs/caso/Organizacion.pdf>
 Package pdftex.def Info: imgs/caso/Organizacion.pdf  used on input line 32.
@@ -1869,20 +1904,20 @@ Package pdftex.def Info: imgs/caso/Organizacion.pdf  used on input line 32.
 LaTeX Info: Redefining \. on input line 37.
 LaTeX Info: Redefining \% on input line 37.
 
-[82 <./imgs/caso/Organizacion.pdf>]) (arquitectura/aplicacion.tex
+[84 <./imgs/caso/Organizacion.pdf>]) (arquitectura/aplicacion.tex
 Cap\'{\i }tulo 7.
-[83
+[85
 
 ]
-<imgs/meta/Aplicacion.pdf, id=686, 438.63875pt x 283.0575pt>
+<imgs/meta/Aplicacion.pdf, id=693, 438.63875pt x 283.0575pt>
 File: imgs/meta/Aplicacion.pdf Graphic file (type pdf)
 <use imgs/meta/Aplicacion.pdf>
 Package pdftex.def Info: imgs/meta/Aplicacion.pdf  used on input line 10.
 (pdftex.def)             Requested size: 323.9978pt x 209.0835pt.
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
- [84 <./imgs/meta/Aplicacion.pdf>]
-<imgs/modelo/CmtoAplicacion.pdf, id=698, 399.4925pt x 181.67876pt>
+ [86 <./imgs/meta/Aplicacion.pdf>]
+<imgs/modelo/CmtoAplicacion.pdf, id=705, 399.4925pt x 181.67876pt>
 File: imgs/modelo/CmtoAplicacion.pdf Graphic file (type pdf)
 <use imgs/modelo/CmtoAplicacion.pdf>
 Package pdftex.def Info: imgs/modelo/CmtoAplicacion.pdf  used on input line 23.
@@ -1890,8 +1925,8 @@ Package pdftex.def Info: imgs/modelo/CmtoAplicacion.pdf  used on input line 23.
 (pdftex.def)             Requested size: 288.0011pt x 130.98047pt.
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
- [85 <./imgs/modelo/CmtoAplicacion.pdf>]
-<imgs/caso/CmtoAplicacion.pdf, id=711, 399.4925pt x 181.67876pt>
+ [87 <./imgs/modelo/CmtoAplicacion.pdf>]
+<imgs/caso/CmtoAplicacion.pdf, id=717, 399.4925pt x 181.67876pt>
 File: imgs/caso/CmtoAplicacion.pdf Graphic file (type pdf)
 <use imgs/caso/CmtoAplicacion.pdf>
 Package pdftex.def Info: imgs/caso/CmtoAplicacion.pdf  used on input line 33.
@@ -1899,20 +1934,20 @@ Package pdftex.def Info: imgs/caso/CmtoAplicacion.pdf  used on input line 33.
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
 
-[86 <./imgs/caso/CmtoAplicacion.pdf>]) (arquitectura/tecnologia.tex
+[88 <./imgs/caso/CmtoAplicacion.pdf>]) (arquitectura/tecnologia.tex
 Cap\'{\i }tulo 8.
-[87
+[89
 
 ]
-<imgs/meta/Tecnologia.pdf, id=726, 558.085pt x 310.15875pt>
+<imgs/meta/Tecnologia.pdf, id=732, 558.085pt x 310.15875pt>
 File: imgs/meta/Tecnologia.pdf Graphic file (type pdf)
 <use imgs/meta/Tecnologia.pdf>
 Package pdftex.def Info: imgs/meta/Tecnologia.pdf  used on input line 10.
 (pdftex.def)             Requested size: 323.9978pt x 180.0673pt.
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
- [88 <./imgs/meta/Tecnologia.pdf>]
-<imgs/modelo/Implementacion.pdf, id=738, 351.3125pt x 269.005pt>
+ [90 <./imgs/meta/Tecnologia.pdf>]
+<imgs/modelo/Implementacion.pdf, id=744, 351.3125pt x 269.005pt>
 File: imgs/modelo/Implementacion.pdf Graphic file (type pdf)
 <use imgs/modelo/Implementacion.pdf>
 Package pdftex.def Info: imgs/modelo/Implementacion.pdf  used on input line 23.
@@ -1920,8 +1955,8 @@ Package pdftex.def Info: imgs/modelo/Implementacion.pdf  used on input line 23.
 (pdftex.def)             Requested size: 180.0pt x 137.83105pt.
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
- [89 <./imgs/modelo/Implementacion.pdf>]
-<imgs/caso/Implementacion.pdf, id=757, 351.3125pt x 269.005pt>
+ [91 <./imgs/modelo/Implementacion.pdf>]
+<imgs/caso/Implementacion.pdf, id=764, 351.3125pt x 269.005pt>
 File: imgs/caso/Implementacion.pdf Graphic file (type pdf)
 <use imgs/caso/Implementacion.pdf>
 Package pdftex.def Info: imgs/caso/Implementacion.pdf  used on input line 33.
@@ -1929,52 +1964,52 @@ Package pdftex.def Info: imgs/caso/Implementacion.pdf  used on input line 33.
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
 
-[90 <./imgs/caso/Implementacion.pdf>]) (arquitectura/proyecto.tex
+[92 <./imgs/caso/Implementacion.pdf>]) (arquitectura/proyecto.tex
 Cap\'{\i }tulo 9.
-[91
+[93
 
 ]
-<imgs/meta/Proyecto.pdf, id=780, 592.2125pt x 235.88126pt>
+<imgs/meta/Proyecto.pdf, id=786, 592.2125pt x 235.88126pt>
 File: imgs/meta/Proyecto.pdf Graphic file (type pdf)
 <use imgs/meta/Proyecto.pdf>
 Package pdftex.def Info: imgs/meta/Proyecto.pdf  used on input line 10.
 (pdftex.def)             Requested size: 323.9978pt x 129.05482pt.
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
- [92 <./imgs/meta/Proyecto.pdf>]
-<imgs/modelo/Proyecto.pdf, id=785, 356.33125pt x 116.435pt>
+ [94 <./imgs/meta/Proyecto.pdf>]
+<imgs/modelo/Proyecto.pdf, id=791, 356.33125pt x 116.435pt>
 File: imgs/modelo/Proyecto.pdf Graphic file (type pdf)
 <use imgs/modelo/Proyecto.pdf>
 Package pdftex.def Info: imgs/modelo/Proyecto.pdf  used on input line 23.
 (pdftex.def)             Requested size: 323.9978pt x 105.87428pt.
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
- [93 <./imgs/modelo/Proyecto.pdf>]
-<imgs/caso/Proyecto.pdf, id=797, 356.33125pt x 116.435pt>
+ [95 <./imgs/modelo/Proyecto.pdf>]
+<imgs/caso/Proyecto.pdf, id=803, 356.33125pt x 116.435pt>
 File: imgs/caso/Proyecto.pdf Graphic file (type pdf)
 <use imgs/caso/Proyecto.pdf>
 Package pdftex.def Info: imgs/caso/Proyecto.pdf  used on input line 33.
 (pdftex.def)             Requested size: 323.9978pt x 105.87428pt.
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
- [94 <./imgs/caso/Proyecto.pdf>]) [95
+ [96 <./imgs/caso/Proyecto.pdf>]) [97
 
-] [96] (patrones/creacionales.tex
+] [98] (patrones/creacionales.tex
 Cap\'{\i }tulo 10.
-[97
+[99
 
 ]
-<imgs/patrones/MRSingleton.pdf, id=819, 309.155pt x 156.585pt>
+<imgs/patrones/MRSingleton.pdf, id=825, 309.155pt x 156.585pt>
 File: imgs/patrones/MRSingleton.pdf Graphic file (type pdf)
 <use imgs/patrones/MRSingleton.pdf>
 Package pdftex.def Info: imgs/patrones/MRSingleton.pdf  used on input line 9.
 (pdftex.def)             Requested size: 251.9989pt x 127.64073pt.
-<imgs/patrones/MFSingleton.pdf, id=820, 222.8325pt x 119.44624pt>
+<imgs/patrones/MFSingleton.pdf, id=826, 222.8325pt x 119.44624pt>
 File: imgs/patrones/MFSingleton.pdf Graphic file (type pdf)
 <use imgs/patrones/MFSingleton.pdf>
 Package pdftex.def Info: imgs/patrones/MFSingleton.pdf  used on input line 12.
 (pdftex.def)             Requested size: 251.9989pt x 135.08202pt.
-<imgs/patrones/MESingleton.pdf, id=821, 239.89626pt x 143.53625pt>
+<imgs/patrones/MESingleton.pdf, id=827, 239.89626pt x 143.53625pt>
 File: imgs/patrones/MESingleton.pdf Graphic file (type pdf)
 <use imgs/patrones/MESingleton.pdf>
 Package pdftex.def Info: imgs/patrones/MESingleton.pdf  used on input line 15.
@@ -1985,13 +2020,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Info: Redefining \. on input line 20.
 LaTeX Info: Redefining \% on input line 20.
-[98 <./imgs/patrones/MRSingleton.pdf> <./imgs/patrones/MFSingleton.pdf>]
-<imgs/patrones/CRSingleton.pdf, id=841, 281.05pt x 149.55875pt>
+[100 <./imgs/patrones/MRSingleton.pdf> <./imgs/patrones/MFSingleton.pdf>]
+<imgs/patrones/CRSingleton.pdf, id=847, 281.05pt x 149.55875pt>
 File: imgs/patrones/CRSingleton.pdf Graphic file (type pdf)
 <use imgs/patrones/CRSingleton.pdf>
 Package pdftex.def Info: imgs/patrones/CRSingleton.pdf  used on input line 21.
 (pdftex.def)             Requested size: 251.9989pt x 134.09956pt.
-<imgs/patrones/CFSingleton.pdf, id=842, 224.84pt x 119.44624pt>
+<imgs/patrones/CFSingleton.pdf, id=848, 224.84pt x 119.44624pt>
 File: imgs/patrones/CFSingleton.pdf Graphic file (type pdf)
 <use imgs/patrones/CFSingleton.pdf>
 Package pdftex.def Info: imgs/patrones/CFSingleton.pdf  used on input line 24.
@@ -2000,7 +2035,7 @@ Package pdftex.def Info: imgs/patrones/CFSingleton.pdf  used on input line 24.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<imgs/patrones/CESingleton.pdf, id=843, 237.88875pt x 148.555pt>
+<imgs/patrones/CESingleton.pdf, id=849, 237.88875pt x 148.555pt>
 File: imgs/patrones/CESingleton.pdf Graphic file (type pdf)
 <use imgs/patrones/CESingleton.pdf>
 Package pdftex.def Info: imgs/patrones/CESingleton.pdf  used on input line 27.
@@ -2010,23 +2045,23 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
-[99 <./imgs/patrones/MESingleton.pdf> <./imgs/patrones/CRSingleton.pdf>])
+[101 <./imgs/patrones/MESingleton.pdf> <./imgs/patrones/CRSingleton.pdf>])
 LaTeX Info: Redefining \. on input line 85.
 LaTeX Info: Redefining \% on input line 85.
 
-[100 <./imgs/patrones/CFSingleton.pdf> <./imgs/patrones/CESingleton.pdf>]
-[101
+[102 <./imgs/patrones/CFSingleton.pdf> <./imgs/patrones/CESingleton.pdf>]
+[103
 
-] [102] (reflexiones/conclusiones.tex
+] [104] (reflexiones/conclusiones.tex
 Cap\'{\i }tulo 11.
-) (info.bbl [103
+) (info.bbl [105
 
 ]
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [104
+ [106
 
-]) [105] (info.aux
+]) [107] (info.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 
@@ -2043,7 +2078,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  8357 strings out of 480930
  164618 string characters out of 2909548
- 654639 words of memory out of 3000000
+ 653639 words of memory out of 3000000
  23834 multiletter control sequences out of 15000+200000
  540131 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2058,9 +2093,9 @@ m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/public/amsfonts/cm/cmti10.pfb>
-Output written on info.pdf (105 pages, 2966129 bytes).
+Output written on info.pdf (107 pages, 2969432 bytes).
 PDF statistics:
- 951 PDF objects out of 1000 (max. 8388607)
+ 957 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  651 words of extra memory for PDF output out of 10000 (max. 10000000)
 
