@@ -1,322 +1,636 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.5)  29 OCT 2020 20:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.6.3)  29 OCT 2020 23:15
 entering extended mode
-**./info.tex
-(info.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-04-06>
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\book.cls"
-Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\bk11.clo"
-File: bk11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+ \write18 enabled.
+ %&-line parsing enabled.
+**info.tex
+(./info.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@chapter=\count168
-\c@section=\count169
-\c@subsection=\count170
-\c@subsubsection=\count171
-\c@paragraph=\count172
-\c@subparagraph=\count173
-\c@figure=\count174
-\c@table=\count175
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen134
-) (setup/paquetes.tex
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./setup/paquetes.tex
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks15
+\KV@toks@=\toks14
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 105.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen135
-\Gin@req@width=\dimen136
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
-Package: babel 2020/03/22 3.42 The Babel package
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/02/14 3.18 The Babel package
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/babel\switch.def"
-File: switch.def 2020/03/22 3.42 Babel switching mechanism
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
 )
-*************************************
-* Local config file bblopts.cfg used
-*
-("C:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-("C:\Program Files\MiKTeX 2.9\tex/latex/babel-spanish\spanish.ldf"
+(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
-File: babel.def 2020/03/22 3.42 Babel common definitions
-\babel@savecnt=\count176
-\U@D=\dimen137
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen105
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
-\bbl@readstream=\read2
-\bbl@dirlevel=\count177
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count89
 )
-\es@quottoks=\toks16
-\es@quotdepth=\count178
+\es@quottoks=\toks15
+\es@quotdepth=\count90
 Package babel Info: Making " an active character on input line 561.
 Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
 Package babel Info: Making > an active character on input line 707.
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/tools\verbatim.sty"
-Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks17
-\verbatim@line=\toks18
-\verbatim@in@stream=\read3
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read1
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.sty"
-\lst@mode=\count179
-\lst@gtempboxa=\box45
-\lst@token=\toks19
-\lst@length=\count180
-\lst@currlwidth=\dimen138
-\lst@column=\count181
-\lst@pos=\count182
-\lst@lostspace=\dimen139
-\lst@width=\dimen140
-\lst@newlines=\count183
-\lst@lineno=\count184
-\lst@maxwidth=\dimen141
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count91
+\lst@gtempboxa=\box26
+\lst@token=\toks18
+\lst@length=\count92
+\lst@currlwidth=\dimen106
+\lst@column=\count93
+\lst@pos=\count94
+\lst@lostspace=\dimen107
+\lst@width=\dimen108
+\lst@newlines=\count95
+\lst@lineno=\count96
+\lst@maxwidth=\dimen109
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
-File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count185
-\lst@skipnumbers=\count186
-\lst@framebox=\box46
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count97
+\lst@skipnumbers=\count98
+\lst@framebox=\box27
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.cfg"
-File: listings.cfg 2020/03/24 1.8d listings configuration
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
-Package: listings 2020/03/24 1.8d (Carsten Heinz)
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
-Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/minted\minted.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/minted/minted.sty
 Package: minted 2017/07/19 v2.5 Yet another Pygments shim for LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/kvoptions\kvoptions.sty"
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.sty"
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetkeys.sty"
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-))
-("C:\Program Files\MiKTeX 2.9\tex/latex/fvextra\fvextra.sty"
-Package: fvextra 2019/02/04 v1.4 fvextra - extensions and patches for fancyvrb
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/fvextra/fvextra.sty
+Package: fvextra 2017/07/08 v1.3.1 fvextra - extensions and patches for fancyvr
+b
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.sty"
-Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count187
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count99
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/fancyvrb\fancyvrb.sty"
-Package: fancyvrb 2020/05/03 v3.6 verbatim text (tvz,hv)
-\FV@CodeLineNo=\count188
-\FV@InFile=\read4
-\FV@TabBox=\box47
-\c@FancyVerbLine=\count189
-\FV@StepNumber=\count190
+(/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count100
+\FV@InFile=\read2
+\FV@TabBox=\box28
+\c@FancyVerbLine=\count101
+\FV@StepNumber=\count102
 \FV@OutFile=\write3
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/upquote\upquote.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/lineno\lineno.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty
 Package: lineno 2005/11/02 line numbers on paragraphs v4.41
-\linenopenalty=\count191
-\output=\toks20
-\linenoprevgraf=\count192
-\linenumbersep=\dimen142
-\linenumberwidth=\dimen143
-\c@linenumber=\count193
-\c@pagewiselinenumber=\count194
-\c@LN@truepage=\count195
-\c@internallinenumber=\count196
-\c@internallinenumbers=\count197
-\quotelinenumbersep=\dimen144
-\bframerule=\dimen145
-\bframesep=\dimen146
-\bframebox=\box48
+\linenopenalty=\count103
+\output=\toks19
+\linenoprevgraf=\count104
+\linenumbersep=\dimen110
+\linenumberwidth=\dimen111
+\c@linenumber=\count105
+\c@pagewiselinenumber=\count106
+\c@LN@truepage=\count107
+\c@internallinenumber=\count108
+\c@internallinenumbers=\count109
+\quotelinenumbersep=\dimen112
+\bframerule=\dimen113
+\bframesep=\dimen114
+\bframebox=\box29
 LaTeX Info: Redefining \\ on input line 3056.
 )
-\c@FV@TrueTabGroupLevel=\count198
-\c@FV@TrueTabCounter=\count199
-\FV@TabBox@Group=\box49
-\FV@TmpLength=\skip49
-\c@FV@HighlightLinesStart=\count266
-\c@FV@HighlightLinesStop=\count267
-\FV@LoopCount=\count268
-\FV@NCharsBox=\box50
-\FV@BreakIndent=\dimen147
-\FV@BreakIndentNChars=\count269
-\FV@BreakSymbolSepLeft=\dimen148
-\FV@BreakSymbolSepLeftNChars=\count270
-\FV@BreakSymbolSepRight=\dimen149
-\FV@BreakSymbolSepRightNChars=\count271
-\FV@BreakSymbolIndentLeft=\dimen150
-\FV@BreakSymbolIndentLeftNChars=\count272
-\FV@BreakSymbolIndentRight=\dimen151
-\FV@BreakSymbolIndentRightNChars=\count273
-\c@FancyVerbLineBreakLast=\count274
-\FV@LineBox=\box51
-\FV@LineIndentBox=\box52
-\FV@LineWidth=\dimen152
+\c@FV@TrueTabGroupLevel=\count110
+\c@FV@TrueTabCounter=\count111
+\FV@TabBox@Group=\box30
+\FV@TmpLength=\skip43
+\c@FV@HighlightLinesStart=\count112
+\c@FV@HighlightLinesStop=\count113
+\FV@LoopCount=\count114
+\FV@NCharsBox=\box31
+\FV@BreakIndent=\dimen115
+\FV@BreakIndentNChars=\count115
+\FV@BreakSymbolSepLeft=\dimen116
+\FV@BreakSymbolSepLeftNChars=\count116
+\FV@BreakSymbolSepRight=\dimen117
+\FV@BreakSymbolSepRightNChars=\count117
+\FV@BreakSymbolIndentLeft=\dimen118
+\FV@BreakSymbolIndentLeftNChars=\count118
+\FV@BreakSymbolIndentRight=\dimen119
+\FV@BreakSymbolIndentRightNChars=\count119
+\c@FancyVerbLineBreakLast=\count120
+\FV@LineBox=\box32
+\FV@LineIndentBox=\box33
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/tools\calc.sty"
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count275
-\calc@Bcount=\count276
-\calc@Adimen=\dimen153
-\calc@Bdimen=\dimen154
-\calc@Askip=\skip50
-\calc@Bskip=\skip51
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count121
+\calc@Bcount=\count122
+\calc@Adimen=\dimen120
+\calc@Bdimen=\dimen121
+\calc@Askip=\skip44
+\calc@Bskip=\skip45
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count277
-\calc@Cskip=\skip52
+\calc@Ccount=\count123
+\calc@Cskip=\skip46
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/tools\shellesc.sty"
-Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
-Package shellesc Info: Unrestricted shell escape enabled on input line 75.
+(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Unrestricted shell escape enabled on input line 67.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/ifplatform\ifplatform.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/ifplatform/ifplatform.sty
 Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcmds.sty"
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/infwarerr\infwarerr.sty"
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
-Package: iftex 2020/03/06 v1.0d TeX engine tests
-)
+Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/catchfile\catchfile.sty"
-Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/catchfile.sty
+Package: catchfile 2016/05/16 v1.7 Catch the contents of a file (HO)
+)
+runsystem(uname -s > "info.w18")...executed.
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/etexcmds\etexcmds.sty"
-Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-))
-("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\ifluatex.sty"
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-))
-("C:\Program Files\MiKTeX 2.9\tex/latex/xstring\xstring.sty"
-("C:\Program Files\MiKTeX 2.9\tex/generic/xstring\xstring.tex"
-\integerpart=\count278
-\decimalpart=\count279
+ (./info.w18)
+runsystem(rm -- "info.w18")...executed.
+
+) (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write4
+\integerpart=\count124
+\decimalpart=\count125
 )
-Package: xstring 2019/02/06 v1.83 String manipulations (CT)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/framed\framed.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip53
-\fb@frw=\dimen155
-\fb@frh=\dimen156
-\FrameRule=\dimen157
-\FrameSep=\dimen158
+\OuterFrameSep=\skip47
+\fb@frw=\dimen122
+\fb@frh=\dimen123
+\FrameRule=\dimen124
+\FrameSep=\dimen125
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count280
-\float@exts=\toks21
-\float@box=\box53
-\@float@everytoks=\toks22
-\@floatcapt=\box54
+\c@float@type=\count126
+\float@exts=\toks20
+\float@box=\box34
+\@float@everytoks=\toks21
+\@floatcapt=\box35
 )
-\minted@appexistsfile=\read5
-\minted@bgbox=\box55
-\minted@code=\write4
-\c@minted@FancyVerbLineTemp=\count281
-\c@minted@pygmentizecounter=\count282
-\@float@every@listing=\toks23
-\c@listing=\count283
+\minted@appexistsfile=\read3
+\minted@bgbox=\box36
+\minted@code=\write5
+\c@minted@FancyVerbLineTemp=\count127
+\c@minted@pygmentizecounter=\count128
+\@float@every@listing=\toks22
+\c@listing=\count129
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/tools\longtable.sty"
-Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
-\LTleft=\skip54
-\LTright=\skip55
-\LTpre=\skip56
-\LTpost=\skip57
-\LTchunksize=\count284
-\LTcapwidth=\dimen159
-\LT@head=\box56
-\LT@firsthead=\box57
-\LT@foot=\box58
-\LT@lastfoot=\box59
-\LT@cols=\count285
-\LT@rows=\count286
-\c@LT@tables=\count287
-\c@LT@chunks=\count288
-\LT@p@ftn=\toks24
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip48
+\LTright=\skip49
+\LTpre=\skip50
+\LTpost=\skip51
+\LTchunksize=\count130
+\LTcapwidth=\dimen126
+\LT@head=\box37
+\LT@firsthead=\box38
+\LT@foot=\box39
+\LT@lastfoot=\box40
+\LT@cols=\count131
+\LT@rows=\count132
+\c@LT@tables=\count133
+\c@LT@chunks=\count134
+\LT@p@ftn=\toks23
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
-Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks25
-\inpenc@posthook=\toks26
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks24
+\inpenc@posthook=\toks25
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen127
+\extrarowheight=\dimen128
+\NC@list=\toks26
+\extratabsurround=\skip52
+\backup@length=\skip53
+) (./setup/macros.tex
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/tools\array.sty"
-Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen160
-\ar@mcellbox=\box60
-\extrarowheight=\dimen161
-\NC@list=\toks27
-\extratabsurround=\skip58
-\backup@length=\skip59
-\ar@cellbox=\box61
-) (setup/macros.tex
-("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
-File: lstlang1.sty 2020/03/24 1.8d listings language file
-))
-runsystem(for ^%i in (pygmentize.exe pygmentize.bat pygmentize.cmd) do set > in
-fo.aex <nul: /p x=^%~$PATH:i>> info.aex)...executed.
+runsystem(which pygmentize && touch info.aex)...executed.
 
-runsystem(del info.aex)...executed.
+runsystem(rm info.aex)...executed.
 
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
-File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count289
-\l__pdf_internal_box=\box62
-)
-(info.aux
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
+ (./info.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
 
 
 LaTeX Warning: Label `tab:concepts' multiply defined.
@@ -354,71 +668,231 @@ LaTeX Warning: Label `fig:vistaaplicacion' multiply defined.
 
 LaTeX Warning: Label `tab:concepts' multiply defined.
 
-(arquitectura/motivacion/implicados.aux)
-(arquitectura/motivacion/realizacionObj.aux)
-(arquitectura/motivacion/contribucionObj.aux)
-(arquitectura/motivacion/principios.aux)
-(arquitectura/motivacion/realizacionReq.aux)
-(arquitectura/motivacion/motivacion.aux))
+(./arquitectura/motivacion/implicados.aux)
+(./arquitectura/motivacion/realizacionObj.aux)
+(./arquitectura/motivacion/contribucionObj.aux)
+(./arquitectura/motivacion/principios.aux)
+(./arquitectura/motivacion/realizacionReq.aux)
+(./arquitectura/motivacion/motivacion.aux))
 \openout1 = `info.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 
-("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count290
-\scratchdimen=\dimen162
-\scratchbox=\box63
-\nofMPsegments=\count291
-\nofMParguments=\count292
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count293
-\MPscratchDim=\dimen163
-\MPnumerator=\count294
-\makeMPintoPDFobject=\count295
-\everyMPtoPDFconversion=\toks29
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+\scratchcounter=\count135
+\scratchdimen=\dimen129
+\scratchbox=\box41
+\nofMPsegments=\count136
+\nofMParguments=\count137
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count138
+\MPscratchDim=\dimen130
+\MPnumerator=\count139
+\makeMPintoPDFobject=\count140
+\everyMPtoPDFconversion=\toks28
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-)
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\textcomp.sty"
-Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-\c@lstlisting=\count296
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/scit' undefined
-(Font)              using `OT1/cmr/m/it' instead on input line 52.
-
+\c@lstlisting=\count141
 <imgs/ud.jpeg, id=1, 495.8525pt x 291.0875pt>
 File: imgs/ud.jpeg Graphic file (type jpg)
 <use imgs/ud.jpeg>
 Package pdftex.def Info: imgs/ud.jpeg  used on input line 58.
 (pdftex.def)             Requested size: 108.0011pt x 63.39984pt.
-[1
+ [1
 
 
-{C:/Users/bluep/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./imgs/ud.j
-peg>] [2
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./imgs/ud.jpeg>] [2
 
-] (info.toc
+] (./info.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -428,36 +902,40 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 4.
  [3]
-LaTeX Info: Redefining \. on input line 101.
-LaTeX Info: Redefining \% on input line 101.
- [4])
-\tf@toc=\write5
-\openout5 = `info.toc'.
+LaTeX Info: Redefining \. on input line 102.
+LaTeX Info: Redefining \% on input line 102.
+
+[4])
+\tf@toc=\write6
+\openout6 = `info.toc'.
 
 LaTeX Info: Redefining \. on input line 65.
 LaTeX Info: Redefining \% on input line 65.
  [5]
 LaTeX Info: Redefining \. on input line 65.
 LaTeX Info: Redefining \% on input line 65.
- [6
-
-] (info.lof
+ [6] (./info.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [7])
-\tf@lof=\write6
-\openout6 = `info.lof'.
+ [7
+
+])
+\tf@lof=\write7
+\openout7 = `info.lof'.
 
 LaTeX Info: Redefining \. on input line 67.
 LaTeX Info: Redefining \% on input line 67.
  [8] [9
 
-] [10]
-(proyecto/organizacion.tex
+] [10] (./proyecto/organizacion.tex
 Cap\'{\i }tulo 1.
 [11
 
 ]
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 13.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
 Underfull \vbox (badness 4505) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 20.
@@ -469,13 +947,13 @@ LaTeX Info: Redefining \% on input line 22.
 [13]
 Overfull \hbox (1.38084pt too wide) in paragraph at lines 35--38
 \OT1/cmr/m/n/10.95 cen-tra-li-za-do y con me-ca-nis-mos efi-ca-ces de con-cer-t
-a-cion. Plan Es-trategi-
+a-ci^^Son. Plan Es-trat^^Segi-
  []
 
 LaTeX Info: Redefining \. on input line 46.
 LaTeX Info: Redefining \% on input line 46.
 [14]
-<imgs/organigrama.jpeg, id=54, 1284.8pt x 717.68124pt>
+<imgs/organigrama.jpeg, id=55, 1284.8pt x 717.68124pt>
 File: imgs/organigrama.jpeg Graphic file (type jpg)
 <use imgs/organigrama.jpeg>
 Package pdftex.def Info: imgs/organigrama.jpeg  used on input line 55.
@@ -557,7 +1035,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 217--219
 
  []
 
-) (proyecto/metodologia.tex
+) (./proyecto/metodologia.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [24]
@@ -565,7 +1043,7 @@ Cap\'{\i }tulo 2.
 [25
 
 ]
-<imgs/adm.png, id=90, 416.30531pt x 368.1253pt>
+<imgs/adm.png, id=91, 416.30531pt x 368.1253pt>
 File: imgs/adm.png Graphic file (type png)
 <use imgs/adm.png>
 Package pdftex.def Info: imgs/adm.png  used on input line 9.
@@ -575,62 +1053,61 @@ LaTeX Info: Redefining \. on input line 70.
 LaTeX Info: Redefining \% on input line 70.
  [26 <./imgs/adm.png>] [27
 
-] [28] (arquitectura/lenguaje.tex
+] [28] (./arquitectura/lenguaje.tex
 Cap\'{\i }tulo 3.
 [29
 
 ]
-<imgs/coreFramwork.jpg, id=103, 432.61626pt x 321.2pt>
+<imgs/coreFramwork.jpg, id=104, 432.61626pt x 321.2pt>
 File: imgs/coreFramwork.jpg Graphic file (type jpg)
 <use imgs/coreFramwork.jpg>
 Package pdftex.def Info: imgs/coreFramwork.jpg  used on input line 7.
 (pdftex.def)             Requested size: 251.9989pt x 187.09991pt.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
- [30 <./imgs/coreFramwork.jpg>] (arquitectura/lenguaje/conceptos/meta.tex
+ [30 <./imgs/coreFramwork.jpg>] (./arquitectura/lenguaje/conceptos/meta.tex
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
-
 [31]
-<imgs/conceptos/meta/Motivacion.png, id=111, 123.46124pt x 54.2025pt>
-File: imgs/conceptos/meta/Motivacion.png Graphic file (type png)
-<use imgs/conceptos/meta/Motivacion.png>
-Package pdftex.def Info: imgs/conceptos/meta/Motivacion.png  used on input line
+<imgs/conceptos/meta/Motivacion.PNG, id=112, 123.46124pt x 54.2025pt>
+File: imgs/conceptos/meta/Motivacion.PNG Graphic file (type png)
+<use imgs/conceptos/meta/Motivacion.PNG>
+Package pdftex.def Info: imgs/conceptos/meta/Motivacion.PNG  used on input line
  16.
 (pdftex.def)             Requested size: 68.29007pt x 27.07222pt.
-<imgs/conceptos/meta/Estructura.png, id=113, 116.68594pt x 51.94406pt>
-File: imgs/conceptos/meta/Estructura.png Graphic file (type png)
-<use imgs/conceptos/meta/Estructura.png>
-Package pdftex.def Info: imgs/conceptos/meta/Estructura.png  used on input line
+<imgs/conceptos/meta/Estructura.PNG, id=114, 116.68594pt x 51.94406pt>
+File: imgs/conceptos/meta/Estructura.PNG Graphic file (type png)
+<use imgs/conceptos/meta/Estructura.PNG>
+Package pdftex.def Info: imgs/conceptos/meta/Estructura.PNG  used on input line
  23.
 (pdftex.def)             Requested size: 68.28857pt x 27.07129pt.
-<imgs/conceptos/meta/EstructuraActiva.png, id=114, 158.84344pt x 51.19125pt>
-File: imgs/conceptos/meta/EstructuraActiva.png Graphic file (type png)
-<use imgs/conceptos/meta/EstructuraActiva.png>
-Package pdftex.def Info: imgs/conceptos/meta/EstructuraActiva.png  used on inpu
+<imgs/conceptos/meta/EstructuraActiva.PNG, id=115, 158.84344pt x 51.19125pt>
+File: imgs/conceptos/meta/EstructuraActiva.PNG Graphic file (type png)
+<use imgs/conceptos/meta/EstructuraActiva.PNG>
+Package pdftex.def Info: imgs/conceptos/meta/EstructuraActiva.PNG  used on inpu
 t line 30.
 (pdftex.def)             Requested size: 68.28922pt x 27.07185pt.
-<imgs/conceptos/meta/EstructuraActivaExterna.png, id=115, 206.27063pt x 47.4271
+<imgs/conceptos/meta/EstructuraActivaExterna.PNG, id=116, 206.27063pt x 47.4271
 9pt>
-File: imgs/conceptos/meta/EstructuraActivaExterna.png Graphic file (type png)
-<use imgs/conceptos/meta/EstructuraActivaExterna.png>
-Package pdftex.def Info: imgs/conceptos/meta/EstructuraActivaExterna.png  used 
+File: imgs/conceptos/meta/EstructuraActivaExterna.PNG Graphic file (type png)
+<use imgs/conceptos/meta/EstructuraActivaExterna.PNG>
+Package pdftex.def Info: imgs/conceptos/meta/EstructuraActivaExterna.PNG  used 
 on input line 37.
 (pdftex.def)             Requested size: 68.28668pt x 27.07211pt.
-<imgs/conceptos/meta/EstructuraActivaInterna.PNG, id=116, 206.27063pt x 52.6968
+<imgs/conceptos/meta/EstructuraActivaInterna.PNG, id=117, 206.27063pt x 52.6968
 7pt>
 File: imgs/conceptos/meta/EstructuraActivaInterna.PNG Graphic file (type png)
 <use imgs/conceptos/meta/EstructuraActivaInterna.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/EstructuraActivaInterna.PNG  used 
 on input line 44.
 (pdftex.def)             Requested size: 68.28668pt x 27.07204pt.
-<imgs/conceptos/meta/EstructuraPasiva.PNG, id=117, 158.09062pt x 48.93282pt>
+<imgs/conceptos/meta/EstructuraPasiva.PNG, id=118, 158.09062pt x 48.93282pt>
 File: imgs/conceptos/meta/EstructuraPasiva.PNG Graphic file (type png)
 <use imgs/conceptos/meta/EstructuraPasiva.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/EstructuraPasiva.PNG  used on inpu
 t line 51.
 (pdftex.def)             Requested size: 68.2864pt x 27.07216pt.
-<imgs/conceptos/meta/Interface.PNG, id=118, 62.48344pt x 61.73062pt>
+<imgs/conceptos/meta/Interface.PNG, id=119, 62.48344pt x 61.73062pt>
 File: imgs/conceptos/meta/Interface.PNG Graphic file (type png)
 <use imgs/conceptos/meta/Interface.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/Interface.PNG  used on input line 
@@ -641,13 +1118,13 @@ Overfull \hbox (4.28867pt too wide) in paragraph at lines 63--64
 []|\OT1/cmr/m/n/10.95 Comportamiento| 
  []
 
-<imgs/conceptos/meta/Comportamiento.PNG, id=119, 151.3153pt x 49.68562pt>
+<imgs/conceptos/meta/Comportamiento.PNG, id=120, 151.3153pt x 49.68562pt>
 File: imgs/conceptos/meta/Comportamiento.PNG Graphic file (type png)
 <use imgs/conceptos/meta/Comportamiento.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/Comportamiento.PNG  used on input 
 line 66.
 (pdftex.def)             Requested size: 68.2875pt x 27.07243pt.
-<imgs/conceptos/meta/Evento.PNG, id=120, 108.405pt x 49.68562pt>
+<imgs/conceptos/meta/Evento.PNG, id=121, 108.405pt x 49.68562pt>
 File: imgs/conceptos/meta/Evento.PNG Graphic file (type png)
 <use imgs/conceptos/meta/Evento.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/Evento.PNG  used on input line 73.
@@ -663,7 +1140,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--78
 \OT1/cmr/m/n/10.95 com-por-ta-mien-
  []
 
-<imgs/conceptos/meta/ComportamientoInterno.PNG, id=121, 197.98969pt x 48.18pt>
+<imgs/conceptos/meta/ComportamientoInterno.PNG, id=122, 197.98969pt x 48.18pt>
 File: imgs/conceptos/meta/ComportamientoInterno.PNG Graphic file (type png)
 <use imgs/conceptos/meta/ComportamientoInterno.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/ComportamientoInterno.PNG  used on
@@ -676,31 +1153,31 @@ Overfull \hbox (38.77771pt too wide) in paragraph at lines 8--85
 
 LaTeX Info: Redefining \. on input line 87.
 LaTeX Info: Redefining \% on input line 87.
-[32 <./imgs/conceptos/meta/Motivacion.png> <./imgs/conceptos/meta/Estructura.pn
-g> <./imgs/conceptos/meta/EstructuraActiva.png> <./imgs/conceptos/meta/Estructu
-raActivaExterna.png> <./imgs/conceptos/meta/EstructuraActivaInterna.PNG> <./img
+[32 <./imgs/conceptos/meta/Motivacion.PNG> <./imgs/conceptos/meta/Estructura.PN
+G> <./imgs/conceptos/meta/EstructuraActiva.PNG> <./imgs/conceptos/meta/Estructu
+raActivaExterna.PNG> <./imgs/conceptos/meta/EstructuraActivaInterna.PNG> <./img
 s/conceptos/meta/EstructuraPasiva.PNG> <./imgs/conceptos/meta/Interface.PNG> <.
 /imgs/conceptos/meta/Comportamiento.PNG> <./imgs/conceptos/meta/Evento.PNG> <./
 imgs/conceptos/meta/ComportamientoInterno.PNG>]
-<imgs/conceptos/meta/Servicio.PNG, id=135, 111.41624pt x 50.43843pt>
+<imgs/conceptos/meta/Servicio.PNG, id=136, 111.41624pt x 50.43843pt>
 File: imgs/conceptos/meta/Servicio.PNG Graphic file (type png)
 <use imgs/conceptos/meta/Servicio.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/Servicio.PNG  used on input line 9
 9.
 (pdftex.def)             Requested size: 68.28682pt x 27.07162pt.
-<imgs/conceptos/meta/Funcion.PNG, id=136, 51.19125pt x 60.225pt>
+<imgs/conceptos/meta/Funcion.PNG, id=137, 51.19125pt x 60.225pt>
 File: imgs/conceptos/meta/Funcion.PNG Graphic file (type png)
 <use imgs/conceptos/meta/Funcion.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/Funcion.PNG  used on input line 10
 6.
 (pdftex.def)             Requested size: 68.29126pt x 27.07158pt.
-<imgs/conceptos/meta/Proceso.PNG, id=137, 57.96657pt x 64.74188pt>
+<imgs/conceptos/meta/Proceso.PNG, id=138, 57.96657pt x 64.74188pt>
 File: imgs/conceptos/meta/Proceso.PNG Graphic file (type png)
 <use imgs/conceptos/meta/Proceso.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/Proceso.PNG  used on input line 11
 3.
 (pdftex.def)             Requested size: 68.29291pt x 27.07185pt.
-<imgs/conceptos/meta/Interaccion.PNG, id=138, 71.51718pt x 63.23625pt>
+<imgs/conceptos/meta/Interaccion.PNG, id=139, 71.51718pt x 63.23625pt>
 File: imgs/conceptos/meta/Interaccion.PNG Graphic file (type png)
 <use imgs/conceptos/meta/Interaccion.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/Interaccion.PNG  used on input lin
@@ -711,7 +1188,7 @@ Underfull \hbox (badness 1953) in paragraph at lines 126--127
 \OT1/cmr/m/n/10.95 ele-men-tos es-truc-tu-ras ac-ti-vas in-ter-nas,
  []
 
-<imgs/conceptos/meta/Colaboracion.PNG, id=139, 85.06781pt x 63.23625pt>
+<imgs/conceptos/meta/Colaboracion.PNG, id=140, 85.06781pt x 63.23625pt>
 File: imgs/conceptos/meta/Colaboracion.PNG Graphic file (type png)
 <use imgs/conceptos/meta/Colaboracion.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/Colaboracion.PNG  used on input li
@@ -732,7 +1209,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 131--132
 \OT1/cmr/m/n/10.95 ta-mien-to
  []
 
-<imgs/conceptos/meta/ComportamientoExterno.PNG, id=140, 203.25937pt x 49.68562p
+<imgs/conceptos/meta/ComportamientoExterno.PNG, id=141, 203.25937pt x 49.68562p
 t>
 File: imgs/conceptos/meta/ComportamientoExterno.PNG Graphic file (type png)
 <use imgs/conceptos/meta/ComportamientoExterno.PNG>
@@ -744,7 +1221,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 139--140
 []|\OT1/cmr/m/n/10.95 Elementos
  []
 
-<imgs/conceptos/meta/Compuesto.PNG, id=141, 118.94438pt x 48.93282pt>
+<imgs/conceptos/meta/Compuesto.PNG, id=142, 118.94438pt x 48.93282pt>
 File: imgs/conceptos/meta/Compuesto.PNG Graphic file (type png)
 <use imgs/conceptos/meta/Compuesto.PNG>
 Package pdftex.def Info: imgs/conceptos/meta/Compuesto.PNG  used on input line 
@@ -755,14 +1232,14 @@ Overfull \hbox (27.82768pt too wide) in paragraph at lines 90--148
  [] 
  []
 
-) (arquitectura/lenguaje/conceptos/motivacion.tex
+) (./arquitectura/lenguaje/conceptos/motivacion.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [33 <./imgs/conceptos/meta/Servicio.PNG> <./imgs/conceptos/meta/Funcion.PNG> <
 ./imgs/conceptos/meta/Proceso.PNG> <./imgs/conceptos/meta/Interaccion.PNG> <./i
 mgs/conceptos/meta/Colaboracion.PNG> <./imgs/conceptos/meta/ComportamientoExter
 no.PNG> <./imgs/conceptos/meta/Compuesto.PNG>]
-<imgs/Elementos/Motivacion.PNG, id=152, 98.3675pt x 44.165pt>
+<imgs/Elementos/Motivacion.PNG, id=153, 98.3675pt x 44.165pt>
 File: imgs/Elementos/Motivacion.PNG Graphic file (type png)
 <use imgs/Elementos/Motivacion.PNG>
 Package pdftex.def Info: imgs/Elementos/Motivacion.PNG  used on input line 9.
@@ -770,32 +1247,32 @@ Package pdftex.def Info: imgs/Elementos/Motivacion.PNG  used on input line 9.
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
  [34 <./imgs/Elementos/Motivacion.PNG (PNG copy)>]
-<imgs/Elementos/Implicado.PNG, id=156, 91.34125pt x 44.165pt>
+<imgs/Elementos/Implicado.PNG, id=157, 91.34125pt x 44.165pt>
 File: imgs/Elementos/Implicado.PNG Graphic file (type png)
 <use imgs/Elementos/Implicado.PNG>
 Package pdftex.def Info: imgs/Elementos/Implicado.PNG  used on input line 27.
 (pdftex.def)             Requested size: 68.28972pt x 27.072pt.
-<imgs/Elementos/Manejador.PNG, id=157, 97.36375pt x 44.165pt>
+<imgs/Elementos/Manejador.PNG, id=158, 97.36375pt x 44.165pt>
 File: imgs/Elementos/Manejador.PNG Graphic file (type png)
 <use imgs/Elementos/Manejador.PNG>
 Package pdftex.def Info: imgs/Elementos/Manejador.PNG  used on input line 33.
 (pdftex.def)             Requested size: 68.28934pt x 27.072pt.
-<imgs/Elementos/Valoracion.PNG, id=158, 96.36pt x 44.165pt>
+<imgs/Elementos/Valoracion.PNG, id=159, 96.36pt x 44.165pt>
 File: imgs/Elementos/Valoracion.PNG Graphic file (type png)
 <use imgs/Elementos/Valoracion.PNG>
 Package pdftex.def Info: imgs/Elementos/Valoracion.PNG  used on input line 39.
 (pdftex.def)             Requested size: 68.28667pt x 27.072pt.
-<imgs/Elementos/Objetivo.PNG, id=159, 87.32625pt x 44.165pt>
+<imgs/Elementos/Objetivo.PNG, id=160, 87.32625pt x 44.165pt>
 File: imgs/Elementos/Objetivo.PNG Graphic file (type png)
 <use imgs/Elementos/Objetivo.PNG>
 Package pdftex.def Info: imgs/Elementos/Objetivo.PNG  used on input line 45.
 (pdftex.def)             Requested size: 68.29008pt x 27.072pt.
-<imgs/Elementos/Resultado.PNG, id=160, 94.3525pt x 44.165pt>
+<imgs/Elementos/Resultado.PNG, id=161, 94.3525pt x 44.165pt>
 File: imgs/Elementos/Resultado.PNG Graphic file (type png)
 <use imgs/Elementos/Resultado.PNG>
 Package pdftex.def Info: imgs/Elementos/Resultado.PNG  used on input line 51.
 (pdftex.def)             Requested size: 68.28645pt x 27.072pt.
-<imgs/Elementos/Principio.PNG, id=161, 85.31876pt x 44.165pt>
+<imgs/Elementos/Principio.PNG, id=162, 85.31876pt x 44.165pt>
 File: imgs/Elementos/Principio.PNG Graphic file (type png)
 <use imgs/Elementos/Principio.PNG>
 Package pdftex.def Info: imgs/Elementos/Principio.PNG  used on input line 57.
@@ -805,25 +1282,25 @@ Overfull \hbox (3.8324pt too wide) in paragraph at lines 60--61
 []|\OT1/cmr/m/n/10.95 Requerimiento| 
  []
 
-<imgs/Elementos/Requerimiento.PNG, id=162, 115.43124pt x 44.165pt>
+<imgs/Elementos/Requerimiento.PNG, id=163, 115.43124pt x 44.165pt>
 File: imgs/Elementos/Requerimiento.PNG Graphic file (type png)
 <use imgs/Elementos/Requerimiento.PNG>
 Package pdftex.def Info: imgs/Elementos/Requerimiento.PNG  used on input line 6
 3.
 (pdftex.def)             Requested size: 68.28702pt x 27.072pt.
-<imgs/Elementos/Restriccion.PNG, id=163, 99.37125pt x 44.165pt>
+<imgs/Elementos/Restriccion.PNG, id=164, 99.37125pt x 44.165pt>
 File: imgs/Elementos/Restriccion.PNG Graphic file (type png)
 <use imgs/Elementos/Restriccion.PNG>
 Package pdftex.def Info: imgs/Elementos/Restriccion.PNG  used on input line 69.
 
 (pdftex.def)             Requested size: 68.28874pt x 27.072pt.
-<imgs/Elementos/Significado.PNG, id=164, 123.46124pt x 100.375pt>
+<imgs/Elementos/Significado.PNG, id=165, 123.46124pt x 100.375pt>
 File: imgs/Elementos/Significado.PNG Graphic file (type png)
 <use imgs/Elementos/Significado.PNG>
 Package pdftex.def Info: imgs/Elementos/Significado.PNG  used on input line 75.
 
 (pdftex.def)             Requested size: 68.29007pt x 27.07097pt.
-<imgs/Elementos/Valor.PNG, id=165, 88.33pt x 60.225pt>
+<imgs/Elementos/Valor.PNG, id=166, 88.33pt x 60.225pt>
 File: imgs/Elementos/Valor.PNG Graphic file (type png)
 <use imgs/Elementos/Valor.PNG>
 Package pdftex.def Info: imgs/Elementos/Valor.PNG  used on input line 81.
@@ -833,7 +1310,7 @@ Overfull \hbox (27.82768pt too wide) in paragraph at lines 19--86
  [] 
  []
 
-) (arquitectura/lenguaje/conceptos/estrategia.tex
+) (./arquitectura/lenguaje/conceptos/estrategia.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 4.
@@ -847,13 +1324,13 @@ G (PNG copy)> <./imgs/Elementos/Valor.PNG (PNG copy)>]
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
  [36]
-<imgs/conceptos/estrategia/Recurso.PNG, id=172, 114.4275pt x 53.44969pt>
+<imgs/conceptos/estrategia/Recurso.PNG, id=173, 114.4275pt x 53.44969pt>
 File: imgs/conceptos/estrategia/Recurso.PNG Graphic file (type png)
 <use imgs/conceptos/estrategia/Recurso.PNG>
 Package pdftex.def Info: imgs/conceptos/estrategia/Recurso.PNG  used on input l
 ine 18.
 (pdftex.def)             Requested size: 70.9443pt x 33.13844pt.
-<imgs/conceptos/estrategia/imgRecurso.PNG, id=173, 70.76437pt x 36.88782pt>
+<imgs/conceptos/estrategia/imgRecurso.PNG, id=174, 70.76437pt x 36.88782pt>
 File: imgs/conceptos/estrategia/imgRecurso.PNG Graphic file (type png)
 <use imgs/conceptos/estrategia/imgRecurso.PNG>
 Package pdftex.def Info: imgs/conceptos/estrategia/imgRecurso.PNG  used on inpu
@@ -864,13 +1341,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--18
 []|[]
  []
 
-<imgs/conceptos/estrategia/Capacidad.PNG, id=174, 136.25906pt x 57.21375pt>
+<imgs/conceptos/estrategia/Capacidad.PNG, id=175, 136.25906pt x 57.21375pt>
 File: imgs/conceptos/estrategia/Capacidad.PNG Graphic file (type png)
 <use imgs/conceptos/estrategia/Capacidad.PNG>
 Package pdftex.def Info: imgs/conceptos/estrategia/Capacidad.PNG  used on input
  line 22.
 (pdftex.def)             Requested size: 81.75606pt x 34.32849pt.
-<imgs/conceptos/estrategia/imgCapacidad.PNG, id=175, 54.9553pt x 48.93282pt>
+<imgs/conceptos/estrategia/imgCapacidad.PNG, id=176, 54.9553pt x 48.93282pt>
 File: imgs/conceptos/estrategia/imgCapacidad.PNG Graphic file (type png)
 <use imgs/conceptos/estrategia/imgCapacidad.PNG>
 Package pdftex.def Info: imgs/conceptos/estrategia/imgCapacidad.PNG  used on in
@@ -881,25 +1358,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--24
 []|[]
  []
 
-<imgs/conceptos/estrategia/FlujoValor1.png, id=176, 65.5248pt x 31.5579pt>
+<imgs/conceptos/estrategia/FlujoValor1.png, id=177, 65.5248pt x 31.5579pt>
 File: imgs/conceptos/estrategia/FlujoValor1.png Graphic file (type png)
 <use imgs/conceptos/estrategia/FlujoValor1.png>
 Package pdftex.def Info: imgs/conceptos/estrategia/FlujoValor1.png  used on inp
 ut line 30.
 (pdftex.def)             Requested size: 65.52463pt x 31.55782pt.
-<imgs/conceptos/estrategia/FlujoValor2.png, id=177, 56.3706pt x 26.2581pt>
+<imgs/conceptos/estrategia/FlujoValor2.png, id=178, 56.3706pt x 26.2581pt>
 File: imgs/conceptos/estrategia/FlujoValor2.png Graphic file (type png)
 <use imgs/conceptos/estrategia/FlujoValor2.png>
 Package pdftex.def Info: imgs/conceptos/estrategia/FlujoValor2.png  used on inp
 ut line 31.
 (pdftex.def)             Requested size: 45.09653pt x 21.0065pt.
-<imgs/conceptos/estrategia/CursAcion.PNG, id=178, 176.15813pt x 59.47218pt>
+<imgs/conceptos/estrategia/CursAcion.PNG, id=179, 176.15813pt x 59.47218pt>
 File: imgs/conceptos/estrategia/CursAcion.PNG Graphic file (type png)
 <use imgs/conceptos/estrategia/CursAcion.PNG>
 Package pdftex.def Info: imgs/conceptos/estrategia/CursAcion.PNG  used on input
  line 38.
 (pdftex.def)             Requested size: 84.55493pt x 28.54631pt.
-<imgs/conceptos/estrategia/imgCursAcion.PNG, id=179, 16.56187pt x 17.31468pt>
+<imgs/conceptos/estrategia/imgCursAcion.PNG, id=180, 16.56187pt x 17.31468pt>
 File: imgs/conceptos/estrategia/imgCursAcion.PNG Graphic file (type png)
 <use imgs/conceptos/estrategia/imgCursAcion.PNG>
 Package pdftex.def Info: imgs/conceptos/estrategia/imgCursAcion.PNG  used on in
@@ -910,8 +1387,8 @@ Overfull \hbox (38.26051pt too wide) in paragraph at lines 9--42
  [] 
  []
 
-) (arquitectura/lenguaje/conceptos/negocio.tex
-<imgs/conceptos/negocio/Business_actor.pdf, id=180, 154.5775pt x 41.45488pt>
+) (./arquitectura/lenguaje/conceptos/negocio.tex
+<imgs/conceptos/negocio/Business_actor.pdf, id=181, 154.5775pt x 41.45488pt>
 File: imgs/conceptos/negocio/Business_actor.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Business_actor.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Business_actor.pdf  used on inp
@@ -922,7 +1399,7 @@ Overfull \hbox (5.6942pt too wide) in paragraph at lines 12--12
 []|[]| 
  []
 
-<imgs/conceptos/negocio/Business_role.pdf, id=181, 179.872pt x 59.72313pt>
+<imgs/conceptos/negocio/Business_role.pdf, id=182, 179.872pt x 59.72313pt>
 File: imgs/conceptos/negocio/Business_role.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Business_role.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Business_role.pdf  used on inpu
@@ -935,10 +1412,10 @@ Overfull \hbox (5.69069pt too wide) in paragraph at lines 14--14
 
 
 Underfull \hbox (badness 7685) in paragraph at lines 16--16
-[]|\OT1/cmr/m/n/10.95 Colaboracion de
+[]|\OT1/cmr/m/n/10.95 Colaboraci^^Son de
  []
 
-<imgs/conceptos/negocio/Business_colaboration.pdf, id=182, 232.56888pt x 68.857
+<imgs/conceptos/negocio/Business_colaboration.pdf, id=183, 232.56888pt x 68.857
 25pt>
 File: imgs/conceptos/negocio/Business_colaboration.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Business_colaboration.pdf>
@@ -950,7 +1427,7 @@ Overfull \hbox (5.69014pt too wide) in paragraph at lines 17--17
 []|[]| 
  []
 
-<imgs/conceptos/negocio/Business_Interface.pdf, id=183, 218.51637pt x 75.18088p
+<imgs/conceptos/negocio/Business_Interface.pdf, id=184, 218.51637pt x 75.18088p
 t>
 File: imgs/conceptos/negocio/Business_Interface.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Business_Interface.pdf>
@@ -962,7 +1439,7 @@ Overfull \hbox (5.68866pt too wide) in paragraph at lines 20--20
 []|[]| 
  []
 
-<imgs/conceptos/negocio/Location.pdf, id=184, 141.93024pt x 66.04675pt>
+<imgs/conceptos/negocio/Location.pdf, id=185, 141.93024pt x 66.04675pt>
 File: imgs/conceptos/negocio/Location.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Location.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Location.pdf  used on input lin
@@ -973,7 +1450,7 @@ Overfull \hbox (5.69017pt too wide) in paragraph at lines 23--23
 []|[]| 
  []
 
-<imgs/conceptos/negocio/Business_Object.pdf, id=185, 107.50162pt x 64.6415pt>
+<imgs/conceptos/negocio/Business_Object.pdf, id=186, 107.50162pt x 64.6415pt>
 File: imgs/conceptos/negocio/Business_Object.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Business_Object.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Business_Object.pdf  used on in
@@ -989,7 +1466,7 @@ Underfull \hbox (badness 2894) in paragraph at lines 28--29
 []|\OT1/cmr/m/n/10.95 Un ele-men-to de com-por-ta-mien-to que
  []
 
-<imgs/conceptos/negocio/Business_proces.pdf, id=186, 167.92738pt x 52.69687pt>
+<imgs/conceptos/negocio/Business_proces.pdf, id=187, 167.92738pt x 52.69687pt>
 File: imgs/conceptos/negocio/Business_proces.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Business_proces.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Business_proces.pdf  used on in
@@ -1005,7 +1482,7 @@ Underfull \hbox (badness 2894) in paragraph at lines 31--31
 []|\OT1/cmr/m/n/10.95 Un ele-men-to de com-por-ta-mien-to que
  []
 
-<imgs/conceptos/negocio/Business_function.pdf, id=187, 193.22188pt x 54.80475pt
+<imgs/conceptos/negocio/Business_function.pdf, id=188, 193.22188pt x 54.80475pt
 >
 File: imgs/conceptos/negocio/Business_function.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Business_function.pdf>
@@ -1019,10 +1496,10 @@ Overfull \hbox (5.69067pt too wide) in paragraph at lines 31--31
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 33--33
-[]|\OT1/cmr/m/n/10.95 Interaccion de
+[]|\OT1/cmr/m/n/10.95 Interacci^^Son de
  []
 
-<imgs/conceptos/negocio/Business_interaction.pdf, id=188, 212.19275pt x 63.9388
+<imgs/conceptos/negocio/Business_interaction.pdf, id=189, 212.19275pt x 63.9388
 7pt>
 File: imgs/conceptos/negocio/Business_interaction.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Business_interaction.pdf>
@@ -1034,7 +1511,7 @@ Overfull \hbox (5.69122pt too wide) in paragraph at lines 34--34
 []|[]| 
  []
 
-<imgs/conceptos/negocio/Business_event.pdf, id=189, 222.0295pt x 49.88638pt>
+<imgs/conceptos/negocio/Business_event.pdf, id=190, 222.0295pt x 49.88638pt>
 File: imgs/conceptos/negocio/Business_event.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Business_event.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Business_event.pdf  used on inp
@@ -1066,7 +1543,7 @@ onceptos/negocio/Business_Interface.pdf> <./imgs/conceptos/negocio/Location.pdf
 ness_proces.pdf> <./imgs/conceptos/negocio/Business_function.pdf> <./imgs/conce
 ptos/negocio/Business_interaction.pdf> <./imgs/conceptos/negocio/Business_event
 .pdf>]
-<imgs/conceptos/negocio/Business_service.pdf, id=225, 229.75836pt x 55.50737pt>
+<imgs/conceptos/negocio/Business_service.pdf, id=226, 229.75836pt x 55.50737pt>
 
 File: imgs/conceptos/negocio/Business_service.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Business_service.pdf>
@@ -1078,7 +1555,7 @@ Overfull \hbox (5.69258pt too wide) in paragraph at lines 49--49
 []|[]| 
  []
 
-<imgs/conceptos/negocio/Representation.pdf, id=226, 132.79613pt x 59.72313pt>
+<imgs/conceptos/negocio/Representation.pdf, id=227, 132.79613pt x 59.72313pt>
 File: imgs/conceptos/negocio/Representation.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Representation.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Representation.pdf  used on inp
@@ -1089,7 +1566,7 @@ Overfull \hbox (5.69484pt too wide) in paragraph at lines 51--51
 []|[]| 
  []
 
-<imgs/conceptos/negocio/Meaning.pdf, id=227, 103.28587pt x 54.10213pt>
+<imgs/conceptos/negocio/Meaning.pdf, id=228, 103.28587pt x 54.10213pt>
 File: imgs/conceptos/negocio/Meaning.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Meaning.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Meaning.pdf  used on input line
@@ -1100,7 +1577,7 @@ Overfull \hbox (5.6944pt too wide) in paragraph at lines 52--52
 []|[]| 
  []
 
-<imgs/conceptos/negocio/Value.pdf, id=228, 102.58325pt x 50.589pt>
+<imgs/conceptos/negocio/Value.pdf, id=229, 102.58325pt x 50.589pt>
 File: imgs/conceptos/negocio/Value.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Value.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Value.pdf  used on input line 5
@@ -1113,10 +1590,10 @@ Overfull \hbox (5.69498pt too wide) in paragraph at lines 55--55
 
 
 Underfull \hbox (badness 3068) in paragraph at lines 57--57
-[]|\OT1/cmr/m/n/10.95 Una co-lec-cion cohe-ren-te de ser-vi-cios,
+[]|\OT1/cmr/m/n/10.95 Una co-lec-ci^^Son cohe-ren-te de ser-vi-cios,
  []
 
-<imgs/conceptos/negocio/Product.pdf, id=229, 122.95938pt x 65.34412pt>
+<imgs/conceptos/negocio/Product.pdf, id=230, 122.95938pt x 65.34412pt>
 File: imgs/conceptos/negocio/Product.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Product.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Product.pdf  used on input line
@@ -1127,7 +1604,7 @@ Overfull \hbox (5.69576pt too wide) in paragraph at lines 57--57
 []|[]| 
  []
 
-<imgs/conceptos/negocio/Contract.pdf, id=230, 93.44913pt x 51.99425pt>
+<imgs/conceptos/negocio/Contract.pdf, id=231, 93.44913pt x 51.99425pt>
 File: imgs/conceptos/negocio/Contract.pdf Graphic file (type pdf)
 <use imgs/conceptos/negocio/Contract.pdf>
 Package pdftex.def Info: imgs/conceptos/negocio/Contract.pdf  used on input lin
@@ -1143,63 +1620,63 @@ Overfull \hbox (70.24806pt too wide) in paragraph at lines 45--62
  [][] 
  []
 
-) (arquitectura/lenguaje/conceptos/aplicacion.tex
+) (./arquitectura/lenguaje/conceptos/aplicacion.tex
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
  [39 <./imgs/conceptos/negocio/Business_service.pdf> <./imgs/conceptos/negocio/
 Representation.pdf> <./imgs/conceptos/negocio/Meaning.pdf> <./imgs/conceptos/ne
 gocio/Value.pdf> <./imgs/conceptos/negocio/Product.pdf> <./imgs/conceptos/negoc
 io/Contract.pdf>]
-<imgs/aplicacion/componente.pdf, id=246, 113.42375pt x 63.23625pt>
+<imgs/aplicacion/componente.pdf, id=247, 113.42375pt x 63.23625pt>
 File: imgs/aplicacion/componente.pdf Graphic file (type pdf)
 <use imgs/aplicacion/componente.pdf>
 Package pdftex.def Info: imgs/aplicacion/componente.pdf  used on input line 23.
 
 (pdftex.def)             Requested size: 113.42346pt x 63.23608pt.
-<imgs/aplicacion/colaboracion.pdf, id=247, 87.32625pt x 65.24374pt>
+<imgs/aplicacion/colaboracion.pdf, id=248, 87.32625pt x 65.24374pt>
 File: imgs/aplicacion/colaboracion.pdf Graphic file (type pdf)
 <use imgs/aplicacion/colaboracion.pdf>
 Package pdftex.def Info: imgs/aplicacion/colaboracion.pdf  used on input line 3
 4.
 (pdftex.def)             Requested size: 87.32603pt x 65.24358pt.
-<imgs/aplicacion/interface.pdf, id=248, 73.27374pt x 51.19125pt>
+<imgs/aplicacion/interface.pdf, id=249, 73.27374pt x 51.19125pt>
 File: imgs/aplicacion/interface.pdf Graphic file (type pdf)
 <use imgs/aplicacion/interface.pdf>
 Package pdftex.def Info: imgs/aplicacion/interface.pdf  used on input line 45.
 (pdftex.def)             Requested size: 73.27354pt x 51.19112pt.
-<imgs/aplicacion/funcion.pdf, id=249, 68.255pt x 56.21pt>
+<imgs/aplicacion/funcion.pdf, id=250, 68.255pt x 56.21pt>
 File: imgs/aplicacion/funcion.pdf Graphic file (type pdf)
 <use imgs/aplicacion/funcion.pdf>
 Package pdftex.def Info: imgs/aplicacion/funcion.pdf  used on input line 54.
 (pdftex.def)             Requested size: 68.25482pt x 56.20985pt.
-<imgs/aplicacion/intereaccion.pdf, id=250, 80.3pt x 52.195pt>
+<imgs/aplicacion/intereaccion.pdf, id=251, 80.3pt x 52.195pt>
 File: imgs/aplicacion/intereaccion.pdf Graphic file (type pdf)
 <use imgs/aplicacion/intereaccion.pdf>
 Package pdftex.def Info: imgs/aplicacion/intereaccion.pdf  used on input line 6
 5.
 (pdftex.def)             Requested size: 80.29979pt x 52.19487pt.
-<imgs/aplicacion/proceso.pdf, id=251, 76.285pt x 54.2025pt>
+<imgs/aplicacion/proceso.pdf, id=252, 76.285pt x 54.2025pt>
 File: imgs/aplicacion/proceso.pdf Graphic file (type pdf)
 <use imgs/aplicacion/proceso.pdf>
 Package pdftex.def Info: imgs/aplicacion/proceso.pdf  used on input line 75.
 (pdftex.def)             Requested size: 76.2848pt x 54.20236pt.
-<imgs/aplicacion/evento.pdf, id=252, 83.31125pt x 60.225pt>
+<imgs/aplicacion/evento.pdf, id=253, 83.31125pt x 60.225pt>
 File: imgs/aplicacion/evento.pdf Graphic file (type pdf)
 <use imgs/aplicacion/evento.pdf>
 Package pdftex.def Info: imgs/aplicacion/evento.pdf  used on input line 85.
 (pdftex.def)             Requested size: 83.31104pt x 60.22484pt.
-<imgs/aplicacion/servicio.pdf, id=253, 94.3525pt x 53.19875pt>
+<imgs/aplicacion/servicio.pdf, id=254, 94.3525pt x 53.19875pt>
 File: imgs/aplicacion/servicio.pdf Graphic file (type pdf)
 <use imgs/aplicacion/servicio.pdf>
 Package pdftex.def Info: imgs/aplicacion/servicio.pdf  used on input line 94.
 (pdftex.def)             Requested size: 94.35225pt x 53.19861pt.
-<imgs/aplicacion/objeto.pdf, id=254, 85.31876pt x 54.2025pt>
+<imgs/aplicacion/objeto.pdf, id=255, 85.31876pt x 54.2025pt>
 File: imgs/aplicacion/objeto.pdf Graphic file (type pdf)
 <use imgs/aplicacion/objeto.pdf>
 Package pdftex.def Info: imgs/aplicacion/objeto.pdf  used on input line 103.
 (pdftex.def)             Requested size: 85.31853pt x 54.20236pt.
 
-Overfull \hbox (55.70964pt too wide) in alignment at lines 7--109
+Overfull \hbox (55.7096pt too wide) in alignment at lines 7--109
  [] [] [] 
  []
 
@@ -1212,34 +1689,34 @@ LaTeX Info: Redefining \% on input line 109.
 [40 <./imgs/aplicacion/componente.pdf> <./imgs/aplicacion/colaboracion.pdf> <./
 imgs/aplicacion/interface.pdf> <./imgs/aplicacion/funcion.pdf> <./imgs/aplicaci
 on/intereaccion.pdf> <./imgs/aplicacion/proceso.pdf>])
-(arquitectura/lenguaje/conceptos/tecnologia.tex
+(./arquitectura/lenguaje/conceptos/tecnologia.tex
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
  [41 <./imgs/aplicacion/evento.pdf> <./imgs/aplicacion/servicio.pdf> <./imgs/ap
 licacion/objeto.pdf>]
-<imgs/conceptos/tecnologica/nodo.png, id=270, 126.4725pt x 42.1575pt>
-File: imgs/conceptos/tecnologica/nodo.png Graphic file (type png)
-<use imgs/conceptos/tecnologica/nodo.png>
-Package pdftex.def Info: imgs/conceptos/tecnologica/nodo.png  used on input lin
+<imgs/conceptos/tecnologica/nodo.PNG, id=272, 126.4725pt x 42.1575pt>
+File: imgs/conceptos/tecnologica/nodo.PNG Graphic file (type png)
+<use imgs/conceptos/tecnologica/nodo.PNG>
+Package pdftex.def Info: imgs/conceptos/tecnologica/nodo.PNG  used on input lin
 e 22.
 (pdftex.def)             Requested size: 71.99936pt x 27.07204pt.
-<imgs/conceptos/tecnologica/dispositivo.png, id=271, 127.22531pt x 44.41594pt>
-File: imgs/conceptos/tecnologica/dispositivo.png Graphic file (type png)
-<use imgs/conceptos/tecnologica/dispositivo.png>
-Package pdftex.def Info: imgs/conceptos/tecnologica/dispositivo.png  used on in
+<imgs/conceptos/tecnologica/dispositivo.PNG, id=273, 127.22531pt x 44.41594pt>
+File: imgs/conceptos/tecnologica/dispositivo.PNG Graphic file (type png)
+<use imgs/conceptos/tecnologica/dispositivo.PNG>
+Package pdftex.def Info: imgs/conceptos/tecnologica/dispositivo.PNG  used on in
 put line 36.
 (pdftex.def)             Requested size: 72.00084pt x 27.07266pt.
-<imgs/conceptos/tecnologica/software.png, id=272, 160.34906pt x 42.1575pt>
-File: imgs/conceptos/tecnologica/software.png Graphic file (type png)
-<use imgs/conceptos/tecnologica/software.png>
-Package pdftex.def Info: imgs/conceptos/tecnologica/software.png  used on input
+<imgs/conceptos/tecnologica/software.PNG, id=274, 160.34906pt x 42.1575pt>
+File: imgs/conceptos/tecnologica/software.PNG Graphic file (type png)
+<use imgs/conceptos/tecnologica/software.PNG>
+Package pdftex.def Info: imgs/conceptos/tecnologica/software.PNG  used on input
  line 53.
 (pdftex.def)             Requested size: 71.99982pt x 27.07204pt.
-<imgs/conceptos/tecnologica/colaboracion.png, id=273, 137.01187pt x 44.41594pt>
+<imgs/conceptos/tecnologica/colaboracion.PNG, id=275, 137.01187pt x 44.41594pt>
 
-File: imgs/conceptos/tecnologica/colaboracion.png Graphic file (type png)
-<use imgs/conceptos/tecnologica/colaboracion.png>
-Package pdftex.def Info: imgs/conceptos/tecnologica/colaboracion.png  used on i
+File: imgs/conceptos/tecnologica/colaboracion.PNG Graphic file (type png)
+<use imgs/conceptos/tecnologica/colaboracion.PNG>
+Package pdftex.def Info: imgs/conceptos/tecnologica/colaboracion.PNG  used on i
 nput line 64.
 (pdftex.def)             Requested size: 71.9992pt x 27.07266pt.
 
@@ -1252,25 +1729,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--69
 \OT1/cmr/m/n/10.95 in-fra-es-truc-
  []
 
-<imgs/conceptos/tecnologica/interfaceTecnologia.png, id=274, 117.43875pt x 43.6
+<imgs/conceptos/tecnologica/interfaceTecnologia.PNG, id=276, 117.43875pt x 43.6
 6313pt>
-File: imgs/conceptos/tecnologica/interfaceTecnologia.png Graphic file (type png
+File: imgs/conceptos/tecnologica/interfaceTecnologia.PNG Graphic file (type png
 )
-<use imgs/conceptos/tecnologica/interfaceTecnologia.png>
-Package pdftex.def Info: imgs/conceptos/tecnologica/interfaceTecnologia.png  us
+<use imgs/conceptos/tecnologica/interfaceTecnologia.PNG>
+Package pdftex.def Info: imgs/conceptos/tecnologica/interfaceTecnologia.PNG  us
 ed on input line 81.
 (pdftex.def)             Requested size: 71.9977pt x 27.07217pt.
-<imgs/conceptos/tecnologica/ruta.png, id=275, 105.39375pt x 45.92157pt>
-File: imgs/conceptos/tecnologica/ruta.png Graphic file (type png)
-<use imgs/conceptos/tecnologica/ruta.png>
-Package pdftex.def Info: imgs/conceptos/tecnologica/ruta.png  used on input lin
+<imgs/conceptos/tecnologica/ruta.PNG, id=277, 105.39375pt x 45.92157pt>
+File: imgs/conceptos/tecnologica/ruta.PNG Graphic file (type png)
+<use imgs/conceptos/tecnologica/ruta.PNG>
+Package pdftex.def Info: imgs/conceptos/tecnologica/ruta.PNG  used on input lin
 e 94.
 (pdftex.def)             Requested size: 71.99968pt x 27.07246pt.
-<imgs/conceptos/tecnologica/redComunicacion.png, id=276, 194.97844pt x 42.1575p
+<imgs/conceptos/tecnologica/redComunicacion.PNG, id=278, 194.97844pt x 42.1575p
 t>
-File: imgs/conceptos/tecnologica/redComunicacion.png Graphic file (type png)
-<use imgs/conceptos/tecnologica/redComunicacion.png>
-Package pdftex.def Info: imgs/conceptos/tecnologica/redComunicacion.png  used o
+File: imgs/conceptos/tecnologica/redComunicacion.PNG Graphic file (type png)
+<use imgs/conceptos/tecnologica/redComunicacion.PNG>
+Package pdftex.def Info: imgs/conceptos/tecnologica/redComunicacion.PNG  used o
 n input line 107.
 (pdftex.def)             Requested size: 71.99808pt x 27.07204pt.
 
@@ -1283,9 +1760,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--114
 \OT1/cmr/m/n/10.95 in-fra-es-truc-
  []
 
-File: imgs/conceptos/tecnologica/dispositivo.png Graphic file (type png)
-<use imgs/conceptos/tecnologica/dispositivo.png>
-Package pdftex.def Info: imgs/conceptos/tecnologica/dispositivo.png  used on in
+File: imgs/conceptos/tecnologica/dispositivo.PNG Graphic file (type png)
+<use imgs/conceptos/tecnologica/dispositivo.PNG>
+Package pdftex.def Info: imgs/conceptos/tecnologica/dispositivo.PNG  used on in
 put line 120.
 (pdftex.def)             Requested size: 72.00084pt x 27.07266pt.
 
@@ -1293,26 +1770,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--126
 []|\OT1/cmr/m/n/10.95 Proceso
  []
 
-<imgs/conceptos/tecnologica/procesoTecnologia.png, id=277, 109.1578pt x 48.9328
+<imgs/conceptos/tecnologica/procesoTecnologia.PNG, id=279, 109.1578pt x 48.9328
 2pt>
-File: imgs/conceptos/tecnologica/procesoTecnologia.png Graphic file (type png)
-<use imgs/conceptos/tecnologica/procesoTecnologia.png>
-Package pdftex.def Info: imgs/conceptos/tecnologica/procesoTecnologia.png  used
+File: imgs/conceptos/tecnologica/procesoTecnologia.PNG Graphic file (type png)
+<use imgs/conceptos/tecnologica/procesoTecnologia.PNG>
+Package pdftex.def Info: imgs/conceptos/tecnologica/procesoTecnologia.PNG  used
  on input line 131.
 (pdftex.def)             Requested size: 71.99939pt x 27.07216pt.
-<imgs/conceptos/tecnologica/InteraccionTecnologia.png, id=278, 118.19156pt x 39
+<imgs/conceptos/tecnologica/InteraccionTecnologia.PNG, id=280, 118.19156pt x 39
 .89906pt>
-File: imgs/conceptos/tecnologica/InteraccionTecnologia.png Graphic file (type p
+File: imgs/conceptos/tecnologica/InteraccionTecnologia.PNG Graphic file (type p
 ng)
-<use imgs/conceptos/tecnologica/InteraccionTecnologia.png>
-Package pdftex.def Info: imgs/conceptos/tecnologica/InteraccionTecnologia.png  
+<use imgs/conceptos/tecnologica/InteraccionTecnologia.PNG>
+Package pdftex.def Info: imgs/conceptos/tecnologica/InteraccionTecnologia.PNG  
 used on input line 140.
 (pdftex.def)             Requested size: 72.00116pt x 27.07193pt.
-<imgs/conceptos/tecnologica/eventoTecnologia.png, id=279, 127.97812pt x 34.6293
+<imgs/conceptos/tecnologica/eventoTecnologia.PNG, id=281, 127.97812pt x 34.6293
 8pt>
-File: imgs/conceptos/tecnologica/eventoTecnologia.png Graphic file (type png)
-<use imgs/conceptos/tecnologica/eventoTecnologia.png>
-Package pdftex.def Info: imgs/conceptos/tecnologica/eventoTecnologia.png  used 
+File: imgs/conceptos/tecnologica/eventoTecnologia.PNG Graphic file (type png)
+<use imgs/conceptos/tecnologica/eventoTecnologia.PNG>
+Package pdftex.def Info: imgs/conceptos/tecnologica/eventoTecnologia.PNG  used 
 on input line 149.
 (pdftex.def)             Requested size: 71.99922pt x 27.07155pt.
 
@@ -1320,28 +1797,28 @@ Overfull \hbox (14.11752pt too wide) in paragraph at lines 154--155
 []|\OT1/cmr/m/n/10.95 infraestructura
  []
 
-<imgs/conceptos/tecnologica/servicioTecnologia.png, id=280, 136.25906pt x 37.64
+<imgs/conceptos/tecnologica/servicioTecnologia.PNG, id=282, 136.25906pt x 37.64
 063pt>
-File: imgs/conceptos/tecnologica/servicioTecnologia.png Graphic file (type png)
+File: imgs/conceptos/tecnologica/servicioTecnologia.PNG Graphic file (type png)
 
-<use imgs/conceptos/tecnologica/servicioTecnologia.png>
-Package pdftex.def Info: imgs/conceptos/tecnologica/servicioTecnologia.png  use
+<use imgs/conceptos/tecnologica/servicioTecnologia.PNG>
+Package pdftex.def Info: imgs/conceptos/tecnologica/servicioTecnologia.PNG  use
 d on input line 161.
 (pdftex.def)             Requested size: 71.99863pt x 27.0725pt.
-<imgs/conceptos/tecnologica/Ud.png, id=281, 513.92pt x 513.92pt>
+<imgs/conceptos/tecnologica/Ud.png, id=283, 513.92pt x 513.92pt>
 File: imgs/conceptos/tecnologica/Ud.png Graphic file (type png)
 <use imgs/conceptos/tecnologica/Ud.png>
 Package pdftex.def Info: imgs/conceptos/tecnologica/Ud.png  used on input line 
 174.
 (pdftex.def)             Requested size: 71.99535pt x 27.06981pt.
-<imgs/conceptos/tecnologica/artefacto.png, id=282, 145.29282pt x 38.39343pt>
-File: imgs/conceptos/tecnologica/artefacto.png Graphic file (type png)
-<use imgs/conceptos/tecnologica/artefacto.png>
-Package pdftex.def Info: imgs/conceptos/tecnologica/artefacto.png  used on inpu
+<imgs/conceptos/tecnologica/artefacto.PNG, id=284, 145.29282pt x 38.39343pt>
+File: imgs/conceptos/tecnologica/artefacto.PNG Graphic file (type png)
+<use imgs/conceptos/tecnologica/artefacto.PNG>
+Package pdftex.def Info: imgs/conceptos/tecnologica/artefacto.PNG  used on inpu
 t line 186.
 (pdftex.def)             Requested size: 71.99886pt x 27.07204pt.
 
-Overfull \hbox (58.45847pt too wide) in alignment at lines 7--195
+Overfull \hbox (58.45842pt too wide) in alignment at lines 7--195
  [] [] [] 
  []
 
@@ -1351,30 +1828,30 @@ Underfull \vbox (badness 10000) detected at line 195
 
 LaTeX Info: Redefining \. on input line 195.
 LaTeX Info: Redefining \% on input line 195.
-[42 <./imgs/conceptos/tecnologica/nodo.png> <./imgs/conceptos/tecnologica/dispo
-sitivo.png>]
+[42 <./imgs/conceptos/tecnologica/nodo.PNG> <./imgs/conceptos/tecnologica/dispo
+sitivo.PNG>]
 LaTeX Info: Redefining \. on input line 195.
 LaTeX Info: Redefining \% on input line 195.
- [43 <./imgs/conceptos/tecnologica/software.png> <./imgs/conceptos/tecnologica/
-colaboracion.png> <./imgs/conceptos/tecnologica/interfaceTecnologia.png>]
+ [43 <./imgs/conceptos/tecnologica/software.PNG> <./imgs/conceptos/tecnologica/
+colaboracion.PNG> <./imgs/conceptos/tecnologica/interfaceTecnologia.PNG>]
 LaTeX Info: Redefining \. on input line 195.
 LaTeX Info: Redefining \% on input line 195.
- [44 <./imgs/conceptos/tecnologica/ruta.png> <./imgs/conceptos/tecnologica/redC
-omunicacion.png>]
+ [44 <./imgs/conceptos/tecnologica/ruta.PNG> <./imgs/conceptos/tecnologica/redC
+omunicacion.PNG>]
 LaTeX Info: Redefining \. on input line 195.
 LaTeX Info: Redefining \% on input line 195.
- [45 <./imgs/conceptos/tecnologica/procesoTecnologia.png> <./imgs/conceptos/tec
-nologica/InteraccionTecnologia.png> <./imgs/conceptos/tecnologica/eventoTecnolo
-gia.png>]
+ [45 <./imgs/conceptos/tecnologica/procesoTecnologia.PNG> <./imgs/conceptos/tec
+nologica/InteraccionTecnologia.PNG> <./imgs/conceptos/tecnologica/eventoTecnolo
+gia.PNG>]
 LaTeX Info: Redefining \. on input line 195.
 LaTeX Info: Redefining \% on input line 195.
- [46 <./imgs/conceptos/tecnologica/servicioTecnologia.png> <./imgs/conceptos/te
+ [46 <./imgs/conceptos/tecnologica/servicioTecnologia.PNG> <./imgs/conceptos/te
 cnologica/Ud.png>])
-(arquitectura/lenguaje/conceptos/fisico.tex
+(./arquitectura/lenguaje/conceptos/fisico.tex
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
- [47 <./imgs/conceptos/tecnologica/artefacto.png>]
-<imgs/conceptos/fisico/facilidad.jpg, id=315, 172.645pt x 85.31876pt>
+ [47 <./imgs/conceptos/tecnologica/artefacto.PNG>]
+<imgs/conceptos/fisico/facilidad.jpg, id=317, 172.645pt x 85.31876pt>
 File: imgs/conceptos/fisico/facilidad.jpg Graphic file (type jpg)
 <use imgs/conceptos/fisico/facilidad.jpg>
 Package pdftex.def Info: imgs/conceptos/fisico/facilidad.jpg  used on input lin
@@ -1385,26 +1862,26 @@ Underfull \hbox (badness 1616) in paragraph at lines 23--24
 \OT1/cmr/m/n/10.95 men-tos de pro-ce-sa-mien-to ac-ti-vos
  []
 
-<imgs/conceptos/fisico/equipo.jpg, id=316, 152.57pt x 87.32625pt>
+<imgs/conceptos/fisico/equipo.jpg, id=318, 152.57pt x 87.32625pt>
 File: imgs/conceptos/fisico/equipo.jpg Graphic file (type jpg)
 <use imgs/conceptos/fisico/equipo.jpg>
 Package pdftex.def Info: imgs/conceptos/fisico/equipo.jpg  used on input line 2
 5.
 (pdftex.def)             Requested size: 36.00294pt x 27.07219pt.
-<imgs/conceptos/fisico/redDistribucion.jpg, id=317, 191.71625pt x 94.3525pt>
+<imgs/conceptos/fisico/redDistribucion.jpg, id=319, 191.71625pt x 94.3525pt>
 File: imgs/conceptos/fisico/redDistribucion.jpg Graphic file (type jpg)
 <use imgs/conceptos/fisico/redDistribucion.jpg>
 Package pdftex.def Info: imgs/conceptos/fisico/redDistribucion.jpg  used on inp
 ut line 33.
 (pdftex.def)             Requested size: 36.00229pt x 27.0707pt.
-<imgs/conceptos/fisico/material.jpg, id=318, 153.57375pt x 73.27374pt>
+<imgs/conceptos/fisico/material.jpg, id=320, 153.57375pt x 73.27374pt>
 File: imgs/conceptos/fisico/material.jpg Graphic file (type jpg)
 <use imgs/conceptos/fisico/material.jpg>
 Package pdftex.def Info: imgs/conceptos/fisico/material.jpg  used on input line
  41.
 (pdftex.def)             Requested size: 36.00078pt x 27.0706pt.
 
-Overfull \hbox (26.57422pt too wide) in alignment at lines 8--44
+Overfull \hbox (26.57417pt too wide) in alignment at lines 8--44
  [] [] [] 
  []
 
@@ -1417,26 +1894,26 @@ LaTeX Info: Redefining \. on input line 34.
 LaTeX Info: Redefining \% on input line 34.
  [48 <./imgs/conceptos/fisico/facilidad.jpg> <./imgs/conceptos/fisico/equipo.jp
 g> <./imgs/conceptos/fisico/redDistribucion.jpg> <./imgs/conceptos/fisico/mater
-ial.jpg>] (arquitectura/lenguaje/relaciones/estructurales.tex
-<imgs/relaciones/agregacion.pdf, id=322, 226.8475pt x 39.14626pt>
+ial.jpg>] (./arquitectura/lenguaje/relaciones/estructurales.tex
+<imgs/relaciones/agregacion.pdf, id=324, 226.8475pt x 39.14626pt>
 File: imgs/relaciones/agregacion.pdf Graphic file (type pdf)
 <use imgs/relaciones/agregacion.pdf>
 Package pdftex.def Info: imgs/relaciones/agregacion.pdf  used on input line 18.
 
 (pdftex.def)             Requested size: 143.9978pt x 24.84921pt.
-<imgs/relaciones/composicion.pdf, id=323, 230.8625pt x 43.16125pt>
+<imgs/relaciones/composicion.pdf, id=325, 230.8625pt x 43.16125pt>
 File: imgs/relaciones/composicion.pdf Graphic file (type pdf)
 <use imgs/relaciones/composicion.pdf>
 Package pdftex.def Info: imgs/relaciones/composicion.pdf  used on input line 27
 .
 (pdftex.def)             Requested size: 143.9978pt x 26.92104pt.
-<imgs/relaciones/asignacion.pdf, id=324, 224.84pt x 43.16125pt>
+<imgs/relaciones/asignacion.pdf, id=326, 224.84pt x 43.16125pt>
 File: imgs/relaciones/asignacion.pdf Graphic file (type pdf)
 <use imgs/relaciones/asignacion.pdf>
 Package pdftex.def Info: imgs/relaciones/asignacion.pdf  used on input line 37.
 
 (pdftex.def)             Requested size: 143.9978pt x 27.64351pt.
-<imgs/relaciones/realizacion.pdf, id=325, 244.915pt x 40.15pt>
+<imgs/relaciones/realizacion.pdf, id=327, 244.915pt x 40.15pt>
 File: imgs/relaciones/realizacion.pdf Graphic file (type pdf)
 <use imgs/relaciones/realizacion.pdf>
 Package pdftex.def Info: imgs/relaciones/realizacion.pdf  used on input line 49
@@ -1447,7 +1924,7 @@ Overfull \hbox (60.156pt too wide) in paragraph at lines 8--53
  [] 
  []
 
-) (arquitectura/lenguaje/relaciones/dependencia.tex
+) (./arquitectura/lenguaje/relaciones/dependencia.tex
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
  [49 <./imgs/relaciones/agregacion.pdf> <./imgs/relaciones/composicion.pdf> <./
@@ -1456,12 +1933,12 @@ Underfull \hbox (badness 1668) in paragraph at lines 21--23
 []|\OT1/cmr/m/n/10.95 Modela que un ele-men-to
  []
 
-<imgs/relaciones/sirve.pdf, id=335, 224.84pt x 42.1575pt>
+<imgs/relaciones/sirve.pdf, id=337, 224.84pt x 42.1575pt>
 File: imgs/relaciones/sirve.pdf Graphic file (type pdf)
 <use imgs/relaciones/sirve.pdf>
 Package pdftex.def Info: imgs/relaciones/sirve.pdf  used on input line 24.
 (pdftex.def)             Requested size: 143.9978pt x 27.00063pt.
-<imgs/relaciones/influencia.pdf, id=336, 221.82875pt x 39.14626pt>
+<imgs/relaciones/influencia.pdf, id=338, 221.82875pt x 39.14626pt>
 File: imgs/relaciones/influencia.pdf Graphic file (type pdf)
 <use imgs/relaciones/influencia.pdf>
 Package pdftex.def Info: imgs/relaciones/influencia.pdf  used on input line 33.
@@ -1472,7 +1949,7 @@ Underfull \hbox (badness 3701) in paragraph at lines 39--43
 []|\OT1/cmr/m/n/10.95 Modela la ca-pa-ci-dad de
  []
 
-<imgs/relaciones/acceso.pdf, id=337, 222.8325pt x 38.1425pt>
+<imgs/relaciones/acceso.pdf, id=339, 222.8325pt x 38.1425pt>
 File: imgs/relaciones/acceso.pdf Graphic file (type pdf)
 <use imgs/relaciones/acceso.pdf>
 Package pdftex.def Info: imgs/relaciones/acceso.pdf  used on input line 44.
@@ -1482,27 +1959,27 @@ Underfull \hbox (badness 3701) in paragraph at lines 50--54
 []|\OT1/cmr/m/n/10.95 Modela la ca-pa-ci-dad de
  []
 
-<imgs/relaciones/accesobi.pdf, id=338, 230.8625pt x 38.1425pt>
+<imgs/relaciones/accesobi.pdf, id=340, 230.8625pt x 38.1425pt>
 File: imgs/relaciones/accesobi.pdf Graphic file (type pdf)
 <use imgs/relaciones/accesobi.pdf>
 Package pdftex.def Info: imgs/relaciones/accesobi.pdf  used on input line 55.
 (pdftex.def)             Requested size: 143.9978pt x 23.79068pt.
 
-Overfull \hbox (63.18326pt too wide) in paragraph at lines 14--59
+Overfull \hbox (63.18324pt too wide) in paragraph at lines 14--59
  [] 
  []
 
-) (arquitectura/lenguaje/relaciones/dinamicas.tex
+) (./arquitectura/lenguaje/relaciones/dinamicas.tex
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
  [50 <./imgs/relaciones/sirve.pdf> <./imgs/relaciones/influencia.pdf> <./imgs/r
 elaciones/acceso.pdf> <./imgs/relaciones/accesobi.pdf>]
-<imgs/relaciones/flujo.pdf, id=346, 224.84pt x 38.1425pt>
+<imgs/relaciones/flujo.pdf, id=348, 224.84pt x 38.1425pt>
 File: imgs/relaciones/flujo.pdf Graphic file (type pdf)
 <use imgs/relaciones/flujo.pdf>
 Package pdftex.def Info: imgs/relaciones/flujo.pdf  used on input line 17.
 (pdftex.def)             Requested size: 143.9978pt x 24.42914pt.
-<imgs/relaciones/disparo.pdf, id=347, 228.855pt x 45.16875pt>
+<imgs/relaciones/disparo.pdf, id=349, 228.855pt x 45.16875pt>
 File: imgs/relaciones/disparo.pdf Graphic file (type pdf)
 <use imgs/relaciones/disparo.pdf>
 Package pdftex.def Info: imgs/relaciones/disparo.pdf  used on input line 26.
@@ -1512,30 +1989,30 @@ Overfull \hbox (42.27095pt too wide) in paragraph at lines 8--30
  [] 
  []
 
-) (arquitectura/lenguaje/relaciones/otras.tex
-<imgs/relaciones/asociacion.pdf, id=348, 225.84375pt x 45.16875pt>
+) (./arquitectura/lenguaje/relaciones/otras.tex
+<imgs/relaciones/asociacion.pdf, id=350, 225.84375pt x 45.16875pt>
 File: imgs/relaciones/asociacion.pdf Graphic file (type pdf)
 <use imgs/relaciones/asociacion.pdf>
 Package pdftex.def Info: imgs/relaciones/asociacion.pdf  used on input line 17.
 
 (pdftex.def)             Requested size: 143.9978pt x 28.80106pt.
-<imgs/relaciones/especializacion.pdf, id=349, 247.92625pt x 43.16125pt>
+<imgs/relaciones/especializacion.pdf, id=351, 247.92625pt x 43.16125pt>
 File: imgs/relaciones/especializacion.pdf Graphic file (type pdf)
 <use imgs/relaciones/especializacion.pdf>
 Package pdftex.def Info: imgs/relaciones/especializacion.pdf  used on input lin
 e 26.
 (pdftex.def)             Requested size: 143.9978pt x 25.06844pt.
-<imgs/relaciones/union.pdf, id=350, 55.20625pt x 20.075pt>
+<imgs/relaciones/union.pdf, id=352, 55.20625pt x 20.075pt>
 File: imgs/relaciones/union.pdf Graphic file (type pdf)
 <use imgs/relaciones/union.pdf>
 Package pdftex.def Info: imgs/relaciones/union.pdf  used on input line 35.
 (pdftex.def)             Requested size: 71.9989pt x 26.18263pt.
 
-Overfull \hbox (69.49393pt too wide) in paragraph at lines 6--39
+Overfull \hbox (69.49391pt too wide) in paragraph at lines 6--39
  [] 
  []
 
-) (arquitectura/lenguaje/puntosvista/motivacion.tex
+) (./arquitectura/lenguaje/puntosvista/motivacion.tex
 Overfull \hbox (7.84741pt too wide) in paragraph at lines 15--15
 []|\OT1/cmr/m/n/10.95 Preocupaciones| 
  []
@@ -1568,32 +2045,32 @@ Overfull \hbox (7.84741pt too wide) in paragraph at lines 127--127
 
 LaTeX Info: Redefining \. on input line 149.
 LaTeX Info: Redefining \% on input line 149.
-[54]) (arquitectura/lenguaje/puntosvista/estrategia.tex
-Overfull \hbox (4.14714pt too wide) in paragraph at lines 49--84
+[54]) (./arquitectura/lenguaje/puntosvista/estrategia.tex
+Overfull \hbox (4.14713pt too wide) in paragraph at lines 49--84
  [] 
  []
 
 LaTeX Info: Redefining \. on input line 87.
 LaTeX Info: Redefining \% on input line 87.
 [55]
-Overfull \hbox (4.14714pt too wide) in paragraph at lines 92--127
+Overfull \hbox (4.14713pt too wide) in paragraph at lines 92--127
  [] 
  []
 
 
-Overfull \hbox (4.14714pt too wide) in paragraph at lines 135--170
+Overfull \hbox (4.14713pt too wide) in paragraph at lines 135--170
  [] 
  []
 
 
-Overfull \hbox (4.14714pt too wide) in paragraph at lines 178--213
+Overfull \hbox (4.14713pt too wide) in paragraph at lines 178--213
  [] 
  []
 
 )
 LaTeX Info: Redefining \. on input line 51.
 LaTeX Info: Redefining \% on input line 51.
- [56] (arquitectura/lenguaje/puntosvista/negocio.tex
+ [56] (./arquitectura/lenguaje/puntosvista/negocio.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 3.
@@ -1603,7 +2080,7 @@ LaTeX Info: Redefining \. on input line 18.
 LaTeX Info: Redefining \% on input line 18.
 
 [58]
-<imgs/puntos_vista/negocio/vistaFuncionNegocio.png, id=381, 259.7203pt x 85.820
+<imgs/puntos_vista/negocio/vistaFuncionNegocio.png, id=383, 259.7203pt x 85.820
 62pt>
 File: imgs/puntos_vista/negocio/vistaFuncionNegocio.png Graphic file (type png)
 
@@ -1611,7 +2088,7 @@ File: imgs/puntos_vista/negocio/vistaFuncionNegocio.png Graphic file (type png)
 Package pdftex.def Info: imgs/puntos_vista/negocio/vistaFuncionNegocio.png  use
 d on input line 25.
 (pdftex.def)             Requested size: 251.9989pt x 83.26944pt.
-<imgs/puntos_vista/negocio/vistaProcesoNegocio.PNG, id=382, 715.17188pt x 486.3
+<imgs/puntos_vista/negocio/vistaProcesoNegocio.PNG, id=384, 715.17188pt x 486.3
 1688pt>
 File: imgs/puntos_vista/negocio/vistaProcesoNegocio.PNG Graphic file (type png)
 
@@ -1629,58 +2106,58 @@ Package pdftex.def Info: imgs/puntos_vista/negocio/vistaProcesoNegocio.PNG  use
 d on input line 60.
 (pdftex.def)             Requested size: 323.9978pt x 220.31726pt.
 )
-(arquitectura/lenguaje/puntosvista/aplicacion.tex
+(./arquitectura/lenguaje/puntosvista/aplicacion.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [60 <./imgs/puntos_vista/negocio/vistaProcesoNegocio.PNG>]
-<imgs/puntos_vista/aplicacion/vistacomportamiento.png, id=391, 353.06906pt x 15
+<imgs/puntos_vista/aplicacion/vistacomportamiento.PNG, id=393, 353.06906pt x 15
 6.585pt>
-File: imgs/puntos_vista/aplicacion/vistacomportamiento.png Graphic file (type p
+File: imgs/puntos_vista/aplicacion/vistacomportamiento.PNG Graphic file (type p
 ng)
-<use imgs/puntos_vista/aplicacion/vistacomportamiento.png>
-Package pdftex.def Info: imgs/puntos_vista/aplicacion/vistacomportamiento.png  
+<use imgs/puntos_vista/aplicacion/vistacomportamiento.PNG>
+Package pdftex.def Info: imgs/puntos_vista/aplicacion/vistacomportamiento.PNG  
 used on input line 9.
 (pdftex.def)             Requested size: 323.9978pt x 143.69199pt.
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
  [61]
-<imgs/puntos_vista/aplicacion/vistacooperacion.png, id=396, 348.55219pt x 150.5
+<imgs/puntos_vista/aplicacion/vistacooperacion.PNG, id=398, 348.55219pt x 150.5
 625pt>
-File: imgs/puntos_vista/aplicacion/vistacooperacion.png Graphic file (type png)
+File: imgs/puntos_vista/aplicacion/vistacooperacion.PNG Graphic file (type png)
 
-<use imgs/puntos_vista/aplicacion/vistacooperacion.png>
-Package pdftex.def Info: imgs/puntos_vista/aplicacion/vistacooperacion.png  use
+<use imgs/puntos_vista/aplicacion/vistacooperacion.PNG>
+Package pdftex.def Info: imgs/puntos_vista/aplicacion/vistacooperacion.PNG  use
 d on input line 20.
 (pdftex.def)             Requested size: 323.9978pt x 139.96193pt.
-<imgs/puntos_vista/aplicacion/vistaestructura.png, id=397, 304.88907pt x 85.067
+<imgs/puntos_vista/aplicacion/vistaestructura.PNG, id=399, 304.88907pt x 85.067
 81pt>
-File: imgs/puntos_vista/aplicacion/vistaestructura.png Graphic file (type png)
-<use imgs/puntos_vista/aplicacion/vistaestructura.png>
-Package pdftex.def Info: imgs/puntos_vista/aplicacion/vistaestructura.png  used
+File: imgs/puntos_vista/aplicacion/vistaestructura.PNG Graphic file (type png)
+<use imgs/puntos_vista/aplicacion/vistaestructura.PNG>
+Package pdftex.def Info: imgs/puntos_vista/aplicacion/vistaestructura.PNG  used
  on input line 31.
 (pdftex.def)             Requested size: 323.9978pt x 90.40248pt.
 )
 LaTeX Info: Redefining \. on input line 55.
 LaTeX Info: Redefining \% on input line 55.
- [62 <./imgs/puntos_vista/aplicacion/vistacomportamiento.png> <./imgs/puntos_vi
-sta/aplicacion/vistacooperacion.png>]
-(arquitectura/lenguaje/puntosvista/tecnologia.tex
+ [62 <./imgs/puntos_vista/aplicacion/vistacomportamiento.PNG> <./imgs/puntos_vi
+sta/aplicacion/vistacooperacion.PNG>]
+(./arquitectura/lenguaje/puntosvista/tecnologia.tex
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
- [63 <./imgs/puntos_vista/aplicacion/vistaestructura.png>]
-<imgs/puntos_vista/tecnologia/MMDUDI.jpg, id=407, 639.38875pt x 496.85625pt>
+ [63 <./imgs/puntos_vista/aplicacion/vistaestructura.PNG>]
+<imgs/puntos_vista/tecnologia/MMDUDI.jpg, id=409, 639.38875pt x 496.85625pt>
 File: imgs/puntos_vista/tecnologia/MMDUDI.jpg Graphic file (type jpg)
 <use imgs/puntos_vista/tecnologia/MMDUDI.jpg>
 Package pdftex.def Info: imgs/puntos_vista/tecnologia/MMDUDI.jpg  used on input
  line 16.
 (pdftex.def)             Requested size: 180.0pt x 139.87694pt.
-<imgs/puntos_vista/tecnologia/MDUDI.jpg, id=408, 866.23625pt x 349.305pt>
+<imgs/puntos_vista/tecnologia/MDUDI.jpg, id=410, 866.23625pt x 349.305pt>
 File: imgs/puntos_vista/tecnologia/MDUDI.jpg Graphic file (type jpg)
 <use imgs/puntos_vista/tecnologia/MDUDI.jpg>
 Package pdftex.def Info: imgs/puntos_vista/tecnologia/MDUDI.jpg  used on input 
 line 29.
 (pdftex.def)             Requested size: 180.0pt x 72.58336pt.
-<imgs/puntos_vista/tecnologia/MMDIYD.jpg, id=409, 602.25pt x 452.69125pt>
+<imgs/puntos_vista/tecnologia/MMDIYD.jpg, id=411, 602.25pt x 452.69125pt>
 File: imgs/puntos_vista/tecnologia/MMDIYD.jpg Graphic file (type jpg)
 <use imgs/puntos_vista/tecnologia/MMDIYD.jpg>
 Package pdftex.def Info: imgs/puntos_vista/tecnologia/MMDIYD.jpg  used on input
@@ -1694,7 +2171,7 @@ LaTeX Info: Redefining \. on input line 50.
 LaTeX Info: Redefining \% on input line 50.
 [64 <./imgs/puntos_vista/tecnologia/MMDUDI.jpg> <./imgs/puntos_vista/tecnologia
 /MDUDI.jpg>]
-<imgs/puntos_vista/tecnologia/MDIYD.jpg, id=413, 740.7675pt x 241.90375pt>
+<imgs/puntos_vista/tecnologia/MDIYD.jpg, id=415, 740.7675pt x 241.90375pt>
 File: imgs/puntos_vista/tecnologia/MDIYD.jpg Graphic file (type jpg)
 <use imgs/puntos_vista/tecnologia/MDIYD.jpg>
 Package pdftex.def Info: imgs/puntos_vista/tecnologia/MDIYD.jpg  used on input 
@@ -1703,7 +2180,7 @@ line 54.
 LaTeX Info: Redefining \. on input line 84.
 LaTeX Info: Redefining \% on input line 84.
  [65 <./imgs/puntos_vista/tecnologia/MMDIYD.jpg> <./imgs/puntos_vista/tecnologi
-a/MDIYD.jpg>])) (arquitectura/motivacion.tex
+a/MDIYD.jpg>])) (./arquitectura/motivacion.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [66]
@@ -1714,7 +2191,7 @@ Cap\'{\i }tulo 4.
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
  [68]
-<imgs/meta/Motivacion.pdf, id=427, 636.3775pt x 344.28625pt>
+<imgs/meta/Motivacion.pdf, id=429, 636.3775pt x 344.28625pt>
 File: imgs/meta/Motivacion.pdf Graphic file (type pdf)
 <use imgs/meta/Motivacion.pdf>
 Package pdftex.def Info: imgs/meta/Motivacion.pdf  used on input line 22.
@@ -1734,13 +2211,13 @@ LaTeX Info: Redefining \% on input line 30.
 [69 <./imgs/meta/Motivacion.pdf>]
 \openout2 = `arquitectura/motivacion/implicados.aux'.
 
- (arquitectura/motivacion/implicados.tex
-<imgs/modelo/Interesado.pdf, id=432, 297.11pt x 115.43124pt>
+ (./arquitectura/motivacion/implicados.tex
+<imgs/modelo/Interesado.pdf, id=434, 297.11pt x 115.43124pt>
 File: imgs/modelo/Interesado.pdf Graphic file (type pdf)
 <use imgs/modelo/Interesado.pdf>
 Package pdftex.def Info: imgs/modelo/Interesado.pdf  used on input line 7.
 (pdftex.def)             Requested size: 360.0pt x 139.87125pt.
-<imgs/motivacion/implicados/imp1.pdf, id=433, 684.5575pt x 255.95625pt>
+<imgs/motivacion/implicados/imp1.pdf, id=435, 684.5575pt x 255.95625pt>
 File: imgs/motivacion/implicados/imp1.pdf Graphic file (type pdf)
 <use imgs/motivacion/implicados/imp1.pdf>
 Package pdftex.def Info: imgs/motivacion/implicados/imp1.pdf  used on input lin
@@ -1757,19 +2234,19 @@ LaTeX Info: Redefining \% on input line 31.
  [71 <./imgs/motivacion/implicados/imp1.pdf>]
 \openout2 = `arquitectura/motivacion/realizacionObj.aux'.
 
- (arquitectura/motivacion/realizacionObj.tex
-<imgs/modelo/realObjetivos.pdf, id=505, 292.09125pt x 155.58125pt>
-File: imgs/modelo/realObjetivos.pdf Graphic file (type pdf)
-<use imgs/modelo/realObjetivos.pdf>
-Package pdftex.def Info: imgs/modelo/realObjetivos.pdf  used on input line 9.
+ (./arquitectura/motivacion/realizacionObj.tex
+<imgs/modelo/RealObjetivos.pdf, id=508, 292.09125pt x 155.58125pt>
+File: imgs/modelo/RealObjetivos.pdf Graphic file (type pdf)
+<use imgs/modelo/RealObjetivos.pdf>
+Package pdftex.def Info: imgs/modelo/RealObjetivos.pdf  used on input line 9.
 (pdftex.def)             Requested size: 360.0pt x 191.76973pt.
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
  [72
 
 
- <./imgs/modelo/realObjetivos.pdf>]
-<imgs/motivacion/realizacionObj/realizacion.pdf, id=546, 618.31pt x 262.9825pt>
+ <./imgs/modelo/RealObjetivos.pdf>]
+<imgs/motivacion/realizacionObj/realizacion.pdf, id=549, 618.31pt x 262.9825pt>
 
 File: imgs/motivacion/realizacionObj/realizacion.pdf Graphic file (type pdf)
 <use imgs/motivacion/realizacionObj/realizacion.pdf>
@@ -1787,52 +2264,110 @@ LaTeX Info: Redefining \% on input line 32.
 \openout2 = `arquitectura/motivacion/contribucionObj.aux'.
 
 
-(arquitectura/motivacion/contribucionObj.tex)
+(./arquitectura/motivacion/contribucionObj.tex)
 \openout2 = `arquitectura/motivacion/principios.aux'.
 
 
-(arquitectura/motivacion/principios.tex)
-\openout2 = `arquitectura/motivacion/realizacionReq.aux'.
+(./arquitectura/motivacion/principios.tex
+<imgs/modelo/Principios.pdf, id=576, 93.34875pt x 132.495pt>
+File: imgs/modelo/Principios.pdf Graphic file (type pdf)
+<use imgs/modelo/Principios.pdf>
+Package pdftex.def Info: imgs/modelo/Principios.pdf  used on input line 7.
+(pdftex.def)             Requested size: 108.0011pt x 153.29803pt.
+<imgs/motivacion/principios/principios.pdf, id=577, 488.82625pt x 313.17pt>
+File: imgs/motivacion/principios/principios.pdf Graphic file (type pdf)
+<use imgs/motivacion/principios/principios.pdf>
+Package pdftex.def Info: imgs/motivacion/principios/principios.pdf  used on inp
+ut line 18.
+(pdftex.def)             Requested size: 360.0pt x 230.6383pt.
 
 
-(arquitectura/motivacion/realizacionReq.tex)
-\openout2 = `arquitectura/motivacion/motivacion.aux'.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
+<imgs/motivacion/principios/principios_2.pdf, id=578, 650.43pt x 374.39874pt>
+File: imgs/motivacion/principios/principios_2.pdf Graphic file (type pdf)
+<use imgs/motivacion/principios/principios_2.pdf>
+Package pdftex.def Info: imgs/motivacion/principios/principios_2.pdf  used on i
+nput line 29.
+(pdftex.def)             Requested size: 360.0pt x 207.22818pt.
 
-(arquitectura/motivacion/motivacion.tex)) (arquitectura/estrategia.tex
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
  [74
 
 
 
 
+ <./imgs/modelo/Principios.pdf>]
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
+ [75 <./imgs/motivacion/principios/principios.pdf>]
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
+ [76 <./imgs/motivacion/principios/principios_2.pdf>]
+\openout2 = `arquitectura/motivacion/realizacionReq.aux'.
+
+
+(./arquitectura/motivacion/realizacionReq.tex)
+\openout2 = `arquitectura/motivacion/motivacion.aux'.
+
+
+(./arquitectura/motivacion/motivacion.tex
+<imgs/modelo/Motivacion.pdf, id=633, 321.2pt x 229.85875pt>
+File: imgs/modelo/Motivacion.pdf Graphic file (type pdf)
+<use imgs/modelo/Motivacion.pdf>
+Package pdftex.def Info: imgs/modelo/Motivacion.pdf  used on input line 7.
+(pdftex.def)             Requested size: 360.0pt x 257.63292pt.
+<imgs/motivacion/motivacion/motivacion.pdf, id=634, 845.1575pt x 580.1675pt>
+File: imgs/motivacion/motivacion/motivacion.pdf Graphic file (type pdf)
+<use imgs/motivacion/motivacion/motivacion.pdf>
+Package pdftex.def Info: imgs/motivacion/motivacion/motivacion.pdf  used on inp
+ut line 18.
+(pdftex.def)             Requested size: 360.0pt x 247.13005pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+)
+Underfull \vbox (badness 3148) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
+ [77
 
 
 
 
+ <./imgs/modelo/Motivacion.pdf>]
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
+ [78 <./imgs/motivacion/motivacion/motivacion.pdf>])
+(./arquitectura/estrategia.tex
+Cap\'{\i }tulo 5.
+[79
 
 
 ]
-Cap\'{\i }tulo 5.
-[75]
-<imgs/meta/Estrategia.pdf, id=579, 313.17pt x 124.465pt>
+<imgs/meta/Estrategia.pdf, id=739, 313.17pt x 124.465pt>
 File: imgs/meta/Estrategia.pdf Graphic file (type pdf)
 <use imgs/meta/Estrategia.pdf>
 Package pdftex.def Info: imgs/meta/Estrategia.pdf  used on input line 10.
 (pdftex.def)             Requested size: 323.9978pt x 128.77202pt.
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
- [76 <./imgs/meta/Estrategia.pdf>]
-<imgs/modelo/MapaCapacidad.pdf, id=584, 183.68625pt x 104.39pt>
+ [80 <./imgs/meta/Estrategia.pdf>]
+<imgs/modelo/MapaCapacidad.pdf, id=744, 183.68625pt x 104.39pt>
 File: imgs/modelo/MapaCapacidad.pdf Graphic file (type pdf)
 <use imgs/modelo/MapaCapacidad.pdf>
 Package pdftex.def Info: imgs/modelo/MapaCapacidad.pdf  used on input line 23.
 (pdftex.def)             Requested size: 180.0pt x 102.30148pt.
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
- [77 <./imgs/modelo/MapaCapacidad.pdf>]
-<imgs/caso/MapaCapacidad.pdf, id=610, 183.68625pt x 104.39pt>
+ [81 <./imgs/modelo/MapaCapacidad.pdf>]
+<imgs/caso/MapaCapacidad.pdf, id=770, 183.68625pt x 104.39pt>
 File: imgs/caso/MapaCapacidad.pdf Graphic file (type pdf)
 <use imgs/caso/MapaCapacidad.pdf>
 Package pdftex.def Info: imgs/caso/MapaCapacidad.pdf  used on input line 33.
@@ -1840,28 +2375,28 @@ Package pdftex.def Info: imgs/caso/MapaCapacidad.pdf  used on input line 33.
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
 
-[78 <./imgs/caso/MapaCapacidad.pdf>]) (arquitectura/negocio.tex
+[82 <./imgs/caso/MapaCapacidad.pdf>]) (./arquitectura/negocio.tex
 Cap\'{\i }tulo 6.
-[79
+[83
 
 ]
-<imgs/meta/Negocio.pdf, id=640, 456.70625pt x 294.09875pt>
+<imgs/meta/Negocio.pdf, id=799, 456.70625pt x 294.09875pt>
 File: imgs/meta/Negocio.pdf Graphic file (type pdf)
 <use imgs/meta/Negocio.pdf>
 Package pdftex.def Info: imgs/meta/Negocio.pdf  used on input line 9.
 (pdftex.def)             Requested size: 323.9978pt x 208.64552pt.
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
- [80 <./imgs/meta/Negocio.pdf>]
-<imgs/modelo/Organizacion.pdf, id=659, 252.945pt x 148.555pt>
+ [84 <./imgs/meta/Negocio.pdf>]
+<imgs/modelo/Organizacion.pdf, id=818, 252.945pt x 148.555pt>
 File: imgs/modelo/Organizacion.pdf Graphic file (type pdf)
 <use imgs/modelo/Organizacion.pdf>
 Package pdftex.def Info: imgs/modelo/Organizacion.pdf  used on input line 22.
 (pdftex.def)             Requested size: 180.0pt x 105.71506pt.
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
- [81 <./imgs/modelo/Organizacion.pdf>]
-<imgs/caso/Organizacion.pdf, id=671, 252.945pt x 148.555pt>
+ [85 <./imgs/modelo/Organizacion.pdf>]
+<imgs/caso/Organizacion.pdf, id=832, 252.945pt x 148.555pt>
 File: imgs/caso/Organizacion.pdf Graphic file (type pdf)
 <use imgs/caso/Organizacion.pdf>
 Package pdftex.def Info: imgs/caso/Organizacion.pdf  used on input line 32.
@@ -1869,20 +2404,20 @@ Package pdftex.def Info: imgs/caso/Organizacion.pdf  used on input line 32.
 LaTeX Info: Redefining \. on input line 37.
 LaTeX Info: Redefining \% on input line 37.
 
-[82 <./imgs/caso/Organizacion.pdf>]) (arquitectura/aplicacion.tex
+[86 <./imgs/caso/Organizacion.pdf>]) (./arquitectura/aplicacion.tex
 Cap\'{\i }tulo 7.
-[83
+[87
 
 ]
-<imgs/meta/Aplicacion.pdf, id=686, 438.63875pt x 283.0575pt>
+<imgs/meta/Aplicacion.pdf, id=847, 438.63875pt x 283.0575pt>
 File: imgs/meta/Aplicacion.pdf Graphic file (type pdf)
 <use imgs/meta/Aplicacion.pdf>
 Package pdftex.def Info: imgs/meta/Aplicacion.pdf  used on input line 10.
 (pdftex.def)             Requested size: 323.9978pt x 209.0835pt.
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
- [84 <./imgs/meta/Aplicacion.pdf>]
-<imgs/modelo/CmtoAplicacion.pdf, id=698, 399.4925pt x 181.67876pt>
+ [88 <./imgs/meta/Aplicacion.pdf>]
+<imgs/modelo/CmtoAplicacion.pdf, id=859, 399.4925pt x 181.67876pt>
 File: imgs/modelo/CmtoAplicacion.pdf Graphic file (type pdf)
 <use imgs/modelo/CmtoAplicacion.pdf>
 Package pdftex.def Info: imgs/modelo/CmtoAplicacion.pdf  used on input line 23.
@@ -1890,8 +2425,8 @@ Package pdftex.def Info: imgs/modelo/CmtoAplicacion.pdf  used on input line 23.
 (pdftex.def)             Requested size: 288.0011pt x 130.98047pt.
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
- [85 <./imgs/modelo/CmtoAplicacion.pdf>]
-<imgs/caso/CmtoAplicacion.pdf, id=711, 399.4925pt x 181.67876pt>
+ [89 <./imgs/modelo/CmtoAplicacion.pdf>]
+<imgs/caso/CmtoAplicacion.pdf, id=871, 399.4925pt x 181.67876pt>
 File: imgs/caso/CmtoAplicacion.pdf Graphic file (type pdf)
 <use imgs/caso/CmtoAplicacion.pdf>
 Package pdftex.def Info: imgs/caso/CmtoAplicacion.pdf  used on input line 33.
@@ -1899,20 +2434,20 @@ Package pdftex.def Info: imgs/caso/CmtoAplicacion.pdf  used on input line 33.
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
 
-[86 <./imgs/caso/CmtoAplicacion.pdf>]) (arquitectura/tecnologia.tex
+[90 <./imgs/caso/CmtoAplicacion.pdf>]) (./arquitectura/tecnologia.tex
 Cap\'{\i }tulo 8.
-[87
+[91
 
 ]
-<imgs/meta/Tecnologia.pdf, id=726, 558.085pt x 310.15875pt>
+<imgs/meta/Tecnologia.pdf, id=887, 558.085pt x 310.15875pt>
 File: imgs/meta/Tecnologia.pdf Graphic file (type pdf)
 <use imgs/meta/Tecnologia.pdf>
 Package pdftex.def Info: imgs/meta/Tecnologia.pdf  used on input line 10.
 (pdftex.def)             Requested size: 323.9978pt x 180.0673pt.
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
- [88 <./imgs/meta/Tecnologia.pdf>]
-<imgs/modelo/Implementacion.pdf, id=738, 351.3125pt x 269.005pt>
+ [92 <./imgs/meta/Tecnologia.pdf>]
+<imgs/modelo/Implementacion.pdf, id=899, 351.3125pt x 269.005pt>
 File: imgs/modelo/Implementacion.pdf Graphic file (type pdf)
 <use imgs/modelo/Implementacion.pdf>
 Package pdftex.def Info: imgs/modelo/Implementacion.pdf  used on input line 23.
@@ -1920,8 +2455,8 @@ Package pdftex.def Info: imgs/modelo/Implementacion.pdf  used on input line 23.
 (pdftex.def)             Requested size: 180.0pt x 137.83105pt.
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
- [89 <./imgs/modelo/Implementacion.pdf>]
-<imgs/caso/Implementacion.pdf, id=757, 351.3125pt x 269.005pt>
+ [93 <./imgs/modelo/Implementacion.pdf>]
+<imgs/caso/Implementacion.pdf, id=918, 351.3125pt x 269.005pt>
 File: imgs/caso/Implementacion.pdf Graphic file (type pdf)
 <use imgs/caso/Implementacion.pdf>
 Package pdftex.def Info: imgs/caso/Implementacion.pdf  used on input line 33.
@@ -1929,52 +2464,52 @@ Package pdftex.def Info: imgs/caso/Implementacion.pdf  used on input line 33.
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
 
-[90 <./imgs/caso/Implementacion.pdf>]) (arquitectura/proyecto.tex
+[94 <./imgs/caso/Implementacion.pdf>]) (./arquitectura/proyecto.tex
 Cap\'{\i }tulo 9.
-[91
+[95
 
 ]
-<imgs/meta/Proyecto.pdf, id=780, 592.2125pt x 235.88126pt>
+<imgs/meta/Proyecto.pdf, id=940, 592.2125pt x 235.88126pt>
 File: imgs/meta/Proyecto.pdf Graphic file (type pdf)
 <use imgs/meta/Proyecto.pdf>
 Package pdftex.def Info: imgs/meta/Proyecto.pdf  used on input line 10.
 (pdftex.def)             Requested size: 323.9978pt x 129.05482pt.
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
- [92 <./imgs/meta/Proyecto.pdf>]
-<imgs/modelo/Proyecto.pdf, id=785, 356.33125pt x 116.435pt>
+ [96 <./imgs/meta/Proyecto.pdf>]
+<imgs/modelo/Proyecto.pdf, id=945, 356.33125pt x 116.435pt>
 File: imgs/modelo/Proyecto.pdf Graphic file (type pdf)
 <use imgs/modelo/Proyecto.pdf>
 Package pdftex.def Info: imgs/modelo/Proyecto.pdf  used on input line 23.
 (pdftex.def)             Requested size: 323.9978pt x 105.87428pt.
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
- [93 <./imgs/modelo/Proyecto.pdf>]
-<imgs/caso/Proyecto.pdf, id=797, 356.33125pt x 116.435pt>
+ [97 <./imgs/modelo/Proyecto.pdf>]
+<imgs/caso/Proyecto.pdf, id=958, 356.33125pt x 116.435pt>
 File: imgs/caso/Proyecto.pdf Graphic file (type pdf)
 <use imgs/caso/Proyecto.pdf>
 Package pdftex.def Info: imgs/caso/Proyecto.pdf  used on input line 33.
 (pdftex.def)             Requested size: 323.9978pt x 105.87428pt.
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
- [94 <./imgs/caso/Proyecto.pdf>]) [95
+ [98 <./imgs/caso/Proyecto.pdf>]) [99
 
-] [96] (patrones/creacionales.tex
+] [100] (./patrones/creacionales.tex
 Cap\'{\i }tulo 10.
-[97
+[101
 
 ]
-<imgs/patrones/MRSingleton.pdf, id=819, 309.155pt x 156.585pt>
+<imgs/patrones/MRSingleton.pdf, id=979, 309.155pt x 156.585pt>
 File: imgs/patrones/MRSingleton.pdf Graphic file (type pdf)
 <use imgs/patrones/MRSingleton.pdf>
 Package pdftex.def Info: imgs/patrones/MRSingleton.pdf  used on input line 9.
 (pdftex.def)             Requested size: 251.9989pt x 127.64073pt.
-<imgs/patrones/MFSingleton.pdf, id=820, 222.8325pt x 119.44624pt>
+<imgs/patrones/MFSingleton.pdf, id=980, 222.8325pt x 119.44624pt>
 File: imgs/patrones/MFSingleton.pdf Graphic file (type pdf)
 <use imgs/patrones/MFSingleton.pdf>
 Package pdftex.def Info: imgs/patrones/MFSingleton.pdf  used on input line 12.
 (pdftex.def)             Requested size: 251.9989pt x 135.08202pt.
-<imgs/patrones/MESingleton.pdf, id=821, 239.89626pt x 143.53625pt>
+<imgs/patrones/MESingleton.pdf, id=981, 239.89626pt x 143.53625pt>
 File: imgs/patrones/MESingleton.pdf Graphic file (type pdf)
 <use imgs/patrones/MESingleton.pdf>
 Package pdftex.def Info: imgs/patrones/MESingleton.pdf  used on input line 15.
@@ -1985,13 +2520,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Info: Redefining \. on input line 20.
 LaTeX Info: Redefining \% on input line 20.
-[98 <./imgs/patrones/MRSingleton.pdf> <./imgs/patrones/MFSingleton.pdf>]
-<imgs/patrones/CRSingleton.pdf, id=841, 281.05pt x 149.55875pt>
+[102 <./imgs/patrones/MRSingleton.pdf> <./imgs/patrones/MFSingleton.pdf>]
+<imgs/patrones/CRSingleton.pdf, id=1002, 281.05pt x 149.55875pt>
 File: imgs/patrones/CRSingleton.pdf Graphic file (type pdf)
 <use imgs/patrones/CRSingleton.pdf>
 Package pdftex.def Info: imgs/patrones/CRSingleton.pdf  used on input line 21.
 (pdftex.def)             Requested size: 251.9989pt x 134.09956pt.
-<imgs/patrones/CFSingleton.pdf, id=842, 224.84pt x 119.44624pt>
+<imgs/patrones/CFSingleton.pdf, id=1003, 224.84pt x 119.44624pt>
 File: imgs/patrones/CFSingleton.pdf Graphic file (type pdf)
 <use imgs/patrones/CFSingleton.pdf>
 Package pdftex.def Info: imgs/patrones/CFSingleton.pdf  used on input line 24.
@@ -2000,7 +2535,7 @@ Package pdftex.def Info: imgs/patrones/CFSingleton.pdf  used on input line 24.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<imgs/patrones/CESingleton.pdf, id=843, 237.88875pt x 148.555pt>
+<imgs/patrones/CESingleton.pdf, id=1004, 237.88875pt x 148.555pt>
 File: imgs/patrones/CESingleton.pdf Graphic file (type pdf)
 <use imgs/patrones/CESingleton.pdf>
 Package pdftex.def Info: imgs/patrones/CESingleton.pdf  used on input line 27.
@@ -2010,57 +2545,58 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
-[99 <./imgs/patrones/MESingleton.pdf> <./imgs/patrones/CRSingleton.pdf>])
+[103 <./imgs/patrones/MESingleton.pdf> <./imgs/patrones/CRSingleton.pdf>])
 LaTeX Info: Redefining \. on input line 85.
 LaTeX Info: Redefining \% on input line 85.
 
-[100 <./imgs/patrones/CFSingleton.pdf> <./imgs/patrones/CESingleton.pdf>]
-[101
+[104 <./imgs/patrones/CFSingleton.pdf> <./imgs/patrones/CESingleton.pdf>]
+[105
 
-] [102] (reflexiones/conclusiones.tex
+] [106] (./reflexiones/conclusiones.tex
 Cap\'{\i }tulo 11.
-) (info.bbl [103
+) (./info.bbl [107
 
 ]
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [104
+ [108
 
-]) [105] (info.aux
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
+]) [109] (./info.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
 
-(arquitectura/motivacion/implicados.aux)
-(arquitectura/motivacion/realizacionObj.aux)
-(arquitectura/motivacion/contribucionObj.aux)
-(arquitectura/motivacion/principios.aux)
-(arquitectura/motivacion/realizacionReq.aux)
-(arquitectura/motivacion/motivacion.aux))
+(./arquitectura/motivacion/implicados.aux)
+(./arquitectura/motivacion/realizacionObj.aux)
+(./arquitectura/motivacion/contribucionObj.aux)
+(./arquitectura/motivacion/principios.aux)
+(./arquitectura/motivacion/realizacionReq.aux)
+(./arquitectura/motivacion/motivacion.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 8357 strings out of 480930
- 164618 string characters out of 2909548
- 654639 words of memory out of 3000000
- 23834 multiletter control sequences out of 15000+200000
- 540131 words of font info for 49 fonts, out of 3000000 for 9000
+ 8416 strings out of 492982
+ 151430 string characters out of 6134897
+ 299644 words of memory out of 5000000
+ 11570 multiletter control sequences out of 15000+600000
+ 11433 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,17n,39p,1972b,618s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\bluep\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
-tcti1095.pk> <C:\Users\bluep\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/
-ec/dpi600\tcrm1095.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx1
-2.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmti10.pfb>
-Output written on info.pdf (105 pages, 2966129 bytes).
+ 39i,18n,36p,1970b,614s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mti10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/shar
+e/texmf/fonts/type1/public/cm-super/sfti1095.pfb>
+Output written on info.pdf (109 pages, 3875349 bytes).
 PDF statistics:
- 951 PDF objects out of 1000 (max. 8388607)
+ 1113 PDF objects out of 1200 (max. 8388607)
+ 600 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
- 651 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 676 words of extra memory for PDF output out of 10000 (max. 10000000)
 
