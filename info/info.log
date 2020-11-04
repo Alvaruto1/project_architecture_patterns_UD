@@ -1,12 +1,22 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.5)  4 NOV 2020 14:48
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.12)  29 OCT 2020 23:51
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 entering extended mode
 **./info.tex
 (info.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-04-06>
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\book.cls"
 Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\bk11.clo"
+=======
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls"
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk11.clo"
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: bk11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count167
@@ -22,6 +32,7 @@ File: bk11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 ) (setup/paquetes.tex
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -36,25 +47,61 @@ Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+=======
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+x.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.
+sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+s.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.st
+y"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gra
+phics.cfg"
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+=======
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdf
+tex.def"
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen135
 \Gin@req@width=\dimen136
 )
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
 Package: babel 2020/03/22 3.42 The Babel package
 
 ("C:\Program Files\MiKTeX 2.9\tex/generic/babel\switch.def"
+=======
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.st
+y"
+Package: babel 2020/03/22 3.42 The Babel package
+
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.d
+ef"
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: switch.def 2020/03/22 3.42 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
@@ -63,11 +110,30 @@ File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
 
 ("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
+=======
+
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cf
+g"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\sp
+anish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.de
+f"
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: babel.def 2020/03/22 3.42 Babel common definitions
 \babel@savecnt=\count176
 \U@D=\dimen137
 
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+=======
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel
+.def")
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 \bbl@readstream=\read2
 \bbl@dirlevel=\count177
 )
@@ -78,13 +144,23 @@ Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
 Package babel Info: Making > an active character on input line 707.
 ))
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\verbatim.sty"
+=======
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\verbatim.s
+ty"
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks17
 \verbatim@line=\toks18
 \verbatim@in@stream=\read3
 )
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.sty"
+=======
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listing
+s.sty"
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 \lst@mode=\count179
 \lst@gtempboxa=\box45
 \lst@token=\toks19
@@ -98,25 +174,45 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 \lst@lineno=\count184
 \lst@maxwidth=\dimen141
 
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
+=======
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc
+.sty"
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 \c@lstnumber=\count185
 \lst@skipnumbers=\count186
 \lst@framebox=\box46
 )
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.cfg"
+=======
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listing
+s.cfg"
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
 Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+=======
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.s
+ty"
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\col
+or.cfg"
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex/latex/minted\minted.sty"
 Package: minted 2017/07/19 v2.5 Yet another Pygments shim for LaTeX
 
@@ -140,6 +236,38 @@ Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count187
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/fancyvrb\fancyvrb.sty"
+=======
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/minted\minted.st
+y"
+Package: minted 2017/07/19 v2.5 Yet another Pygments shim for LaTeX
+
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvopti
+ons.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmd
+s.sty"
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvse
+tkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fvextra\fvextra.
+sty"
+Package: fvextra 2019/02/04 v1.4 fvextra - extensions and patches for fancyvrb
+
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbo
+x.sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count187
+)
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyvrb\fancyvr
+b.sty"
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 Package: fancyvrb 2020/05/03 v3.6 verbatim text (tvz,hv)
 \FV@CodeLineNo=\count188
 \FV@InFile=\read4
@@ -148,11 +276,21 @@ Package: fancyvrb 2020/05/03 v3.6 verbatim text (tvz,hv)
 \FV@StepNumber=\count190
 \FV@OutFile=\write3
 )
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex/latex/upquote\upquote.sty"
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lineno\lineno.sty"
+=======
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/upquote\upquote.
+sty"
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lineno\lineno.st
+y"
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 \linenopenalty=\count191
 \output=\toks20
@@ -193,7 +331,11 @@ LaTeX Info: Redefining \\ on input line 3056.
 \FV@LineIndentBox=\box52
 \FV@LineWidth=\dimen152
 )
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\calc.sty"
+=======
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count275
 \calc@Bcount=\count276
@@ -206,6 +348,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count277
 \calc@Cskip=\skip52
 )
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\shellesc.sty"
 Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
 Package shellesc Info: Unrestricted shell escape enabled on input line 75.
@@ -221,12 +364,35 @@ Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 ("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+=======
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\shellesc.s
+ty"
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Unrestricted shell escape enabled on input line 75.
+)
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ifplatform\ifpla
+tform.sty"
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdfte
+xcmds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infw
+arerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.st
+y"
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex/generic/catchfile\catchfile.sty"
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 
@@ -238,12 +404,35 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 ))
 ("C:\Program Files\MiKTeX 2.9\tex/latex/xstring\xstring.sty"
 ("C:\Program Files\MiKTeX 2.9\tex/generic/xstring\xstring.tex"
+=======
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/generic/catchfile\catc
+hfile.sty"
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\etexc
+mds.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex
+.sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+))
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xstring\xstring.
+sty"
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xstring\xstrin
+g.tex"
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 \integerpart=\count278
 \decimalpart=\count279
 )
 Package: xstring 2019/02/06 v1.83 String manipulations (CT)
 )
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex/latex/framed\framed.sty"
+=======
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/framed\framed.st
+y"
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip53
 \fb@frw=\dimen155
@@ -251,13 +440,18 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \FrameRule=\dimen157
 \FrameSep=\dimen158
 )
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
+=======
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count280
 \float@exts=\toks21
 \float@box=\box53
 \@float@everytoks=\toks22
 \@floatcapt=\box54
+<<<<<<< HEAD
 )
 \minted@appexistsfile=\read5
 \minted@bgbox=\box55
@@ -303,18 +497,77 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 ))
+=======
+)
+\minted@appexistsfile=\read5
+\minted@bgbox=\box55
+\minted@code=\write4
+\c@minted@FancyVerbLineTemp=\count281
+\c@minted@pygmentizecounter=\count282
+\@float@every@listing=\toks23
+\c@listing=\count283
+)
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\longtable.
+sty"
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip54
+\LTright=\skip55
+\LTpre=\skip56
+\LTpost=\skip57
+\LTchunksize=\count284
+\LTcapwidth=\dimen159
+\LT@head=\box56
+\LT@firsthead=\box57
+\LT@foot=\box58
+\LT@lastfoot=\box59
+\LT@cols=\count285
+\LT@rows=\count286
+\c@LT@tables=\count287
+\c@LT@chunks=\count288
+\LT@p@ftn=\toks24
+)
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
+y"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks25
+\inpenc@posthook=\toks26
+))
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen160
+\ar@mcellbox=\box60
+\extrarowheight=\dimen161
+\NC@list=\toks27
+\extratabsurround=\skip58
+\backup@length=\skip59
+\ar@cellbox=\box61
+) (setup/macros.tex
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang
+1.sty"
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+))
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 runsystem(for ^%i in (pygmentize.exe pygmentize.bat pygmentize.cmd) do set > in
 fo.aex <nul: /p x=^%~$PATH:i>> info.aex)...executed.
 
 runsystem(del info.aex)...executed.
 
 
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count289
 \l__pdf_internal_box=\box62
 )
 (info.aux
+=======
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3back
+end-pdfmode.def"
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count289
+\l__pdf_internal_box=\box62
+) (info.aux
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 
@@ -359,10 +612,14 @@ LaTeX Warning: Label `tab:concepts' multiply defined.
 (arquitectura/motivacion/contribucionObj.aux)
 (arquitectura/motivacion/principios.aux)
 (arquitectura/motivacion/realizacionReq.aux)
+<<<<<<< HEAD
 (arquitectura/motivacion/motivacion.aux)
 (arquitectura/estrategia/estrategia.aux) (arquitectura/estrategia/capacidad.aux
 ) (arquitectura/estrategia/resultado.aux) (arquitectura/estrategia/recurso.aux)
 )
+=======
+(arquitectura/motivacion/motivacion.aux))
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 \openout1 = `info.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
@@ -379,7 +636,13 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
+<<<<<<< HEAD
  ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+=======
+
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp
+-pdf.mkii"
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count290
 \scratchdimen=\dimen162
@@ -392,7 +655,13 @@ LaTeX Font Info:    ... okay on input line 17.
 \MPnumerator=\count294
 \makeMPintoPDFobject=\count295
 \everyMPtoPDFconversion=\toks29
+<<<<<<< HEAD
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+=======
+)
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\eps
+topdf-base.sty"
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
@@ -400,7 +669,12 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\textcomp.sty"
+=======
+("C:\Users\Acer-PC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\textcomp.st
+y"
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
 \c@lstlisting=\count296
@@ -417,8 +691,13 @@ Package pdftex.def Info: imgs/ud.jpeg  used on input line 58.
 [1
 
 
+<<<<<<< HEAD
 {C:/Users/bluep/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./imgs/ud.j
 peg>] [2
+=======
+{C:/Users/Acer-PC/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./imgs/ud
+.jpeg>] [2
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 
 ] (info.toc
 LaTeX Info: Redefining \. on input line 1.
@@ -432,15 +711,25 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [3]
 LaTeX Info: Redefining \. on input line 102.
 LaTeX Info: Redefining \% on input line 102.
+<<<<<<< HEAD
  [4])
+=======
+ [4]
+LaTeX Info: Redefining \. on input line 145.
+LaTeX Info: Redefining \% on input line 145.
+ [5])
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 \tf@toc=\write5
 \openout5 = `info.toc'.
 
 LaTeX Info: Redefining \. on input line 65.
 LaTeX Info: Redefining \% on input line 65.
+<<<<<<< HEAD
  [5]
 LaTeX Info: Redefining \. on input line 65.
 LaTeX Info: Redefining \% on input line 65.
+=======
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
  [6] (info.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -1824,17 +2113,51 @@ LaTeX Info: Redefining \% on input line 32.
 \openout2 = `arquitectura/motivacion/contribucionObj.aux'.
 
 
+<<<<<<< HEAD
 (arquitectura/motivacion/contribucionObj.tex)
+=======
+(arquitectura/motivacion/contribucionObj.tex
+<imgs/modelo/ContObjetivos.pdf, id=579, 292.09125pt x 155.58125pt>
+File: imgs/modelo/ContObjetivos.pdf Graphic file (type pdf)
+<use imgs/modelo/ContObjetivos.pdf>
+Package pdftex.def Info: imgs/modelo/ContObjetivos.pdf  used on input line 7.
+(pdftex.def)             Requested size: 360.0pt x 191.76973pt.
+<imgs/motivacion/contriObjetivos/contriObjetivos.pdf, id=580, 478.78876pt x 288
+.07625pt>
+File: imgs/motivacion/contriObjetivos/contriObjetivos.pdf Graphic file (type pd
+f)
+<use imgs/motivacion/contriObjetivos/contriObjetivos.pdf>
+Package pdftex.def Info: imgs/motivacion/contriObjetivos/contriObjetivos.pdf  u
+sed on input line 18.
+(pdftex.def)             Requested size: 360.0pt x 216.6061pt.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+ [76
+
+
+ <./imgs/modelo/ContObjetivos.pdf>])
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+ [77 <./imgs/motivacion/contriObjetivos/contriObjetivos.pdf>]
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 \openout2 = `arquitectura/motivacion/principios.aux'.
 
 
 (arquitectura/motivacion/principios.tex
+<<<<<<< HEAD
 <imgs/modelo/Principios.pdf, id=579, 93.34875pt x 132.495pt>
+=======
+<imgs/modelo/Principios.pdf, id=638, 93.34875pt x 132.495pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/modelo/Principios.pdf Graphic file (type pdf)
 <use imgs/modelo/Principios.pdf>
 Package pdftex.def Info: imgs/modelo/Principios.pdf  used on input line 7.
 (pdftex.def)             Requested size: 108.0011pt x 153.29803pt.
+<<<<<<< HEAD
 <imgs/motivacion/principios/principios.pdf, id=580, 488.82625pt x 313.17pt>
+=======
+<imgs/motivacion/principios/principios.pdf, id=639, 488.82625pt x 313.17pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/motivacion/principios/principios.pdf Graphic file (type pdf)
 <use imgs/motivacion/principios/principios.pdf>
 Package pdftex.def Info: imgs/motivacion/principios/principios.pdf  used on inp
@@ -1844,7 +2167,11 @@ ut line 18.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+<<<<<<< HEAD
 <imgs/motivacion/principios/principios_2.pdf, id=581, 650.43pt x 374.39874pt>
+=======
+<imgs/motivacion/principios/principios_2.pdf, id=640, 650.43pt x 374.39874pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/motivacion/principios/principios_2.pdf Graphic file (type pdf)
 <use imgs/motivacion/principios/principios_2.pdf>
 Package pdftex.def Info: imgs/motivacion/principios/principios_2.pdf  used on i
@@ -1856,14 +2183,19 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 )
 LaTeX Info: Redefining \. on input line 34.
 LaTeX Info: Redefining \% on input line 34.
+<<<<<<< HEAD
  [76
 
 
+=======
+ [78
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 
 
  <./imgs/modelo/Principios.pdf>]
 LaTeX Info: Redefining \. on input line 34.
 LaTeX Info: Redefining \% on input line 34.
+<<<<<<< HEAD
  [77 <./imgs/motivacion/principios/principios.pdf>]
 LaTeX Info: Redefining \. on input line 34.
 LaTeX Info: Redefining \% on input line 34.
@@ -1873,15 +2205,65 @@ LaTeX Info: Redefining \% on input line 34.
 
 (arquitectura/motivacion/realizacionReq.tex)
 \openout2 = `arquitectura/motivacion/motivacion.aux'.
+=======
+ [79 <./imgs/motivacion/principios/principios.pdf>]
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
+ [80 <./imgs/motivacion/principios/principios_2.pdf>]
+\openout2 = `arquitectura/motivacion/realizacionReq.aux'.
 
 
+(arquitectura/motivacion/realizacionReq.tex
+<imgs/modelo/RealRequerimientos.pdf, id=696, 323.2075pt x 233.87375pt>
+File: imgs/modelo/RealRequerimientos.pdf Graphic file (type pdf)
+<use imgs/modelo/RealRequerimientos.pdf>
+Package pdftex.def Info: imgs/modelo/RealRequerimientos.pdf  used on input line
+ 9.
+(pdftex.def)             Requested size: 360.0pt x 260.50934pt.
+LaTeX Info: Redefining \. on input line 14.
+LaTeX Info: Redefining \% on input line 14.
+ [81
+
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
+
+ <./imgs/modelo/RealRequerimientos.pdf>]
+<imgs/motivacion/realizaRequerimientos/realizaRequerimientos.pdf, id=729, 255.9
+5625pt x 336.25626pt>
+File: imgs/motivacion/realizaRequerimientos/realizaRequerimientos.pdf Graphic f
+ile (type pdf)
+<use imgs/motivacion/realizaRequerimientos/realizaRequerimientos.pdf>
+Package pdftex.def Info: imgs/motivacion/realizaRequerimientos/realizaRequerimi
+entos.pdf  used on input line 20.
+(pdftex.def)             Requested size: 360.0pt x 472.97208pt.
+
+<<<<<<< HEAD
 (arquitectura/motivacion/motivacion.tex
 <imgs/modelo/Motivacion.pdf, id=636, 321.2pt x 229.85875pt>
+=======
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+)
+LaTeX Info: Redefining \. on input line 35.
+LaTeX Info: Redefining \% on input line 35.
+ [82]
+LaTeX Info: Redefining \. on input line 35.
+LaTeX Info: Redefining \% on input line 35.
+ [83 <./imgs/motivacion/realizaRequerimientos/realizaRequerimientos.pdf>]
+\openout2 = `arquitectura/motivacion/motivacion.aux'.
+
+(arquitectura/motivacion/motivacion.tex
+<imgs/modelo/Motivacion.pdf, id=751, 321.2pt x 229.85875pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/modelo/Motivacion.pdf Graphic file (type pdf)
 <use imgs/modelo/Motivacion.pdf>
 Package pdftex.def Info: imgs/modelo/Motivacion.pdf  used on input line 7.
 (pdftex.def)             Requested size: 360.0pt x 257.63292pt.
+<<<<<<< HEAD
 <imgs/motivacion/motivacion/motivacion.pdf, id=637, 845.1575pt x 580.1675pt>
+=======
+<imgs/motivacion/motivacion/motivacion.pdf, id=752, 845.1575pt x 580.1675pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/motivacion/motivacion/motivacion.pdf Graphic file (type pdf)
 <use imgs/motivacion/motivacion/motivacion.pdf>
 Package pdftex.def Info: imgs/motivacion/motivacion/motivacion.pdf  used on inp
@@ -1896,14 +2278,19 @@ Underfull \vbox (badness 3148) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 36.
 LaTeX Info: Redefining \% on input line 36.
+<<<<<<< HEAD
  [79
 
 
+=======
+ [84
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 
 
  <./imgs/modelo/Motivacion.pdf>]
 LaTeX Info: Redefining \. on input line 36.
 LaTeX Info: Redefining \% on input line 36.
+<<<<<<< HEAD
  [80 <./imgs/motivacion/motivacion/motivacion.pdf>])
 (arquitectura/estrategia.tex
 Cap\'{\i }tulo 5.
@@ -1916,12 +2303,26 @@ LaTeX Warning: Reference `chap:Motivacional' on page 81 undefined on input line
 
 ]
 <imgs/meta/Estrategia.pdf, id=741, 313.17pt x 124.465pt>
+=======
+ [85 <./imgs/motivacion/motivacion/motivacion.pdf>])
+(arquitectura/estrategia.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [86
+
+
+]
+Cap\'{\i }tulo 5.
+[87]
+<imgs/meta/Estrategia.pdf, id=859, 313.17pt x 124.465pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/meta/Estrategia.pdf Graphic file (type pdf)
 <use imgs/meta/Estrategia.pdf>
 Package pdftex.def Info: imgs/meta/Estrategia.pdf  used on input line 10.
 (pdftex.def)             Requested size: 323.9978pt x 128.77202pt.
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
+<<<<<<< HEAD
  [82 <./imgs/meta/Estrategia.pdf>]
 \openout2 = `arquitectura/estrategia/estrategia.aux'.
 
@@ -1930,10 +2331,15 @@ LaTeX Info: Redefining \% on input line 16.
 
 (arquitectura/estrategia/capacidad.tex
 <imgs/modelo/MapaCapacidad.pdf, id=746, 183.68625pt x 104.39pt>
+=======
+ [88 <./imgs/meta/Estrategia.pdf>]
+<imgs/modelo/MapaCapacidad.pdf, id=864, 183.68625pt x 104.39pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/modelo/MapaCapacidad.pdf Graphic file (type pdf)
 <use imgs/modelo/MapaCapacidad.pdf>
 Package pdftex.def Info: imgs/modelo/MapaCapacidad.pdf  used on input line 6.
 (pdftex.def)             Requested size: 180.0pt x 102.30148pt.
+<<<<<<< HEAD
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
  [83
@@ -1942,6 +2348,12 @@ LaTeX Info: Redefining \% on input line 11.
 
  <./imgs/modelo/MapaCapacidad.pdf>]
 <imgs/caso/MapaCapacidad.pdf, id=772, 183.68625pt x 104.39pt>
+=======
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
+ [89 <./imgs/modelo/MapaCapacidad.pdf>]
+<imgs/caso/MapaCapacidad.pdf, id=890, 183.68625pt x 104.39pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/caso/MapaCapacidad.pdf Graphic file (type pdf)
 <use imgs/caso/MapaCapacidad.pdf>
 Package pdftex.def Info: imgs/caso/MapaCapacidad.pdf  used on input line 16.
@@ -1950,6 +2362,7 @@ Package pdftex.def Info: imgs/caso/MapaCapacidad.pdf  used on input line 16.
 LaTeX Info: Redefining \. on input line 20.
 LaTeX Info: Redefining \% on input line 20.
 
+<<<<<<< HEAD
 [84 <./imgs/caso/MapaCapacidad.pdf>]
 \openout2 = `arquitectura/estrategia/resultado.aux'.
 
@@ -1968,22 +2381,40 @@ Cap\'{\i }tulo 6.
 
 ]
 <imgs/meta/Negocio.pdf, id=802, 456.70625pt x 294.09875pt>
+=======
+[90 <./imgs/caso/MapaCapacidad.pdf>]) (arquitectura/negocio.tex
+Cap\'{\i }tulo 6.
+[91
+
+]
+<imgs/meta/Negocio.pdf, id=920, 456.70625pt x 294.09875pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/meta/Negocio.pdf Graphic file (type pdf)
 <use imgs/meta/Negocio.pdf>
 Package pdftex.def Info: imgs/meta/Negocio.pdf  used on input line 9.
 (pdftex.def)             Requested size: 323.9978pt x 208.64552pt.
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
+<<<<<<< HEAD
  [86 <./imgs/meta/Negocio.pdf>]
 <imgs/modelo/Organizacion.pdf, id=821, 252.945pt x 148.555pt>
+=======
+ [92 <./imgs/meta/Negocio.pdf>]
+<imgs/modelo/Organizacion.pdf, id=939, 252.945pt x 148.555pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/modelo/Organizacion.pdf Graphic file (type pdf)
 <use imgs/modelo/Organizacion.pdf>
 Package pdftex.def Info: imgs/modelo/Organizacion.pdf  used on input line 22.
 (pdftex.def)             Requested size: 180.0pt x 105.71506pt.
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
+<<<<<<< HEAD
  [87 <./imgs/modelo/Organizacion.pdf>]
 <imgs/caso/Organizacion.pdf, id=833, 252.945pt x 148.555pt>
+=======
+ [93 <./imgs/modelo/Organizacion.pdf>]
+<imgs/caso/Organizacion.pdf, id=951, 252.945pt x 148.555pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/caso/Organizacion.pdf Graphic file (type pdf)
 <use imgs/caso/Organizacion.pdf>
 Package pdftex.def Info: imgs/caso/Organizacion.pdf  used on input line 32.
@@ -1991,20 +2422,34 @@ Package pdftex.def Info: imgs/caso/Organizacion.pdf  used on input line 32.
 LaTeX Info: Redefining \. on input line 37.
 LaTeX Info: Redefining \% on input line 37.
 
+<<<<<<< HEAD
 [88 <./imgs/caso/Organizacion.pdf>]) (arquitectura/aplicacion.tex
 Cap\'{\i }tulo 7.
 [89
 
 ]
 <imgs/meta/Aplicacion.pdf, id=848, 438.63875pt x 283.0575pt>
+=======
+[94 <./imgs/caso/Organizacion.pdf>]) (arquitectura/aplicacion.tex
+Cap\'{\i }tulo 7.
+[95
+
+]
+<imgs/meta/Aplicacion.pdf, id=966, 438.63875pt x 283.0575pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/meta/Aplicacion.pdf Graphic file (type pdf)
 <use imgs/meta/Aplicacion.pdf>
 Package pdftex.def Info: imgs/meta/Aplicacion.pdf  used on input line 10.
 (pdftex.def)             Requested size: 323.9978pt x 209.0835pt.
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
+<<<<<<< HEAD
  [90 <./imgs/meta/Aplicacion.pdf>]
 <imgs/modelo/CmtoAplicacion.pdf, id=860, 399.4925pt x 181.67876pt>
+=======
+ [96 <./imgs/meta/Aplicacion.pdf>]
+<imgs/modelo/CmtoAplicacion.pdf, id=978, 399.4925pt x 181.67876pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/modelo/CmtoAplicacion.pdf Graphic file (type pdf)
 <use imgs/modelo/CmtoAplicacion.pdf>
 Package pdftex.def Info: imgs/modelo/CmtoAplicacion.pdf  used on input line 23.
@@ -2012,8 +2457,13 @@ Package pdftex.def Info: imgs/modelo/CmtoAplicacion.pdf  used on input line 23.
 (pdftex.def)             Requested size: 288.0011pt x 130.98047pt.
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
+<<<<<<< HEAD
  [91 <./imgs/modelo/CmtoAplicacion.pdf>]
 <imgs/caso/CmtoAplicacion.pdf, id=873, 399.4925pt x 181.67876pt>
+=======
+ [97 <./imgs/modelo/CmtoAplicacion.pdf>]
+<imgs/caso/CmtoAplicacion.pdf, id=991, 399.4925pt x 181.67876pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/caso/CmtoAplicacion.pdf Graphic file (type pdf)
 <use imgs/caso/CmtoAplicacion.pdf>
 Package pdftex.def Info: imgs/caso/CmtoAplicacion.pdf  used on input line 33.
@@ -2021,20 +2471,34 @@ Package pdftex.def Info: imgs/caso/CmtoAplicacion.pdf  used on input line 33.
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
 
+<<<<<<< HEAD
 [92 <./imgs/caso/CmtoAplicacion.pdf>]) (arquitectura/tecnologia.tex
 Cap\'{\i }tulo 8.
 [93
 
 ]
 <imgs/meta/Tecnologia.pdf, id=888, 558.085pt x 310.15875pt>
+=======
+[98 <./imgs/caso/CmtoAplicacion.pdf>]) (arquitectura/tecnologia.tex
+Cap\'{\i }tulo 8.
+[99
+
+]
+<imgs/meta/Tecnologia.pdf, id=1006, 558.085pt x 310.15875pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/meta/Tecnologia.pdf Graphic file (type pdf)
 <use imgs/meta/Tecnologia.pdf>
 Package pdftex.def Info: imgs/meta/Tecnologia.pdf  used on input line 10.
 (pdftex.def)             Requested size: 323.9978pt x 180.0673pt.
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
+<<<<<<< HEAD
  [94 <./imgs/meta/Tecnologia.pdf>]
 <imgs/modelo/Implementacion.pdf, id=900, 351.3125pt x 269.005pt>
+=======
+ [100 <./imgs/meta/Tecnologia.pdf>]
+<imgs/modelo/Implementacion.pdf, id=1018, 351.3125pt x 269.005pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/modelo/Implementacion.pdf Graphic file (type pdf)
 <use imgs/modelo/Implementacion.pdf>
 Package pdftex.def Info: imgs/modelo/Implementacion.pdf  used on input line 23.
@@ -2042,14 +2506,20 @@ Package pdftex.def Info: imgs/modelo/Implementacion.pdf  used on input line 23.
 (pdftex.def)             Requested size: 180.0pt x 137.83105pt.
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
+<<<<<<< HEAD
  [95 <./imgs/modelo/Implementacion.pdf>]
 <imgs/caso/Implementacion.pdf, id=919, 351.3125pt x 269.005pt>
+=======
+ [101 <./imgs/modelo/Implementacion.pdf>]
+<imgs/caso/Implementacion.pdf, id=1037, 351.3125pt x 269.005pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/caso/Implementacion.pdf Graphic file (type pdf)
 <use imgs/caso/Implementacion.pdf>
 Package pdftex.def Info: imgs/caso/Implementacion.pdf  used on input line 33.
 (pdftex.def)             Requested size: 180.0pt x 137.83105pt.
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
+<<<<<<< HEAD
 
 [96 <./imgs/caso/Implementacion.pdf>]) (arquitectura/proyecto.tex
 Cap\'{\i }tulo 9.
@@ -2057,28 +2527,47 @@ Cap\'{\i }tulo 9.
 
 ]
 <imgs/meta/Proyecto.pdf, id=942, 592.2125pt x 235.88126pt>
+=======
+ [102 <./imgs/caso/Implementacion.pdf>]) (arquitectura/proyecto.tex
+Cap\'{\i }tulo 9.
+[103
+
+]
+<imgs/meta/Proyecto.pdf, id=1060, 592.2125pt x 235.88126pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/meta/Proyecto.pdf Graphic file (type pdf)
 <use imgs/meta/Proyecto.pdf>
 Package pdftex.def Info: imgs/meta/Proyecto.pdf  used on input line 10.
 (pdftex.def)             Requested size: 323.9978pt x 129.05482pt.
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
+<<<<<<< HEAD
  [98 <./imgs/meta/Proyecto.pdf>]
 <imgs/modelo/Proyecto.pdf, id=947, 356.33125pt x 116.435pt>
+=======
+ [104 <./imgs/meta/Proyecto.pdf>]
+<imgs/modelo/Proyecto.pdf, id=1065, 356.33125pt x 116.435pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/modelo/Proyecto.pdf Graphic file (type pdf)
 <use imgs/modelo/Proyecto.pdf>
 Package pdftex.def Info: imgs/modelo/Proyecto.pdf  used on input line 23.
 (pdftex.def)             Requested size: 323.9978pt x 105.87428pt.
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
+<<<<<<< HEAD
  [99 <./imgs/modelo/Proyecto.pdf>]
 <imgs/caso/Proyecto.pdf, id=959, 356.33125pt x 116.435pt>
+=======
+ [105 <./imgs/modelo/Proyecto.pdf>]
+<imgs/caso/Proyecto.pdf, id=1077, 356.33125pt x 116.435pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/caso/Proyecto.pdf Graphic file (type pdf)
 <use imgs/caso/Proyecto.pdf>
 Package pdftex.def Info: imgs/caso/Proyecto.pdf  used on input line 33.
 (pdftex.def)             Requested size: 323.9978pt x 105.87428pt.
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
+<<<<<<< HEAD
  [100 <./imgs/caso/Proyecto.pdf>]) [101
 
 ] [102] (patrones/creacionales.tex
@@ -2087,16 +2576,35 @@ Cap\'{\i }tulo 10.
 
 ]
 <imgs/patrones/MRSingleton.pdf, id=981, 309.155pt x 156.585pt>
+=======
+
+[106 <./imgs/caso/Proyecto.pdf>]) [107
+
+] [108] (patrones/creacionales.tex
+Cap\'{\i }tulo 10.
+[109
+
+]
+<imgs/patrones/MRSingleton.pdf, id=1099, 309.155pt x 156.585pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/patrones/MRSingleton.pdf Graphic file (type pdf)
 <use imgs/patrones/MRSingleton.pdf>
 Package pdftex.def Info: imgs/patrones/MRSingleton.pdf  used on input line 9.
 (pdftex.def)             Requested size: 251.9989pt x 127.64073pt.
+<<<<<<< HEAD
 <imgs/patrones/MFSingleton.pdf, id=982, 222.8325pt x 119.44624pt>
+=======
+<imgs/patrones/MFSingleton.pdf, id=1100, 222.8325pt x 119.44624pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/patrones/MFSingleton.pdf Graphic file (type pdf)
 <use imgs/patrones/MFSingleton.pdf>
 Package pdftex.def Info: imgs/patrones/MFSingleton.pdf  used on input line 12.
 (pdftex.def)             Requested size: 251.9989pt x 135.08202pt.
+<<<<<<< HEAD
 <imgs/patrones/MESingleton.pdf, id=983, 239.89626pt x 143.53625pt>
+=======
+<imgs/patrones/MESingleton.pdf, id=1101, 239.89626pt x 143.53625pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/patrones/MESingleton.pdf Graphic file (type pdf)
 <use imgs/patrones/MESingleton.pdf>
 Package pdftex.def Info: imgs/patrones/MESingleton.pdf  used on input line 15.
@@ -2107,13 +2615,22 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Info: Redefining \. on input line 20.
 LaTeX Info: Redefining \% on input line 20.
+<<<<<<< HEAD
 [104 <./imgs/patrones/MRSingleton.pdf> <./imgs/patrones/MFSingleton.pdf>]
 <imgs/patrones/CRSingleton.pdf, id=1003, 281.05pt x 149.55875pt>
+=======
+[110 <./imgs/patrones/MRSingleton.pdf> <./imgs/patrones/MFSingleton.pdf>]
+<imgs/patrones/CRSingleton.pdf, id=1121, 281.05pt x 149.55875pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/patrones/CRSingleton.pdf Graphic file (type pdf)
 <use imgs/patrones/CRSingleton.pdf>
 Package pdftex.def Info: imgs/patrones/CRSingleton.pdf  used on input line 21.
 (pdftex.def)             Requested size: 251.9989pt x 134.09956pt.
+<<<<<<< HEAD
 <imgs/patrones/CFSingleton.pdf, id=1004, 224.84pt x 119.44624pt>
+=======
+<imgs/patrones/CFSingleton.pdf, id=1122, 224.84pt x 119.44624pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/patrones/CFSingleton.pdf Graphic file (type pdf)
 <use imgs/patrones/CFSingleton.pdf>
 Package pdftex.def Info: imgs/patrones/CFSingleton.pdf  used on input line 24.
@@ -2122,7 +2639,11 @@ Package pdftex.def Info: imgs/patrones/CFSingleton.pdf  used on input line 24.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<<<<<<< HEAD
 <imgs/patrones/CESingleton.pdf, id=1005, 237.88875pt x 148.555pt>
+=======
+<imgs/patrones/CESingleton.pdf, id=1123, 237.88875pt x 148.555pt>
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 File: imgs/patrones/CESingleton.pdf Graphic file (type pdf)
 <use imgs/patrones/CESingleton.pdf>
 Package pdftex.def Info: imgs/patrones/CESingleton.pdf  used on input line 27.
@@ -2132,6 +2653,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
+<<<<<<< HEAD
 [105 <./imgs/patrones/MESingleton.pdf> <./imgs/patrones/CRSingleton.pdf>])
 LaTeX Info: Redefining \. on input line 85.
 LaTeX Info: Redefining \% on input line 85.
@@ -2142,13 +2664,31 @@ LaTeX Info: Redefining \% on input line 85.
 ] [108] (reflexiones/conclusiones.tex
 Cap\'{\i }tulo 11.
 ) (info.bbl [109
+=======
+[111 <./imgs/patrones/MESingleton.pdf> <./imgs/patrones/CRSingleton.pdf>])
+LaTeX Info: Redefining \. on input line 85.
+LaTeX Info: Redefining \% on input line 85.
+
+[112 <./imgs/patrones/CFSingleton.pdf> <./imgs/patrones/CESingleton.pdf>]
+[113
+
+] [114] (reflexiones/conclusiones.tex
+Cap\'{\i }tulo 11.
+) (info.bbl [115
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 
 ]
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
+<<<<<<< HEAD
  [110
 
 ]) [111] (info.aux
+=======
+ [116
+
+]) [117] (info.aux
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 
@@ -2157,6 +2697,7 @@ LaTeX Info: Redefining \% on input line 7.
 (arquitectura/motivacion/contribucionObj.aux)
 (arquitectura/motivacion/principios.aux)
 (arquitectura/motivacion/realizacionReq.aux)
+<<<<<<< HEAD
 (arquitectura/motivacion/motivacion.aux)
 (arquitectura/estrategia/estrategia.aux) (arquitectura/estrategia/capacidad.aux
 ) (arquitectura/estrategia/resultado.aux) (arquitectura/estrategia/recurso.aux)
@@ -2164,11 +2705,15 @@ LaTeX Info: Redefining \% on input line 7.
 
 LaTeX Warning: There were undefined references.
 
+=======
+(arquitectura/motivacion/motivacion.aux))
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  8437 strings out of 480930
  168316 string characters out of 2909548
  653639 words of memory out of 3000000
@@ -2189,6 +2734,30 @@ e1/public/amsfonts/cm/cmti10.pfb>
 Output written on info.pdf (111 pages, 3911680 bytes).
 PDF statistics:
  1114 PDF objects out of 1200 (max. 8388607)
+=======
+ 8419 strings out of 480930
+ 170166 string characters out of 2898823
+ 653639 words of memory out of 3000000
+ 23886 multiletter control sequences out of 15000+200000
+ 540131 words of font info for 49 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,17n,39p,1972b,654s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Acer-PC\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
+0\tcti1095.pk> <C:\Users\Acer-PC\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
+pen/ec/dpi600\tcrm1095.pk><C:/Users/Acer-PC/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Acer-PC/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Acer-PC/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Use
+rs/Acer-PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
+10.pfb><C:/Users/Acer-PC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr6.pfb><C:/Users/Acer-PC/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr8.pfb><C:/Users/Acer-PC/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Acer-PC/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on info.pdf (117 pages, 4286369 bytes).
+PDF statistics:
+ 1232 PDF objects out of 1440 (max. 8388607)
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
  0 named destinations out of 1000 (max. 500000)
- 676 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 696 words of extra memory for PDF output out of 10000 (max. 10000000)
 

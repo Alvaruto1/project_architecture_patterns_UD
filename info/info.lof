@@ -20,6 +20,7 @@
 \contentsline {figure}{\numberline {4.3}{\ignorespaces Caso Implicados}}{73}%
 \contentsline {figure}{\numberline {4.4}{\ignorespaces Modelo Realización de Objetivos}}{74}%
 \contentsline {figure}{\numberline {4.5}{\ignorespaces Caso Realización de Objetivos}}{75}%
+<<<<<<< HEAD
 \contentsline {figure}{\numberline {4.6}{\ignorespaces Modelo Principios}}{76}%
 \contentsline {figure}{\numberline {4.7}{\ignorespaces Caso Principios}}{77}%
 \contentsline {figure}{\numberline {4.8}{\ignorespaces Caso Principios}}{78}%
@@ -52,4 +53,42 @@
 \contentsline {figure}{\numberline {10.4}{\ignorespaces Caso de Realizacion Singleton}}{105}%
 \contentsline {figure}{\numberline {10.5}{\ignorespaces Caso de Funcion Singleton}}{106}%
 \contentsline {figure}{\numberline {10.6}{\ignorespaces Caso de Estructura Singleton}}{106}%
+=======
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Modelo Contribución de objetivos}}{76}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Caso Contribución de Objetivos}}{77}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Modelo Principios}}{78}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Caso Principios}}{79}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Caso Principios}}{80}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Modelo Realización de Requerimientos}}{81}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Caso Realización de Requerimientos}}{83}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Modelo Motivación}}{84}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Caso Motivación}}{85}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Metamodelo Motivacional}}{88}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Modelo Mapa de Capacidad}}{89}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Caso Mapa de Capacidad}}{90}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Metamodelo Negocio}}{92}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Modelo Organizacion}}{93}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Caso Organizacion}}{94}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Metamodelo Aplicacion}}{96}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Modelo Comportamiento de Aplicacion}}{97}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Caso Comportamiento de Aplicacion}}{98}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Metamodelo Tecnologia}}{100}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Modelo Implementacion y Despliegue}}{101}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Caso Implementacion y Despliegue}}{102}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Metamodelo Proyecto}}{104}%
+\contentsline {figure}{\numberline {9.2}{\ignorespaces Modelo Proyecto}}{105}%
+\contentsline {figure}{\numberline {9.3}{\ignorespaces Caso Proyecto}}{106}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Modelo de Realizacion Singleton}}{110}%
+\contentsline {figure}{\numberline {10.2}{\ignorespaces Modelo de Funcion Singleton}}{110}%
+\contentsline {figure}{\numberline {10.3}{\ignorespaces Modelo de Estructura Singleton}}{111}%
+\contentsline {figure}{\numberline {10.4}{\ignorespaces Caso de Realizacion Singleton}}{111}%
+\contentsline {figure}{\numberline {10.5}{\ignorespaces Caso de Funcion Singleton}}{112}%
+\contentsline {figure}{\numberline {10.6}{\ignorespaces Caso de Estructura Singleton}}{112}%
+>>>>>>> 12d5d462b2009d1c0ae9c091c35702ef6715bbb7
 \addvspace {10\p@ }
