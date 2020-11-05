@@ -67,34 +67,40 @@
 \BOOKMARK [1][-]{section.5.3}{Punto de Vista de Mapa de Capacidad}{chapter.5}% 67
 \BOOKMARK [2][-]{subsection.5.3.1}{Modelo de Mapa de Capacidad}{section.5.3}% 68
 \BOOKMARK [2][-]{subsection.5.3.2}{Caso de Mapa de Capacidad}{section.5.3}% 69
-\BOOKMARK [0][-]{chapter.6}{Negocio}{part.2}% 70
-\BOOKMARK [1][-]{section.6.1}{Introduccion}{chapter.6}% 71
-\BOOKMARK [1][-]{section.6.2}{Metamodelo}{chapter.6}% 72
-\BOOKMARK [1][-]{section.6.3}{Punto de Vista de Mapa de Capacidad}{chapter.6}% 73
-\BOOKMARK [2][-]{subsection.6.3.1}{Modelo de Implicados}{section.6.3}% 74
-\BOOKMARK [2][-]{subsection.6.3.2}{Caso de Implicados}{section.6.3}% 75
-\BOOKMARK [0][-]{chapter.7}{Aplicacion}{part.2}% 76
-\BOOKMARK [1][-]{section.7.1}{Introduccion}{chapter.7}% 77
-\BOOKMARK [1][-]{section.7.2}{Metamodelo}{chapter.7}% 78
-\BOOKMARK [1][-]{section.7.3}{Punto de Vista de Comportamiento de Aplicacion}{chapter.7}% 79
-\BOOKMARK [2][-]{subsection.7.3.1}{Modelo de Implicados}{section.7.3}% 80
-\BOOKMARK [2][-]{subsection.7.3.2}{Caso de Implicados}{section.7.3}% 81
-\BOOKMARK [0][-]{chapter.8}{Tecnologia}{part.2}% 82
-\BOOKMARK [1][-]{section.8.1}{Introduccion}{chapter.8}% 83
-\BOOKMARK [1][-]{section.8.2}{Metamodelo}{chapter.8}% 84
-\BOOKMARK [1][-]{section.8.3}{Punto de Vista de Implementacion y Despliegue}{chapter.8}% 85
-\BOOKMARK [2][-]{subsection.8.3.1}{Modelo de Implementacion y Despliegue}{section.8.3}% 86
-\BOOKMARK [2][-]{subsection.8.3.2}{Caso de Implementacion y Despliegue}{section.8.3}% 87
-\BOOKMARK [0][-]{chapter.9}{Proyecto}{part.2}% 88
-\BOOKMARK [1][-]{section.9.1}{Introduccion}{chapter.9}% 89
-\BOOKMARK [1][-]{section.9.2}{Metamodelo}{chapter.9}% 90
-\BOOKMARK [1][-]{section.9.3}{Punto de Vista de Proyecto}{chapter.9}% 91
-\BOOKMARK [2][-]{subsection.9.3.1}{Modelo de Proyecto}{section.9.3}% 92
-\BOOKMARK [2][-]{subsection.9.3.2}{Caso de Proyecto}{section.9.3}% 93
-\BOOKMARK [-1][-]{part.3}{III DISE\321O}{}% 94
-\BOOKMARK [0][-]{chapter.10}{Creacionales}{part.3}% 95
-\BOOKMARK [1][-]{section.10.1}{Introduccion}{chapter.10}% 96
-\BOOKMARK [2][-]{subsection.10.1.1}{Patron ...}{section.10.1}% 97
-\BOOKMARK [-1][-]{part.4}{IV REFLEXIONES}{}% 98
-\BOOKMARK [0][-]{chapter.11}{Conclusiones}{part.4}% 99
-\BOOKMARK [1][-]{section.11.1}{Introduccion}{chapter.11}% 100
+\BOOKMARK [1][-]{section.5.4}{Punto de Vista de Realizaci\363n de resultado}{chapter.5}% 70
+\BOOKMARK [2][-]{subsection.5.4.1}{Modelo de Realizaci\363n de resultado}{section.5.4}% 71
+\BOOKMARK [2][-]{subsection.5.4.2}{Caso de Realizaci\363n de resultado}{section.5.4}% 72
+\BOOKMARK [1][-]{section.5.5}{Punto de Vista de Mapa de Recurso}{chapter.5}% 73
+\BOOKMARK [2][-]{subsection.5.5.1}{Modelo de Mapa de Recurso}{section.5.5}% 74
+\BOOKMARK [2][-]{subsection.5.5.2}{Caso de Mapa de Recurso}{section.5.5}% 75
+\BOOKMARK [0][-]{chapter.6}{Negocio}{part.2}% 76
+\BOOKMARK [1][-]{section.6.1}{Introduccion}{chapter.6}% 77
+\BOOKMARK [1][-]{section.6.2}{Metamodelo}{chapter.6}% 78
+\BOOKMARK [1][-]{section.6.3}{Punto de Vista de Mapa de Capacidad}{chapter.6}% 79
+\BOOKMARK [2][-]{subsection.6.3.1}{Modelo de Implicados}{section.6.3}% 80
+\BOOKMARK [2][-]{subsection.6.3.2}{Caso de Implicados}{section.6.3}% 81
+\BOOKMARK [0][-]{chapter.7}{Aplicacion}{part.2}% 82
+\BOOKMARK [1][-]{section.7.1}{Introduccion}{chapter.7}% 83
+\BOOKMARK [1][-]{section.7.2}{Metamodelo}{chapter.7}% 84
+\BOOKMARK [1][-]{section.7.3}{Punto de Vista de Comportamiento de Aplicacion}{chapter.7}% 85
+\BOOKMARK [2][-]{subsection.7.3.1}{Modelo de Implicados}{section.7.3}% 86
+\BOOKMARK [2][-]{subsection.7.3.2}{Caso de Implicados}{section.7.3}% 87
+\BOOKMARK [0][-]{chapter.8}{Tecnologia}{part.2}% 88
+\BOOKMARK [1][-]{section.8.1}{Introduccion}{chapter.8}% 89
+\BOOKMARK [1][-]{section.8.2}{Metamodelo}{chapter.8}% 90
+\BOOKMARK [1][-]{section.8.3}{Punto de Vista de Implementacion y Despliegue}{chapter.8}% 91
+\BOOKMARK [2][-]{subsection.8.3.1}{Modelo de Implementacion y Despliegue}{section.8.3}% 92
+\BOOKMARK [2][-]{subsection.8.3.2}{Caso de Implementacion y Despliegue}{section.8.3}% 93
+\BOOKMARK [0][-]{chapter.9}{Proyecto}{part.2}% 94
+\BOOKMARK [1][-]{section.9.1}{Introduccion}{chapter.9}% 95
+\BOOKMARK [1][-]{section.9.2}{Metamodelo}{chapter.9}% 96
+\BOOKMARK [1][-]{section.9.3}{Punto de Vista de Proyecto}{chapter.9}% 97
+\BOOKMARK [2][-]{subsection.9.3.1}{Modelo de Proyecto}{section.9.3}% 98
+\BOOKMARK [2][-]{subsection.9.3.2}{Caso de Proyecto}{section.9.3}% 99
+\BOOKMARK [-1][-]{part.3}{III DISE\321O}{}% 100
+\BOOKMARK [0][-]{chapter.10}{Creacionales}{part.3}% 101
+\BOOKMARK [1][-]{section.10.1}{Introduccion}{chapter.10}% 102
+\BOOKMARK [2][-]{subsection.10.1.1}{Patron ...}{section.10.1}% 103
+\BOOKMARK [-1][-]{part.4}{IV REFLEXIONES}{}% 104
+\BOOKMARK [0][-]{chapter.11}{Conclusiones}{part.4}% 105
+\BOOKMARK [1][-]{section.11.1}{Introduccion}{chapter.11}% 106
