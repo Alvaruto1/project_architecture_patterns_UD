@@ -1,158 +1,163 @@
 \babel@toc {spanish}{}
-\contentsline {part}{I\hspace {1em}PROYECTO}{9}{part.1}
-\contentsline {chapter}{\numberline {1}Empresa}{11}{chapter.1}
-\contentsline {section}{\numberline {1.1}Introducci\IeC {\'o}n}{11}{section.1.1}
-\contentsline {section}{\numberline {1.2}Organizaci\IeC {\'o}n-Ministerio de Educaci\IeC {\'o}n \\ Nacional (MEN)}{12}{section.1.2}
-\contentsline {section}{\numberline {1.3}Mision}{12}{section.1.3}
-\contentsline {section}{\numberline {1.4}Vision}{13}{section.1.4}
-\contentsline {section}{\numberline {1.5}Objetivos}{14}{section.1.5}
-\contentsline {subsection}{\numberline {1.5.1}General}{14}{subsection.1.5.1}
-\contentsline {subsection}{\numberline {1.5.2}Espec\IeC {\'\i }ficos}{14}{subsection.1.5.2}
-\contentsline {section}{\numberline {1.6}Organigrama}{15}{section.1.6}
-\contentsline {section}{\numberline {1.7}Procesos}{15}{section.1.7}
-\contentsline {section}{\numberline {1.8}Servicios}{17}{section.1.8}
-\contentsline {section}{\numberline {1.9}Productos}{19}{section.1.9}
-\contentsline {section}{\numberline {1.10}Requerimientos}{19}{section.1.10}
-\contentsline {section}{\numberline {1.11}Valores Corporativos}{20}{section.1.11}
-\contentsline {section}{\numberline {1.12}Principios Corporativos}{24}{section.1.12}
-\contentsline {chapter}{\numberline {2}Metodolog\IeC {\'\i }a}{25}{chapter.2}
-\contentsline {section}{\numberline {2.1}Introducci\IeC {\'o}n}{25}{section.2.1}
-\contentsline {section}{\numberline {2.2}ADM}{27}{section.2.2}
-\contentsline {part}{II\hspace {1em}ARQUITECURA}{29}{part.2}
-\contentsline {chapter}{\numberline {3}Lenguaje: ArchiMate}{31}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introducci\IeC {\'o}n}{31}{section.3.1}
-\contentsline {section}{\numberline {3.2}Conceptos y su notaci\IeC {\'o}n}{32}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Meta}{33}{subsection.3.2.1}
-\contentsline {subsubsection}{Elementos de la Estructura}{34}{section*.3}
-\contentsline {subsection}{\numberline {3.2.2}Motivaci\IeC {\'o}n}{36}{subsection.3.2.2}
-\contentsline {subsubsection}{Elementos de la Estructura}{37}{section*.4}
-\contentsline {subsection}{\numberline {3.2.3}Estrategia}{38}{subsection.3.2.3}
-\contentsline {subsubsection}{Elementos de la Estructura}{39}{section*.5}
-\contentsline {subsection}{\numberline {3.2.4}Negocio}{39}{subsection.3.2.4}
-\contentsline {subsubsection}{Elementos de la Estructura}{40}{section*.6}
-\contentsline {subsection}{\numberline {3.2.5}Aplicaci\IeC {\'o}n}{41}{subsection.3.2.5}
-\contentsline {subsubsection}{Elementos de la Estructura}{42}{section*.7}
-\contentsline {subsection}{\numberline {3.2.6}Tecnolog\IeC {\'\i }a}{43}{subsection.3.2.6}
-\contentsline {subsubsection}{Elementos de la Estructura}{44}{section*.8}
-\contentsline {subsection}{\numberline {3.2.7}F\IeC {\'\i }sico}{49}{subsection.3.2.7}
-\contentsline {subsubsection}{Elementos de la Estructura}{50}{section*.9}
-\contentsline {section}{\numberline {3.3}Relaciones}{50}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Relaciones Estructurales}{51}{subsection.3.3.1}
-\contentsline {subsubsection}{Elementos}{51}{section*.10}
-\contentsline {subsection}{\numberline {3.3.2}Relaciones de Dependencia}{51}{subsection.3.3.2}
-\contentsline {subsubsection}{Elementos}{52}{section*.11}
-\contentsline {subsection}{\numberline {3.3.3}Relaciones Din\IeC {\'a}micas}{53}{subsection.3.3.3}
-\contentsline {subsubsection}{Elementos}{53}{section*.12}
-\contentsline {subsection}{\numberline {3.3.4}Otras Relaciones}{53}{subsection.3.3.4}
-\contentsline {subsubsection}{Elementos}{53}{section*.13}
-\contentsline {section}{\numberline {3.4}Puntos de Vista}{54}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Punto de Vista Motivacional}{54}{subsection.3.4.1}
-\contentsline {subsubsection}{Punto de Vista Implicado}{54}{section*.14}
-\contentsline {subsubsection}{Elementos}{54}{section*.15}
-\contentsline {subsubsection}{Punto de vista de la realizaci\IeC {\'o}n de objetivos}{54}{section*.16}
-\contentsline {subsubsection}{Elementos}{55}{section*.17}
-\contentsline {subsubsection}{Punto de vista de la realizaci\IeC {\'o}n de requisitos}{55}{section*.18}
-\contentsline {subsubsection}{Elementos}{56}{section*.19}
-\contentsline {subsubsection}{Punto de vista de la motivaci\IeC {\'o}n}{56}{section*.20}
-\contentsline {subsubsection}{Elementos}{56}{section*.21}
-\contentsline {subsection}{\numberline {3.4.2}Punto de Vista Estrat\IeC {\'e}gico}{57}{subsection.3.4.2}
-\contentsline {subsubsection}{Punto de vista de estrategia}{57}{section*.22}
-\contentsline {subsubsection}{Punto de vista del mapeado de las capacidades}{58}{section*.23}
-\contentsline {subsubsection}{Punto de vista del flujo del valor}{58}{section*.24}
-\contentsline {subsubsection}{Punto de vista realizaci\IeC {\'o}n de resultados}{58}{section*.25}
-\contentsline {subsubsection}{Punto de vista mapeado de recursos}{58}{section*.26}
-\contentsline {subsection}{\numberline {3.4.3}Punto de Vista del Negocio}{60}{subsection.3.4.3}
-\contentsline {subsubsection}{Punto de vista de organizaci\IeC {\'o}n}{60}{section*.27}
-\contentsline {subsubsection}{Punto de Vista de Funci\IeC {\'o}n de Negocio}{60}{section*.28}
-\contentsline {subsubsection}{Punto de Vista de Proceso de Negocio}{61}{section*.29}
-\contentsline {subsubsection}{Punto de Vista de Cooperaci\IeC {\'o}n de Proceso de Negocio}{61}{section*.30}
-\contentsline {subsubsection}{Punto de Vista de Producto}{62}{section*.31}
-\contentsline {subsection}{\numberline {3.4.4}Punto de Vista de la Aplicaci\IeC {\'o}n}{63}{subsection.3.4.4}
-\contentsline {subsubsection}{Punto de Vista de comportamiento}{63}{section*.32}
-\contentsline {subsubsection}{Punto de Vista de cooperacion}{63}{section*.33}
-\contentsline {subsubsection}{Punto de Vista de estructura}{64}{section*.34}
-\contentsline {subsubsection}{Punto de Vista de uso}{65}{section*.35}
-\contentsline {subsection}{\numberline {3.4.5}Punto de Vista de la Tecnolog\IeC {\'\i }a}{65}{subsection.3.4.5}
-\contentsline {subsubsection}{Punto de vista de uso de infraestructura}{65}{section*.36}
-\contentsline {subsubsection}{Modelo de uso de infraestructura}{66}{section*.37}
-\contentsline {subsubsection}{ Punto de vista de Implementaci\IeC {\'o}n y despliegue}{66}{section*.38}
-\contentsline {subsubsection}{Modelo de implementaci\IeC {\'o}n y despliegue}{67}{section*.39}
-\contentsline {chapter}{\numberline {4}Motivacional}{69}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introducci\IeC {\'o}n}{69}{section.4.1}
-\contentsline {section}{\numberline {4.2}Metamodelo}{71}{section.4.2}
-\contentsline {section}{\numberline {4.3}Punto de Vista de Implicados}{72}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Modelo de Implicados}{72}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Caso de Implicados}{73}{subsection.4.3.2}
-\contentsline {section}{\numberline {4.4}Punto de Vista de la Realizaci\IeC {\'o}n de Objetivos}{74}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Modelo de la Realizaci\IeC {\'o}n de Objetivos}{74}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Caso de la Realizaci\IeC {\'o}n de Objetivos}{75}{subsection.4.4.2}
-\contentsline {section}{\numberline {4.5}Punto de Vista de Contribuci\IeC {\'o}n de Objetivos}{76}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}Modelo de Contribuci\IeC {\'o}n de Objetivos}{76}{subsection.4.5.1}
-\contentsline {subsection}{\numberline {4.5.2}Caso de Contribuci\IeC {\'o}n de Objetivos}{77}{subsection.4.5.2}
-\contentsline {section}{\numberline {4.6}Punto de Vista de Principios}{78}{section.4.6}
-\contentsline {subsection}{\numberline {4.6.1}Modelo de Principios}{78}{subsection.4.6.1}
-\contentsline {subsection}{\numberline {4.6.2}Caso de Principios}{78}{subsection.4.6.2}
-\contentsline {subsection}{\numberline {4.6.3}Caso de Principios}{79}{subsection.4.6.3}
-\contentsline {section}{\numberline {4.7}Punto de Vista de Realizaci\IeC {\'o}n de Requerimientos}{81}{section.4.7}
-\contentsline {subsection}{\numberline {4.7.1}Modelo de Realizaci\IeC {\'o}n de Requerimientos}{81}{subsection.4.7.1}
-\contentsline {subsection}{\numberline {4.7.2}Caso de Contribuci\IeC {\'o}n de Objetivos}{82}{subsection.4.7.2}
-\contentsline {section}{\numberline {4.8}Punto de Vista de Motivaci\IeC {\'o}n}{84}{section.4.8}
-\contentsline {subsection}{\numberline {4.8.1}Modelo de Motivaci\IeC {\'o}n}{84}{subsection.4.8.1}
-\contentsline {subsection}{\numberline {4.8.2}Caso de Motivaci\IeC {\'o}n}{85}{subsection.4.8.2}
-\contentsline {chapter}{\numberline {5}Estrategia}{87}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduccion}{87}{section.5.1}
-\contentsline {section}{\numberline {5.2}Metamodelo}{88}{section.5.2}
-\contentsline {section}{\numberline {5.3}Punto de Vista de Mapa de Capacidad}{89}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Modelo de Mapa de Capacidad}{89}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Caso de Mapa de Capacidad}{90}{subsection.5.3.2}
-\contentsline {subsubsection}{Resutlado 1: Mejores Investigadores e Investigaciones}{90}{section*.40}
-\contentsline {subsubsection}{Resutlado 2: Generaci\IeC {\'o}n de Estudiantes de Alta Calidad}{91}{section*.41}
-\contentsline {section}{\numberline {5.4}Punto de Vista de Realizaci\IeC {\'o}n de resultado}{92}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Modelo de Realizaci\IeC {\'o}n de resultado}{92}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Caso de Realizaci\IeC {\'o}n de resultado}{93}{subsection.5.4.2}
-\contentsline {subsubsection}{Resultado 1: Mejores Investigadores e Investigaciones}{93}{section*.42}
-\contentsline {subsubsection}{Resultado 2: Generaci\IeC {\'o}n de Estudiantes de Alta Calidad}{94}{section*.43}
-\contentsline {section}{\numberline {5.5}Punto de Vista de Mapa de Recurso}{95}{section.5.5}
-\contentsline {subsection}{\numberline {5.5.1}Modelo de Mapa de Recurso}{95}{subsection.5.5.1}
-\contentsline {subsection}{\numberline {5.5.2}Caso de Mapa de Recurso}{96}{subsection.5.5.2}
-\contentsline {subsubsection}{Resultado 1: Mejores Investigadores e Investigaciones}{96}{section*.44}
-\contentsline {subsubsection}{Resultado 2: Generaci\IeC {\'o}n de Estudiantes de Alta Calidad}{97}{section*.45}
-\contentsline {chapter}{\numberline {6}Negocio}{99}{chapter.6}
-\contentsline {section}{\numberline {6.1}Introduccion}{99}{section.6.1}
-\contentsline {section}{\numberline {6.2}Metamodelo}{100}{section.6.2}
-\contentsline {section}{\numberline {6.3}Punto de Vista de Mapa de Capacidad}{101}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Modelo de Implicados}{101}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}Caso de Implicados}{102}{subsection.6.3.2}
-\contentsline {chapter}{\numberline {7}Aplicacion}{103}{chapter.7}
-\contentsline {section}{\numberline {7.1}Introduccion}{103}{section.7.1}
-\contentsline {section}{\numberline {7.2}Metamodelo}{104}{section.7.2}
-\contentsline {section}{\numberline {7.3}Punto de Vista de Comportamiento de Aplicacion}{105}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}Modelo de Implicados}{105}{subsection.7.3.1}
-\contentsline {subsection}{\numberline {7.3.2}Caso de Implicados}{106}{subsection.7.3.2}
-\contentsline {chapter}{\numberline {8}Tecnologia}{107}{chapter.8}
-\contentsline {section}{\numberline {8.1}Introduccion}{107}{section.8.1}
-\contentsline {section}{\numberline {8.2}Metamodelo}{108}{section.8.2}
-\contentsline {section}{\numberline {8.3}Punto de Vista de Implementacion y Despliegue}{109}{section.8.3}
-\contentsline {subsection}{\numberline {8.3.1}Modelo de Implementacion y Despliegue}{109}{subsection.8.3.1}
-\contentsline {subsection}{\numberline {8.3.2}Caso de Implementacion y Despliegue}{110}{subsection.8.3.2}
-\contentsline {chapter}{\numberline {9}Proyecto}{111}{chapter.9}
-\contentsline {section}{\numberline {9.1}Introduccion}{111}{section.9.1}
-\contentsline {section}{\numberline {9.2}Metamodelo}{112}{section.9.2}
-\contentsline {section}{\numberline {9.3}Punto de Vista de Proyecto}{113}{section.9.3}
-\contentsline {subsection}{\numberline {9.3.1}Modelo de Proyecto}{113}{subsection.9.3.1}
-\contentsline {subsection}{\numberline {9.3.2}Caso de Proyecto}{114}{subsection.9.3.2}
-\contentsline {part}{III\hspace {1em}DISE\IeC {\~N}O}{115}{part.3}
-\contentsline {chapter}{\numberline {10}Creacionales}{117}{chapter.10}
-\contentsline {section}{\numberline {10.1}Introduccion}{117}{section.10.1}
-\contentsline {subsection}{\numberline {10.1.1}Patron ...}{118}{subsection.10.1.1}
-\contentsline {subsubsection}{Realizacion del Modelo....}{118}{section*.46}
-\contentsline {subsubsection}{Funcionamiento del Modelo....}{118}{section*.47}
-\contentsline {subsubsection}{Estructura del Modelo ....}{118}{section*.48}
-\contentsline {subsubsection}{Codigo del Modelo....}{119}{section*.49}
-\contentsline {subsubsection}{Realizacion del Caso....}{119}{section*.50}
-\contentsline {subsubsection}{Funcionamiento del Caso....}{119}{section*.51}
-\contentsline {subsubsection}{Estructura del Caso....}{120}{section*.52}
-\contentsline {subsubsection}{Codigo del Caso....}{120}{section*.53}
-\contentsline {part}{IV\hspace {1em}REFLEXIONES}{121}{part.4}
-\contentsline {chapter}{\numberline {11}Conclusiones}{123}{chapter.11}
-\contentsline {section}{\numberline {11.1}Introduccion}{123}{section.11.1}
+\contentsline {part}{I\hspace {1em}PROYECTO}{9}{part.1}%
+\contentsline {chapter}{\numberline {1}Empresa}{11}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introducción}{11}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Organización-Ministerio de Educación \\ Nacional (MEN)}{12}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Mision}{12}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Vision}{13}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Objetivos}{14}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}General}{14}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Específicos}{14}{subsection.1.5.2}%
+\contentsline {section}{\numberline {1.6}Organigrama}{15}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Procesos}{15}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Servicios}{17}{section.1.8}%
+\contentsline {section}{\numberline {1.9}Productos}{19}{section.1.9}%
+\contentsline {section}{\numberline {1.10}Requerimientos}{19}{section.1.10}%
+\contentsline {section}{\numberline {1.11}Valores Corporativos}{20}{section.1.11}%
+\contentsline {section}{\numberline {1.12}Principios Corporativos}{24}{section.1.12}%
+\contentsline {chapter}{\numberline {2}Metodología}{25}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introducción}{25}{section.2.1}%
+\contentsline {section}{\numberline {2.2}ADM}{27}{section.2.2}%
+\contentsline {part}{II\hspace {1em}ARQUITECURA}{29}{part.2}%
+\contentsline {chapter}{\numberline {3}Lenguaje: ArchiMate}{31}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introducción}{31}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Conceptos y su notación}{32}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Meta}{33}{subsection.3.2.1}%
+\contentsline {subsubsection}{Elementos de la Estructura}{34}{section*.3}%
+\contentsline {subsection}{\numberline {3.2.2}Motivación}{36}{subsection.3.2.2}%
+\contentsline {subsubsection}{Elementos de la Estructura}{37}{section*.4}%
+\contentsline {subsection}{\numberline {3.2.3}Estrategia}{38}{subsection.3.2.3}%
+\contentsline {subsubsection}{Elementos de la Estructura}{39}{section*.5}%
+\contentsline {subsection}{\numberline {3.2.4}Negocio}{39}{subsection.3.2.4}%
+\contentsline {subsubsection}{Elementos de la Estructura}{40}{section*.6}%
+\contentsline {subsection}{\numberline {3.2.5}Aplicación}{41}{subsection.3.2.5}%
+\contentsline {subsubsection}{Elementos de la Estructura}{42}{section*.7}%
+\contentsline {subsection}{\numberline {3.2.6}Tecnología}{43}{subsection.3.2.6}%
+\contentsline {subsubsection}{Elementos de la Estructura}{44}{section*.8}%
+\contentsline {subsection}{\numberline {3.2.7}Físico}{49}{subsection.3.2.7}%
+\contentsline {subsubsection}{Elementos de la Estructura}{50}{section*.9}%
+\contentsline {section}{\numberline {3.3}Relaciones}{50}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Relaciones Estructurales}{51}{subsection.3.3.1}%
+\contentsline {subsubsection}{Elementos}{51}{section*.10}%
+\contentsline {subsection}{\numberline {3.3.2}Relaciones de Dependencia}{51}{subsection.3.3.2}%
+\contentsline {subsubsection}{Elementos}{52}{section*.11}%
+\contentsline {subsection}{\numberline {3.3.3}Relaciones Dinámicas}{53}{subsection.3.3.3}%
+\contentsline {subsubsection}{Elementos}{53}{section*.12}%
+\contentsline {subsection}{\numberline {3.3.4}Otras Relaciones}{53}{subsection.3.3.4}%
+\contentsline {subsubsection}{Elementos}{53}{section*.13}%
+\contentsline {section}{\numberline {3.4}Puntos de Vista}{54}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Punto de Vista Motivacional}{54}{subsection.3.4.1}%
+\contentsline {subsubsection}{Punto de Vista Implicado}{54}{section*.14}%
+\contentsline {subsubsection}{Elementos}{54}{section*.15}%
+\contentsline {subsubsection}{Punto de vista de la realización de objetivos}{54}{section*.16}%
+\contentsline {subsubsection}{Elementos}{55}{section*.17}%
+\contentsline {subsubsection}{Punto de vista de la realización de requisitos}{55}{section*.18}%
+\contentsline {subsubsection}{Elementos}{56}{section*.19}%
+\contentsline {subsubsection}{Punto de vista de la motivación}{56}{section*.20}%
+\contentsline {subsubsection}{Elementos}{56}{section*.21}%
+\contentsline {subsection}{\numberline {3.4.2}Punto de Vista Estratégico}{57}{subsection.3.4.2}%
+\contentsline {subsubsection}{Punto de vista de estrategia}{57}{section*.22}%
+\contentsline {subsubsection}{Punto de vista del mapeado de las capacidades}{58}{section*.23}%
+\contentsline {subsubsection}{Punto de vista del flujo del valor}{58}{section*.24}%
+\contentsline {subsubsection}{Punto de vista realización de resultados}{58}{section*.25}%
+\contentsline {subsubsection}{Punto de vista mapeado de recursos}{58}{section*.26}%
+\contentsline {subsection}{\numberline {3.4.3}Punto de Vista del Negocio}{60}{subsection.3.4.3}%
+\contentsline {subsubsection}{Punto de vista de organización}{60}{section*.27}%
+\contentsline {subsubsection}{Punto de Vista de Función de Negocio}{60}{section*.28}%
+\contentsline {subsubsection}{Punto de Vista de Proceso de Negocio}{61}{section*.29}%
+\contentsline {subsubsection}{Punto de Vista de Cooperación de Proceso de Negocio}{61}{section*.30}%
+\contentsline {subsubsection}{Punto de Vista de Producto}{62}{section*.31}%
+\contentsline {subsection}{\numberline {3.4.4}Punto de Vista de la Aplicación}{63}{subsection.3.4.4}%
+\contentsline {subsubsection}{Punto de Vista de comportamiento}{63}{section*.32}%
+\contentsline {subsubsection}{Punto de Vista de cooperacion}{63}{section*.33}%
+\contentsline {subsubsection}{Punto de Vista de estructura}{64}{section*.34}%
+\contentsline {subsubsection}{Punto de Vista de uso}{65}{section*.35}%
+\contentsline {subsection}{\numberline {3.4.5}Punto de Vista de la Tecnología}{65}{subsection.3.4.5}%
+\contentsline {subsubsection}{Punto de vista de uso de infraestructura}{65}{section*.36}%
+\contentsline {subsubsection}{Modelo de uso de infraestructura}{66}{section*.37}%
+\contentsline {subsubsection}{ Punto de vista de Implementación y despliegue}{66}{section*.38}%
+\contentsline {subsubsection}{Modelo de implementación y despliegue}{67}{section*.39}%
+\contentsline {chapter}{\numberline {4}Motivacional}{69}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introducción}{69}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Metamodelo}{71}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Punto de Vista de Implicados}{72}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Modelo de Implicados}{72}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Caso de Implicados}{73}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}Punto de Vista de la Realización de Objetivos}{74}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Modelo de la Realización de Objetivos}{74}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Caso de la Realización de Objetivos}{75}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}Punto de Vista de Contribución de Objetivos}{76}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Modelo de Contribución de Objetivos}{76}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Caso de Contribución de Objetivos}{77}{subsection.4.5.2}%
+\contentsline {section}{\numberline {4.6}Punto de Vista de Principios}{78}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Modelo de Principios}{78}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Caso de Principios}{78}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}Caso de Principios}{79}{subsection.4.6.3}%
+\contentsline {section}{\numberline {4.7}Punto de Vista de Realización de Requerimientos}{81}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Modelo de Realización de Requerimientos}{81}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Caso de Contribución de Objetivos}{82}{subsection.4.7.2}%
+\contentsline {section}{\numberline {4.8}Punto de Vista de Motivación}{84}{section.4.8}%
+\contentsline {subsection}{\numberline {4.8.1}Modelo de Motivación}{84}{subsection.4.8.1}%
+\contentsline {subsection}{\numberline {4.8.2}Caso de Motivación}{85}{subsection.4.8.2}%
+\contentsline {chapter}{\numberline {5}Estrategia}{87}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introducción}{87}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Metamodelo}{88}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Punto de Vista de Estrategia}{89}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Modelo de Estrategia}{89}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Caso de Estrategia}{90}{subsection.5.3.2}%
+\contentsline {subsubsection}{Resultado 1: Mejores Investigadores e Investigaciones}{90}{section*.40}%
+\contentsline {subsubsection}{Resultado 2: Generación de Estudiantes de Alta Calidad}{91}{section*.41}%
+\contentsline {section}{\numberline {5.4}Punto de Vista de Mapa de Capacidad}{92}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Modelo de Mapa de Capacidad}{92}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Caso de Mapa de Capacidad}{93}{subsection.5.4.2}%
+\contentsline {subsubsection}{Resutlado 1: Mejores Investigadores e Investigaciones}{93}{section*.42}%
+\contentsline {subsubsection}{Resutlado 2: Generación de Estudiantes de Alta Calidad}{94}{section*.43}%
+\contentsline {section}{\numberline {5.5}Punto de Vista de Realización de resultado}{95}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Modelo de Realización de resultado}{95}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}Caso de Realización de resultado}{96}{subsection.5.5.2}%
+\contentsline {subsubsection}{Resultado 1: Mejores Investigadores e Investigaciones}{96}{section*.44}%
+\contentsline {subsubsection}{Resultado 2: Generación de Estudiantes de Alta Calidad}{97}{section*.45}%
+\contentsline {section}{\numberline {5.6}Punto de Vista de Mapa de Recurso}{98}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}Modelo de Mapa de Recurso}{98}{subsection.5.6.1}%
+\contentsline {subsection}{\numberline {5.6.2}Caso de Mapa de Recurso}{99}{subsection.5.6.2}%
+\contentsline {subsubsection}{Resultado 1: Mejores Investigadores e Investigaciones}{99}{section*.46}%
+\contentsline {subsubsection}{Resultado 2: Generación de Estudiantes de Alta Calidad}{100}{section*.47}%
+\contentsline {chapter}{\numberline {6}Negocio}{101}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Introduccion}{101}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Metamodelo}{102}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Punto de Vista de Mapa de Capacidad}{103}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Modelo de Implicados}{103}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Caso de Implicados}{104}{subsection.6.3.2}%
+\contentsline {chapter}{\numberline {7}Aplicacion}{105}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Introduccion}{105}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Metamodelo}{106}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Punto de Vista de Comportamiento de Aplicacion}{107}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Modelo de Implicados}{107}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}Caso de Implicados}{108}{subsection.7.3.2}%
+\contentsline {chapter}{\numberline {8}Tecnologia}{109}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Introduccion}{109}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Metamodelo}{110}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Punto de Vista de Implementacion y Despliegue}{111}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}Modelo de Implementacion y Despliegue}{111}{subsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.3.2}Caso de Implementacion y Despliegue}{112}{subsection.8.3.2}%
+\contentsline {chapter}{\numberline {9}Proyecto}{113}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Introduccion}{113}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Metamodelo}{114}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Punto de Vista de Proyecto}{115}{section.9.3}%
+\contentsline {subsection}{\numberline {9.3.1}Modelo de Proyecto}{115}{subsection.9.3.1}%
+\contentsline {subsection}{\numberline {9.3.2}Caso de Proyecto}{116}{subsection.9.3.2}%
+\contentsline {part}{III\hspace {1em}DISEÑO}{117}{part.3}%
+\contentsline {chapter}{\numberline {10}Creacionales}{119}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Introduccion}{119}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}Patron ...}{120}{subsection.10.1.1}%
+\contentsline {subsubsection}{Realizacion del Modelo....}{120}{section*.48}%
+\contentsline {subsubsection}{Funcionamiento del Modelo....}{120}{section*.49}%
+\contentsline {subsubsection}{Estructura del Modelo ....}{120}{section*.50}%
+\contentsline {subsubsection}{Codigo del Modelo....}{121}{section*.51}%
+\contentsline {subsubsection}{Realizacion del Caso....}{121}{section*.52}%
+\contentsline {subsubsection}{Funcionamiento del Caso....}{121}{section*.53}%
+\contentsline {subsubsection}{Estructura del Caso....}{122}{section*.54}%
+\contentsline {subsubsection}{Codigo del Caso....}{122}{section*.55}%
+\contentsline {part}{IV\hspace {1em}REFLEXIONES}{123}{part.4}%
+\contentsline {chapter}{\numberline {11}Conclusiones}{125}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Introduccion}{125}{section.11.1}%
