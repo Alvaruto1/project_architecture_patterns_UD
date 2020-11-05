@@ -7,13 +7,17 @@ A level-1 auxiliary file: arquitectura/motivacion/contribucionObj.aux
 A level-1 auxiliary file: arquitectura/motivacion/principios.aux
 A level-1 auxiliary file: arquitectura/motivacion/realizacionReq.aux
 A level-1 auxiliary file: arquitectura/motivacion/motivacion.aux
+A level-1 auxiliary file: arquitectura/estrategia/estrategia.aux
+A level-1 auxiliary file: arquitectura/estrategia/capacidad.aux
+A level-1 auxiliary file: arquitectura/estrategia/resultado.aux
+A level-1 auxiliary file: arquitectura/estrategia/recurso.aux
 The style file: plain.bst
 Database file #1: referencias/libros.bib
 Database file #2: referencias/articulos.bib
 Warning--to sort, need author, organization, or key in archi3.1
 You've used 5 entries,
             2118 wiz_defined-function locations,
-            529 strings with 5268 characters,
+            533 strings with 5415 characters,
 and the built_in function-call counts, 2047 in all, are:
 = -- 198
 > -- 67
