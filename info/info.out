@@ -62,51 +62,48 @@
 \BOOKMARK [2][-]{subsection.4.8.1}{Modelo de Motivaci\363n}{section.4.8}% 62
 \BOOKMARK [2][-]{subsection.4.8.2}{Caso de Motivaci\363n}{section.4.8}% 63
 \BOOKMARK [0][-]{chapter.5}{Estrategia}{part.2}% 64
-\BOOKMARK [1][-]{section.5.1}{Introducci\363n}{chapter.5}% 65
+\BOOKMARK [1][-]{section.5.1}{Introduccion}{chapter.5}% 65
 \BOOKMARK [1][-]{section.5.2}{Metamodelo}{chapter.5}% 66
-\BOOKMARK [1][-]{section.5.3}{Punto de Vista de Estrategia}{chapter.5}% 67
-\BOOKMARK [2][-]{subsection.5.3.1}{Modelo de Estrategia}{section.5.3}% 68
-\BOOKMARK [2][-]{subsection.5.3.2}{Caso de Estrategia}{section.5.3}% 69
-\BOOKMARK [1][-]{section.5.4}{Punto de Vista de Mapa de Capacidad}{chapter.5}% 70
-\BOOKMARK [2][-]{subsection.5.4.1}{Modelo de Mapa de Capacidad}{section.5.4}% 71
-\BOOKMARK [2][-]{subsection.5.4.2}{Caso de Mapa de Capacidad}{section.5.4}% 72
-\BOOKMARK [1][-]{section.5.5}{Punto de Vista de Realizaci\363n de resultado}{chapter.5}% 73
-\BOOKMARK [2][-]{subsection.5.5.1}{Modelo de Realizaci\363n de resultado}{section.5.5}% 74
-\BOOKMARK [2][-]{subsection.5.5.2}{Caso de Realizaci\363n de resultado}{section.5.5}% 75
-\BOOKMARK [1][-]{section.5.6}{Punto de Vista de Mapa de Recurso}{chapter.5}% 76
-\BOOKMARK [2][-]{subsection.5.6.1}{Modelo de Mapa de Recurso}{section.5.6}% 77
-\BOOKMARK [2][-]{subsection.5.6.2}{Caso de Mapa de Recurso}{section.5.6}% 78
-\BOOKMARK [0][-]{chapter.6}{Negocio}{part.2}% 79
-\BOOKMARK [1][-]{section.6.1}{Introduccion}{chapter.6}% 80
-\BOOKMARK [1][-]{section.6.2}{Metamodelo}{chapter.6}% 81
-\BOOKMARK [1][-]{section.6.3}{Punto de Vista de Organizaci\363n}{chapter.6}% 82
-\BOOKMARK [2][-]{subsection.6.3.1}{Modelo de Organizaci\363n}{section.6.3}% 83
-\BOOKMARK [2][-]{subsection.6.3.2}{Caso de Organizaci\363n}{section.6.3}% 84
-\BOOKMARK [1][-]{section.6.4}{Punto de Vista de Proceso de Negocio}{chapter.6}% 85
-\BOOKMARK [2][-]{subsection.6.4.1}{Modelo de Proceso de Negocio}{section.6.4}% 86
-\BOOKMARK [2][-]{subsection.6.4.2}{Caso de Proceso de Negocio}{section.6.4}% 87
-\BOOKMARK [0][-]{chapter.7}{Aplicacion}{part.2}% 88
-\BOOKMARK [1][-]{section.7.1}{Introduccion}{chapter.7}% 89
-\BOOKMARK [1][-]{section.7.2}{Metamodelo}{chapter.7}% 90
-\BOOKMARK [1][-]{section.7.3}{Punto de Vista de Comportamiento de Aplicacion}{chapter.7}% 91
-\BOOKMARK [2][-]{subsection.7.3.1}{Modelo de Implicados}{section.7.3}% 92
-\BOOKMARK [2][-]{subsection.7.3.2}{Caso de Implicados}{section.7.3}% 93
-\BOOKMARK [0][-]{chapter.8}{Tecnologia}{part.2}% 94
-\BOOKMARK [1][-]{section.8.1}{Introduccion}{chapter.8}% 95
-\BOOKMARK [1][-]{section.8.2}{Metamodelo}{chapter.8}% 96
-\BOOKMARK [1][-]{section.8.3}{Punto de Vista de Implementacion y Despliegue}{chapter.8}% 97
-\BOOKMARK [2][-]{subsection.8.3.1}{Modelo de Implementacion y Despliegue}{section.8.3}% 98
-\BOOKMARK [2][-]{subsection.8.3.2}{Caso de Implementacion y Despliegue}{section.8.3}% 99
-\BOOKMARK [0][-]{chapter.9}{Proyecto}{part.2}% 100
-\BOOKMARK [1][-]{section.9.1}{Introduccion}{chapter.9}% 101
-\BOOKMARK [1][-]{section.9.2}{Metamodelo}{chapter.9}% 102
-\BOOKMARK [1][-]{section.9.3}{Punto de Vista de Proyecto}{chapter.9}% 103
-\BOOKMARK [2][-]{subsection.9.3.1}{Modelo de Proyecto}{section.9.3}% 104
-\BOOKMARK [2][-]{subsection.9.3.2}{Caso de Proyecto}{section.9.3}% 105
-\BOOKMARK [-1][-]{part.3}{III DISE\321O}{}% 106
-\BOOKMARK [0][-]{chapter.10}{Creacionales}{part.3}% 107
-\BOOKMARK [1][-]{section.10.1}{Introduccion}{chapter.10}% 108
-\BOOKMARK [2][-]{subsection.10.1.1}{Patron ...}{section.10.1}% 109
-\BOOKMARK [-1][-]{part.4}{IV REFLEXIONES}{}% 110
-\BOOKMARK [0][-]{chapter.11}{Conclusiones}{part.4}% 111
-\BOOKMARK [1][-]{section.11.1}{Introduccion}{chapter.11}% 112
+\BOOKMARK [1][-]{section.5.3}{Punto de Vista de Mapa de Capacidad}{chapter.5}% 67
+\BOOKMARK [2][-]{subsection.5.3.1}{Modelo de Mapa de Capacidad}{section.5.3}% 68
+\BOOKMARK [2][-]{subsection.5.3.2}{Caso de Mapa de Capacidad}{section.5.3}% 69
+\BOOKMARK [1][-]{section.5.4}{Punto de Vista de Realizaci\363n de resultado}{chapter.5}% 70
+\BOOKMARK [2][-]{subsection.5.4.1}{Modelo de Realizaci\363n de resultado}{section.5.4}% 71
+\BOOKMARK [2][-]{subsection.5.4.2}{Caso de Realizaci\363n de resultado}{section.5.4}% 72
+\BOOKMARK [1][-]{section.5.5}{Punto de Vista de Mapa de Recurso}{chapter.5}% 73
+\BOOKMARK [2][-]{subsection.5.5.1}{Modelo de Mapa de Recurso}{section.5.5}% 74
+\BOOKMARK [2][-]{subsection.5.5.2}{Caso de Mapa de Recurso}{section.5.5}% 75
+\BOOKMARK [0][-]{chapter.6}{Negocio}{part.2}% 76
+\BOOKMARK [1][-]{section.6.1}{Introduccion}{chapter.6}% 77
+\BOOKMARK [1][-]{section.6.2}{Metamodelo}{chapter.6}% 78
+\BOOKMARK [1][-]{section.6.3}{Punto de Vista de Organizaci\363n}{chapter.6}% 79
+\BOOKMARK [2][-]{subsection.6.3.1}{Modelo de Organizaci\363n}{section.6.3}% 80
+\BOOKMARK [2][-]{subsection.6.3.2}{Caso de Organizaci\363n}{section.6.3}% 81
+\BOOKMARK [1][-]{section.6.4}{Punto de Vista de Proceso de Negocio}{chapter.6}% 82
+\BOOKMARK [2][-]{subsection.6.4.1}{Modelo de Proceso de Negocio}{section.6.4}% 83
+\BOOKMARK [2][-]{subsection.6.4.2}{Caso de Proceso de Negocio}{section.6.4}% 84
+\BOOKMARK [0][-]{chapter.7}{Aplicacion}{part.2}% 85
+\BOOKMARK [1][-]{section.7.1}{Introduccion}{chapter.7}% 86
+\BOOKMARK [1][-]{section.7.2}{Metamodelo}{chapter.7}% 87
+\BOOKMARK [1][-]{section.7.3}{Punto de Vista de Comportamiento de Aplicacion}{chapter.7}% 88
+\BOOKMARK [2][-]{subsection.7.3.1}{Modelo de Implicados}{section.7.3}% 89
+\BOOKMARK [2][-]{subsection.7.3.2}{Caso de Implicados}{section.7.3}% 90
+\BOOKMARK [0][-]{chapter.8}{Tecnologia}{part.2}% 91
+\BOOKMARK [1][-]{section.8.1}{Introduccion}{chapter.8}% 92
+\BOOKMARK [1][-]{section.8.2}{Metamodelo}{chapter.8}% 93
+\BOOKMARK [1][-]{section.8.3}{Punto de Vista de Implementacion y Despliegue}{chapter.8}% 94
+\BOOKMARK [2][-]{subsection.8.3.1}{Modelo de Implementacion y Despliegue}{section.8.3}% 95
+\BOOKMARK [2][-]{subsection.8.3.2}{Caso de Implementacion y Despliegue}{section.8.3}% 96
+\BOOKMARK [0][-]{chapter.9}{Proyecto}{part.2}% 97
+\BOOKMARK [1][-]{section.9.1}{Introduccion}{chapter.9}% 98
+\BOOKMARK [1][-]{section.9.2}{Metamodelo}{chapter.9}% 99
+\BOOKMARK [1][-]{section.9.3}{Punto de Vista de Proyecto}{chapter.9}% 100
+\BOOKMARK [2][-]{subsection.9.3.1}{Modelo de Proyecto}{section.9.3}% 101
+\BOOKMARK [2][-]{subsection.9.3.2}{Caso de Proyecto}{section.9.3}% 102
+\BOOKMARK [-1][-]{part.3}{III DISE\321O}{}% 103
+\BOOKMARK [0][-]{chapter.10}{Creacionales}{part.3}% 104
+\BOOKMARK [1][-]{section.10.1}{Introduccion}{chapter.10}% 105
+\BOOKMARK [2][-]{subsection.10.1.1}{Patron ...}{section.10.1}% 106
+\BOOKMARK [-1][-]{part.4}{IV REFLEXIONES}{}% 107
+\BOOKMARK [0][-]{chapter.11}{Conclusiones}{part.4}% 108
+\BOOKMARK [1][-]{section.11.1}{Introduccion}{chapter.11}% 109

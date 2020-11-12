@@ -32,40 +32,37 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {5.1}{\ignorespaces Metamodelo Motivacional}}{88}{figure.5.1}%
 \contentsline {figure}{\numberline {5.2}{\ignorespaces Modelo Mapa de Capacidad}}{89}{figure.5.2}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Caso Estrategia (Resultado 1)}}{90}{figure.5.3}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Caso Estrategia (Resultado 2)}}{91}{figure.5.4}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Modelo Mapa de Capacidad}}{92}{figure.5.5}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Caso Mapa de Capacidad}}{93}{figure.5.6}%
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Caso Mapa de Capacidad}}{94}{figure.5.7}%
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Modelo Realización de resultado}}{95}{figure.5.8}%
-\contentsline {figure}{\numberline {5.9}{\ignorespaces Caso Realización de resultado}}{96}{figure.5.9}%
-\contentsline {figure}{\numberline {5.10}{\ignorespaces Caso Realización de resultado}}{97}{figure.5.10}%
-\contentsline {figure}{\numberline {5.11}{\ignorespaces Modelo Mapa de Recurso}}{98}{figure.5.11}%
-\contentsline {figure}{\numberline {5.12}{\ignorespaces Caso Mapa de Recurso}}{99}{figure.5.12}%
-\contentsline {figure}{\numberline {5.13}{\ignorespaces Caso Mapa de Recurso}}{100}{figure.5.13}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Caso Mapa de Capacidad}}{90}{figure.5.3}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Caso Mapa de Capacidad}}{91}{figure.5.4}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Modelo Realización de resultado}}{92}{figure.5.5}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Caso Realización de resultado}}{93}{figure.5.6}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Caso Realización de resultado}}{94}{figure.5.7}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Modelo Mapa de Recurso}}{95}{figure.5.8}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Caso Mapa de Recurso}}{96}{figure.5.9}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Caso Mapa de Recurso}}{97}{figure.5.10}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Metamodelo Negocio}}{102}{figure.6.1}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Modelo Organizacion}}{103}{figure.6.2}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Caso Organizacion}}{104}{figure.6.3}%
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Modelo Proceso de Negocio}}{105}{figure.6.4}%
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Caso Proceso de Negocio}}{107}{figure.6.5}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Metamodelo Negocio}}{100}{figure.6.1}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Modelo Organizacion}}{101}{figure.6.2}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Caso Organizacion}}{102}{figure.6.3}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Modelo Proceso de Negocio}}{103}{figure.6.4}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Caso Proceso de Negocio}}{105}{figure.6.5}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1}{\ignorespaces Metamodelo Aplicacion}}{110}{figure.7.1}%
-\contentsline {figure}{\numberline {7.2}{\ignorespaces Modelo Comportamiento de Aplicacion}}{111}{figure.7.2}%
-\contentsline {figure}{\numberline {7.3}{\ignorespaces Caso Comportamiento de Aplicacion}}{112}{figure.7.3}%
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Metamodelo Aplicacion}}{108}{figure.7.1}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Modelo Comportamiento de Aplicacion}}{109}{figure.7.2}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Caso Comportamiento de Aplicacion}}{110}{figure.7.3}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {8.1}{\ignorespaces Metamodelo Tecnologia}}{114}{figure.8.1}%
-\contentsline {figure}{\numberline {8.2}{\ignorespaces Modelo Implementacion y Despliegue}}{115}{figure.8.2}%
-\contentsline {figure}{\numberline {8.3}{\ignorespaces Caso Implementacion y Despliegue}}{116}{figure.8.3}%
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Metamodelo Tecnologia}}{112}{figure.8.1}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Modelo Implementacion y Despliegue}}{113}{figure.8.2}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Caso Implementacion y Despliegue}}{114}{figure.8.3}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {9.1}{\ignorespaces Metamodelo Proyecto}}{118}{figure.9.1}%
-\contentsline {figure}{\numberline {9.2}{\ignorespaces Modelo Proyecto}}{119}{figure.9.2}%
-\contentsline {figure}{\numberline {9.3}{\ignorespaces Caso Proyecto}}{120}{figure.9.3}%
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Metamodelo Proyecto}}{116}{figure.9.1}%
+\contentsline {figure}{\numberline {9.2}{\ignorespaces Modelo Proyecto}}{117}{figure.9.2}%
+\contentsline {figure}{\numberline {9.3}{\ignorespaces Caso Proyecto}}{118}{figure.9.3}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {10.1}{\ignorespaces Modelo de Realizacion Singleton}}{124}{figure.10.1}%
-\contentsline {figure}{\numberline {10.2}{\ignorespaces Modelo de Funcion Singleton}}{124}{figure.10.2}%
-\contentsline {figure}{\numberline {10.3}{\ignorespaces Modelo de Estructura Singleton}}{125}{figure.10.3}%
-\contentsline {figure}{\numberline {10.4}{\ignorespaces Caso de Realizacion Singleton}}{125}{figure.10.4}%
-\contentsline {figure}{\numberline {10.5}{\ignorespaces Caso de Funcion Singleton}}{126}{figure.10.5}%
-\contentsline {figure}{\numberline {10.6}{\ignorespaces Caso de Estructura Singleton}}{126}{figure.10.6}%
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Modelo de Realizacion Singleton}}{122}{figure.10.1}%
+\contentsline {figure}{\numberline {10.2}{\ignorespaces Modelo de Funcion Singleton}}{122}{figure.10.2}%
+\contentsline {figure}{\numberline {10.3}{\ignorespaces Modelo de Estructura Singleton}}{123}{figure.10.3}%
+\contentsline {figure}{\numberline {10.4}{\ignorespaces Caso de Realizacion Singleton}}{123}{figure.10.4}%
+\contentsline {figure}{\numberline {10.5}{\ignorespaces Caso de Funcion Singleton}}{124}{figure.10.5}%
+\contentsline {figure}{\numberline {10.6}{\ignorespaces Caso de Estructura Singleton}}{124}{figure.10.6}%
 \addvspace {10\p@ }
