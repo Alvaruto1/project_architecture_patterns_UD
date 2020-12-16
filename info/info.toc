@@ -175,8 +175,8 @@
 \contentsline {subsection}{\numberline {8.8.1}Modelo de Implementacion y Despliegue}{142}{subsection.8.8.1}%
 \contentsline {subsection}{\numberline {8.8.2}Caso de Implementacion y Despliegue}{143}{subsection.8.8.2}%
 \contentsline {section}{\numberline {8.9}Punto de Vista de Capas}{144}{section.8.9}%
-\contentsline {subsection}{\numberline {8.9.1}Modelo de Implementacion y Despliegue}{144}{subsection.8.9.1}%
-\contentsline {subsection}{\numberline {8.9.2}Caso de Implementacion y Despliegue}{145}{subsection.8.9.2}%
+\contentsline {subsection}{\numberline {8.9.1}Modelo de Capas}{144}{subsection.8.9.1}%
+\contentsline {subsection}{\numberline {8.9.2}Caso de Capas}{145}{subsection.8.9.2}%
 \contentsline {chapter}{\numberline {9}Proyecto}{147}{chapter.9}%
 \contentsline {section}{\numberline {9.1}Introducción}{147}{section.9.1}%
 \contentsline {section}{\numberline {9.2}Metamodelo}{148}{section.9.2}%
